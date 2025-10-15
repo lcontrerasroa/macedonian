@@ -95,14 +95,19 @@ All transformations are performed with a single Python script (Colab-ready) usin
 
 ---
 ```mermaid
-flowchart LR
-  A["EAF (source)"] --> B["List & select tiers"]
-  B --> C["Normalize text"]
-  C --> D{{"mk → ES proxy<br/>script"}}
-  D --> E["New EAF tier<br/>(same boundaries)"]
-  D --> F["proxy.txt<br/>(no timestamps)"]
-  F --> G["WebMAUS (Spanish)<br/>TXT + WAV"]
-  G --> H["TextGrid alignment"]
-  H --> I["Manual correction<br/>in Praat"]
-  I --> J["Integrate back<br/>into original EAF"]
+flowchart TD
+  A["EAF (source)"]
+  B["List and select tiers"]
+  C["Normalize text"]
+  D["mk → ES proxy script"]
+  E["New EAF tier (same boundaries)"]
+  F["proxy.txt (no timestamps)"]
+  G["WebMAUS (Spanish): TXT + WAV"]
+  H["TextGrid alignment"]
+  I["Manual correction in Praat"]
+  J["Integrate back into original EAF"]
+
+  A --> B --> C --> D
+  D --> E
+  D --> F --> G --> H --> I --> J
 ```

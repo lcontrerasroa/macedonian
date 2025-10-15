@@ -94,15 +94,13 @@ Simplified one-to-one rules prioritizing stability and G2P coverage.
 All transformations are performed with a single Python script (Colab-ready) using `pympi-ling` for EAF I/O and pure-Python mappings.
 
 ---
-
-```mermaid
 flowchart LR
-    A[EAF (source)] --> B[List/select tiers]
-    B --> C[Normalize text]
-    C --> D{Script\nmk→ES proxy}
-    D --> E[New EAF tier\n(same boundaries)]
-    D --> F[proxy.txt\n(no timestamps)]
-    F --> G[WebMAUS (Spanish)\nTXT + WAV]
-    G --> H[TextGrid alignment]
-    H --> I[Manual correction\nin Praat]
-    I --> J[Integrate back\ninto original EAF]
+  A["EAF (source)"] --> B["List & select tiers"]
+  B --> C["Normalize text"]
+  C --> D{{"mk → ES proxy<br/>script"}}
+  D --> E["New EAF tier<br/>(same boundaries)"]
+  D --> F["proxy.txt<br/>(no timestamps)"]
+  F --> G["WebMAUS (Spanish)<br/>TXT + WAV"]
+  G --> H["TextGrid alignment"]
+  H --> I["Manual correction<br/>in Praat"]
+  I --> J["Integrate back<br/>into original EAF"]

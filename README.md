@@ -70,13 +70,14 @@ Simplified one-to-one rules prioritizing stability and G2P coverage.
 | ш | /ʃ/ | s | — |
 | ж | /ʒ/ | y | — |
 | х | /x/ | j | as in *jamón* |
-| р | /r/ | r / rr | simple or rolled |
+| р | /r ~ ɾ ~ r̩/ | r / rr | Single phoneme; strong trill word-initially or after /n, l/; can be syllabic |
 | л | /l/ | l | — |
 | љ | /ʎ/ | ll | — |
 | њ | /ɲ/ | ñ | — |
 | ј | /j/ | y | — |
 | ќ | /c/ | ky | — |
-| ѓ | /ɟ/ | y | — |
+| ѓ | /ɟ/ | y | closest phoneme found, WebMAUS recognition performance to be evaluated |
+
 
 ---
 

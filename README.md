@@ -62,8 +62,8 @@ Simplified one-to-one rules prioritizing stability and G2P coverage.
 | в | /v/ | v | — |
 | ф | /f/ | f | — |
 | с | /s/ | s | also replaces Macedonian /z/ |
-| з | /z/ | s | /z/ merged as /s/ |
-| ѕ | /dz/ | ds | /dz/ simplified to /ds/ |
+| з | /z/ | s | /z/ merged as /s/ to keep it from being interpreted as /θ/ |
+| ѕ | /dz/ | ds | /dz/ simplified to /ds/, as above |
 | ц | /ts/ | ts | — |
 | ч | /t͡ʃ/ | ch | — |
 | џ | /d͡ʒ/ | y | — |

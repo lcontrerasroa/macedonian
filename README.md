@@ -6,7 +6,8 @@ Scripts and data workflow for phonetic alignment, annotation and formant extract
 **Goal.** Align Macedonian speech when a direct Macedonian G2P is unavailable. We convert a source ELAN tier into a Spanish-like proxy orthography designed to be robust with WebMAUS-Spanish, obtain a TextGrid alignment, then reintegrate the timing into the original EAF.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/github/<USER>/<REPO>/blob/main/notebooks/EAF2MAUS.ipynb)
+https://colab.research.google.com/github/lcontrerasroa/EAF2MAUS/blob/main/notebooks/EAF2MAUS.ipynb)
+
 
 ---
 

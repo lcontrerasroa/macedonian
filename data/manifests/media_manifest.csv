@@ -1,0 +1,42 @@
+# save as tools/make_media_manifest.py and run locally with Python 3.10+
+import csv, hashlib, os, wave, contextlib
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parents[1]
+MEDIA = ROOT / "data" / "media_local"
+MANIFEST = ROOT / "data" / "manifests" / "media_manifest.csv"
+MANIFEST.parent.mkdir(parents=True, exist_ok=True)
+
+def md5sum(path, bufsize=1024*1024):
+    h = hashlib.md5()
+    with open(path, "rb") as f:
+        while True:
+            chunk = f.read(bufsize)
+            if not chunk: break
+            h.update(chunk)
+    return h.hexdigest()
+
+def wav_duration(p):
+    try:
+        with contextlib.closing(wave.open(str(p), "rb")) as w:
+            frames = w.getnframes()
+            rate = w.getframerate()
+            return frames / float(rate)
+    except Exception:
+        return ""
+
+rows = []
+for p in sorted(MEDIA.rglob("*")):
+    if not p.is_file(): continue
+    if p.suffix.lower() in [".wav", ".mp3", ".flac", ".mp4", ".m4a"]:
+        rel = p.relative_to(ROOT).as_posix()
+        size = p.stat().st_size
+        md5 = md5sum(p)
+        dur = wav_duration(p) if p.suffix.lower()==".wav" else ""
+        rows.append({"path": rel, "bytes": size, "md5": md5, "duration_sec": dur})
+
+with open(MANIFEST, "w", newline="", encoding="utf-8") as f:
+    w = csv.DictWriter(f, fieldnames=["path","bytes","md5","duration_sec"])
+    w.writeheader(); w.writerows(rows)
+
+print(f"Wrote {MANIFEST} with {len(rows)} rows")

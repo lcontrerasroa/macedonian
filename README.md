@@ -94,6 +94,7 @@ Simplified one-to-one rules prioritizing stability and G2P coverage.
 All transformations are performed with a single Python script (Colab-ready) using `pympi-ling` for EAF I/O and pure-Python mappings.
 
 ---
+```mermaid
 flowchart LR
   A["EAF (source)"] --> B["List & select tiers"]
   B --> C["Normalize text"]
@@ -104,3 +105,4 @@ flowchart LR
   G --> H["TextGrid alignment"]
   H --> I["Manual correction<br/>in Praat"]
   I --> J["Integrate back<br/>into original EAF"]
+```

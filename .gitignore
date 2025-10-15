@@ -1,0 +1,19 @@
+# médias lourds
+data/media_local/
+*.wav
+*.mp3
+*.flac
+*.mp4
+*.m4a
+*.zip
+*.7z
+*.rar
+
+# macOS/Windows parasites
+.DS_Store
+Thumbs.db
+__MACOSX/
+._*
+
+# notebooks checkpoints
+.ipynb_checkpoints/

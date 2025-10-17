@@ -1,5 +1,5 @@
 # macedonian
-Scripts and data workflow for phonetic alignment, annotation and formant extraction in an oral corpus of Macedonian folk tales
+Scripts and data workflow for phonetic alignment, annotation and formant extraction in an oral corpus of Macedonian folk tales collected and analyzed by [Izabella Jordanoska](https://www.mpi.nl/people/jordanoska-izabela)
 
 # Workflow: ELAN EAF → Spanish-like proxy text → WebMAUS → TextGrid → back to EAF
 

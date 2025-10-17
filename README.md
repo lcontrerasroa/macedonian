@@ -55,33 +55,33 @@ This method therefore leverages the Spanish G2P to generate approximate phone-le
 
 Simplified one-to-one rules prioritizing stability and G2P coverage.
 
-| Macedonian | IPA | Proxy | Note |
-|-------------|-----|--------|------|
-| а | /a/ | a | — |
-| е | /e/ | e | — |
-| и | /i/ | i | — |
-| о | /o/ | o | — |
-| у | /u/ | u | — |
-| п, б, т, д, к, г | /p b t d k ɡ/ | p, b, t, d, c/qu, g/gu | qu/gu before e,i |
-| в | /v/ | v | — |
-| ф | /f/ | f | — |
-| с | /s/ | s | also replaces Macedonian /z/ |
-| з | /z/ | s | /z/ merged as /s/ to keep it from being interpreted as /θ/ |
-| ѕ | /dz/ | ds | /dz/ simplified to /ds/, as above |
-| ц | /ts/ | ts | — |
-| ч | /t͡ʃ/ | ch | — |
-| џ | /d͡ʒ/ | y | — |
-| ш | /ʃ/ | s | — |
-| ж | /ʒ/ | y | — |
-| х | /x/ | j | as in *jamón* |
-| р | /r ~ ɾ ~ r̩/ | r / rr | Single phoneme; strong trill word-initially or after /n, l/; can be syllabic |
-| л | /l/ | l | — |
-| љ | /ʎ/ | ll | — |
-| њ | /ɲ/ | ñ | — |
-| ј | /j/ | y | — |
-| ќ | /c/ | ky | — |
-| ѓ | /ɟ/ | y | closest phoneme found, WebMAUS recognition performance to be evaluated |
 
+| Macedonian | Latin | IPA | Proxy | Note |
+|-------------|--------|-----|--------|------|
+| а | a | /a/ | a | — |
+| е | e | /e/ | e | — |
+| и | i | /i/ | i | — |
+| о | o | /o/ | o | — |
+| у | u | /u/ | u | — |
+| п, б, т, д, к, г | p, b, t, d, k, g | /p b t d k ɡ/ | p, b, t, d, c/qu, g/gu | qu/gu before e,i |
+| в | v | /v/ | v | — |
+| ф | f | /f/ | f | — |
+| с | s | /s/ | s | also replaces Macedonian /z/ |
+| з | z | /z/ | s | /z/ merged as /s/ to keep it from being interpreted as /θ/ |
+| ѕ | dz | /dz/ | ds | /dz/ simplified to /ds/, as above |
+| ц | c | /ts/ | ts | — |
+| ч | č | /t͡ʃ/ | ch | — |
+| џ | dž | /d͡ʒ/ | ds | affricate merged to /ds/ to avoid voiced /ʒ/-like confusion |
+| ш | š | /ʃ/ | s | — |
+| ж | ž | /ʒ/ | y | — |
+| х | h | /x/ | j | as in *jamón* |
+| р | r | /r ~ ɾ ~ r̩/ | r / rr | Single phoneme; strong trill word-initially or after /n, l/; can be syllabic |
+| л | l | /l/ | l | — |
+| љ | lj | /ʎ/ | ll | — |
+| њ | nj | /ɲ/ | ñ | — |
+| ј | j | /j/ | y | — |
+| ќ | ḱ | /c/ | kie/kia/kio/kiu | palatalized kʲ realised as [kj], mapped via context (e.g. ќе → kie) |
+| ѓ | ǵ | /ɟ/ | guie/guia/guio/guiu | palatalized gʲ realised as [gj], mapped via context (e.g. ѓе → guie) |
 
 ---
 

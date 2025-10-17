@@ -20,7 +20,7 @@ https://colab.research.google.com/github/lcontrerasroa/macedonian/blob/main/note
 
 2. **Normalize text**
    - Clean up punctuation and unify whitespace.
-   - If the tier is in **Cyrillic**, transliterate letter-by-letter to Latin, then apply **Spanish-like mapping** (`mk_to_es_proxy` rules below).
+   - If the tier is in **Cyrillic**, transliterate letter-by-letter to Latin, then apply **Spanish-like mapping** (`proxy_es` rules below).
    - If the tier is already in **Latin**, directly apply the Spanish mapping.
 
 3. **Generate two outputs**
@@ -52,7 +52,7 @@ This method therefore leverages the Spanish G2P to generate approximate phone-le
 ---
 
 ## Macedonian → Spanish-like proxy mapping
-
+rules for files in `/proxy_esp/` 
 Simplified one-to-one rules prioritizing stability and G2P coverage.
 
 

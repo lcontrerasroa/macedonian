@@ -1,0 +1,95 @@
+start_ms	end_ms	sp	kind	text
+690	2666	SP1	lat	e sea bil Itar Pejo, došol vo
+690	2666	SP1	cyr	е сеа бил Итар Пејо, дошол во
+3266	4060	SP1	lat	vo Prilep
+3266	4060	SP1	cyr	во Прилеп
+4490	5780	SP1	lat	otišol na berber
+4490	5780	SP1	cyr	отишол на бербер
+5940	6938	SP1	lat	da se briči
+5940	6938	SP1	cyr	да се бричи
+7480	9695	SP1	lat	i sega vo Prilep majtapdžii
+7480	9695	SP1	cyr	и сега во Прилеп мајтапџии
+10323	13112	SP1	lat	i mu rekle, aaa be Pejo, ti si mnogu hrabar!
+10323	13112	SP1	cyr	и му рекле, ааа бе Пејо, ти си многу храбар!
+13310	15196	SP1	lat	če te bričime na suvo!
+13310	15196	SP1	cyr	че те бричиме на суво!
+16153	17780	SP1	lat	i ovoj go vatile na suvo
+16153	17780	SP1	cyr	и овој го ватиле на суво
+17890	20582	SP1	lat	brči, vrp vrp, vrp vrp
+17890	20582	SP1	cyr	брчи, врп врп, врп врп
+20750	22486	SP1	lat	trpi Pejo, lele majko!
+20750	22486	SP1	cyr	трпи Пејо, леле мајко!
+23506	24461	SP1	lat	si odi
+23506	24461	SP1	cyr	си оди
+24699	25567	SP1	lat	vo seloto
+24699	25567	SP1	cyr	во селото
+25889	26747	SP1	lat	arno ama
+25889	26747	SP1	cyr	арно ама
+27115	28660	SP1	lat	ko došlo za lozjata
+27115	28660	SP1	cyr	ко дошло за лозјата
+28720	30955	SP1	lat	da se kroa, pak došol v grad
+28720	30955	SP1	cyr	да се кроа, пак дошол в град
+31354	32843	SP1	lat	i kaj berberot došol
+31354	32843	SP1	cyr	и кај берберот дошол
+33093	35954	SP1	lat	abe, rekol, da ne imate lozje za kroenje? majstor sum
+33093	35954	SP1	cyr	абе, рекол, да не имате лозје за кроење? мајстор сум
+36087	38006	SP1	lat	imam, reče, ni treba majstor
+36087	38006	SP1	cyr	имам, рече, ни треба мајстор
+38477	42754	SP1	lat	eve ti ruček, eve ti si, go odnesle na lozje i počnal da raboti
+38477	42754	SP1	cyr	еве ти ручек, еве ти си, го оденесле на лозје и почнал да работи
+43408	45080	SP1	lat	če vratil otade i mu rekol
+43408	45080	SP1	cyr	че вратил отаде и му рекол
+45255	46990	SP1	lat	go sraboti? go srabotiv
+45255	46990	SP1	cyr	го сработи? го сработив
+47467	50493	SP1	lat	kako, plači lozjeto? oti ko ḱe kroiš lozjeto plači
+47467	50493	SP1	cyr	како, плачи лозјето? оти ко ќе кроиш лозјето плачи
+51078	54729	SP1	lat	ne, reče, lozjeto da plači, tuku i ti če plačiš ko če pojdiš!
+51078	54729	SP1	cyr	не, рече, лозјето да плачи, туку и ти че плачиш ко че појдиш!
+55278	58892	SP1	lat	ko otišle gazdava da vida, go otkornel sose korenje seto
+55278	58892	SP1	cyr	ко отишле газдава да вида, го откорнел сосе корење сето
+59803	61699	SP1	lat	da prodolžam drugi prikaski?
+59803	61699	SP1	cyr	да продолжам други прикаски?
+62630	64650	SP2	lat	da, ajde, da, ako znajte, ajde
+62630	64650	SP2	cyr	да, ајде, да, ако знајте, ајде
+65150	66850	SP1	lat	eh
+65150	66850	SP1	cyr	ех
+67368	68762	SP1	lat	Itar Pejo učenik
+67368	68762	SP1	cyr	Итар Пејо ученик
+69343	70726	SP1	lat	i učitelo mu rekol
+69343	70726	SP1	cyr	и учитело му рекол
+70949	71650	SP1	lat	slušajte vamu
+70949	71650	SP1	cyr	слушајте ваму
+71720	74248	SP1	lat	site za Veligden po edno jajce če donesite
+71720	74248	SP1	cyr	сите за Велигден по едно јајце че донесите
+76070	78390	SP1	lat	site nosat jajce, Itar Pejo ne
+76070	78390	SP1	cyr	сите носат јајце, Итар Пејо не
+78730	81316	SP1	lat	zošto, rekol, Pejo, ne nosiš jajce?
+78730	81316	SP1	cyr	зошто, рекол, Пејо, не носиш јајце?
+81392	82159	SP1	lat	jajce?
+81392	82159	SP1	cyr	јајце?
+82284	86062	SP1	lat	ami, reče, učitele, ovie site kokoški, mora eden petel da ima!
+82284	86062	SP1	cyr	ами, рече, учителе, овие сите кокошки, мора еден петел да има!
+91642	93774	SP1	lat	gleda vo eden vir polno ribi
+91642	93774	SP1	cyr	гледа во еден вир полно риби
+93982	96284	SP1	lat	i mu vika, Mariovci, be šo čekate?
+93982	96284	SP1	cyr	и му вика, Мариовци, бе шо чекате?
+96464	97696	SP1	lat	ribja čorba!
+96464	97696	SP1	cyr	рибја чорба!
+97946	101799	SP1	lat	se navrtele Mariovcite, srkale, viro jada, lele majko!
+97946	101799	SP1	cyr	се навртеле Мариовците, сркале, виро јада, леле мајко!
+102298	103828	SP2	lat	/laughing/
+102298	103828	SP2	cyr	/laughing/
+104128	108298	SP1	lat	ida Mariovci vo selo, magla XXX planina vamu
+104128	108298	SP1	cyr	ида Мариовци во село, магла ХХХ планина ваму
+110076	111940	SP1	lat	magla, ne se gledalo
+110076	111940	SP1	cyr	магла, не се гледало
+112160	112981	SP1	lat	i mu vika
+112160	112981	SP1	cyr	и му вика
+113008	115063	SP1	lat	na selanive, šo čekate be Mariovci?
+113008	115063	SP1	cyr	на селаниве, шо чекате бе Мариовци?
+115066	116947	SP1	lat	volnava soberete ja, če vi ja soberat!
+115066	116947	SP1	cyr	волнава соберете ја, че ви ја соберат!
+116955	118802	SP1	lat	site se isfrlile i se istepale
+116955	118802	SP1	cyr	сите се исфрлиле и се истепале
+119569	121670	SP1	lat	e taka e so Itar Pejo
+119569	121670	SP1	cyr	е така е со Итар Пејо

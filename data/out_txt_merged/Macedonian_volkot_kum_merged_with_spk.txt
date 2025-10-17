@@ -1,0 +1,142 @@
+[SP1] pak prikaska so volci
+[SP1] пак прикаска со волци
+[SP1] i so luǵe
+[SP1] и со луѓе
+[SP1] si bile nekoi selani
+[SP1] си биле некои селани
+[SP1] si imale vo nekoe drugo selo tamu
+[SP1] си имале во некое друго село таму
+[SP1] kumovi
+[SP1] кумови
+[SP1] e sea tie kumovite
+[SP1] е сеа тие кумовите
+[SP1] pravele svadba
+[SP1] правеле свадба
+[SP1] e sea ovie od... stekale (?) da odaa na svadba
+[SP1] е сеа овие од... стекале да одаа на свадба
+[SP1] ama dedoto rekol
+[SP1] ама дедото рекол
+[SP1] jas sam ḱe odam na svadba, da ne se vlečime dvajca starci
+[SP1] јас сам ќе одам на свадба, да не се влечиме двајца старци
+[SP1] trgat, ti mesi mi pogača
+[SP1] тргат, ти меси ми погача
+[SP1] mesi mi maznik, ko baba ti šo mesila deneska
+[SP1] меси ми мазник, ко баба ти шо месила денеска
+[SP1] mesi mi maznik, puštaj mi vino karta
+[SP1] меси ми мазник, пуштај ми вино карта
+[SP1] na... isprži mi meso
+[SP1] на... испржи ми месо
+[SP1] i jas če odam
+[SP1] и јас че одам
+[SP1] na svadba
+[SP1] на свадба
+[SP1] trgnal dedoto na svadba so magareto
+[SP1] тргнал дедото на свадба со магарето
+[SP1] arno ama si zaboravil nešto ni... u darovite
+[SP1] арно ама си заборавил нешто ни... у даровите
+[SP1] i go ostavil magareto
+[SP1] и го оставил магарето
+[SP1] magareto
+[SP1] магарето
+[SP1] reče, čekaj ti tuka
+[SP1] рече, чекај ти тука
+[SP1] ja da pojdam da ja zemam... novčalakot (?), nešto šo trebalo da bidi tamu
+[SP1] ја да појдам да ја земам... новчалакот, нешто шо требало да биди таму
+[SP1] i ḱe dojdam tamu
+[SP1] и ќе дојдам таму
+[SP1] u meǵuvreme
+[SP1] у меѓувреме
+[SP1] došol
+[SP1] дошол
+[SP1] volk
+[SP1] волк
+[SP1] i se zavrtil, e magare, sea, reče
+[SP1] и се завртил, е магаре, сеа, рече
+[SP1] ḱe te jadam
+[SP1] ќе те јадам
+[SP1] abe, Volčko, jadi me, ama šo ḱe me jadiš?
+[SP1] абе, Волчко, јади ме, ама шо ќе ме јадиш?
+[SP1] gledaš deka jas dojdov
+[SP1] гледаш дека јас дојдов
+[SP1] tebe da te kanam za kum
+[SP1] тебе да те канам за кум
+[SP1] vidi šo nosam
+[SP1] види шо носам
+[SP1] nosam pogača, nosam maznik
+[SP1] носам погача, носам мазник
+[SP1] nosam meso prženo
+[SP1] носам месо пржено
+[SP1] ti nosam i vino
+[SP1] ти носам и вино
+[SP1] dojdov, selanite te kanat da mu bidiš
+[SP1] дојдов, селаните те канат да му бидиш
+[SP1] starosvat
+[SP1] старосват
+[SP1] vo seloto
+[SP1] со селото
+[SP1] kako ja starosvat? ḱe bidiš starosvat! ili kum!
+[SP1] како ја старосват? ќе бидиш старосват! или кум!
+[SP1] šo sakaš da bidiš, kum ili starosvat?
+[SP1] шо сакаш да бидиш, кум или старосват?
+[SP1] dobro
+[SP1] добро
+[SP1] sea, reče magareto, kači mi se ti mene
+[SP1] сеа, рече магарето, качи ми се ти мене
+[SP1] na samaro
+[SP1] на самаро
+[SP1] jas če te odnesam, samareto, sednal na magareto
+[SP1] јас че те однесам, самарето, седнал на магарето
+[SP1] kači mi se ti mene, ḱe te o... ḱe idam vo seloto
+[SP1] качи ми се ти мене, ќе те о... ќе идам во селото
+[SP1] da te odnesam vo seloto, te čekaat selanine
+[SP1] да те однесам во селото, те чекаат селанине
+[SP1] i nekoi deca tamu
+[SP1] и некои деца таму
+[SP1] ko volkot kačen na magare
+[SP1] ко волкот качен на магаре
+[SP1] i magareto počnalo da rika
+[SP1] и магарето почнало да рика
+[SP1] od rikanjeto istrčale deca
+[SP1] од рикањето истрчале деца
+[SP1] i se vratile vednaga go videle volkot
+[SP1] и се вратиле веднага го виделе волкот
+[SP1] na magareto kačen
+[SP1] на магарето качен
+[SP1] i mu kažale na roditelite
+[SP1] и му кажале на родителите
+[SP1] doete, volkot dojǵe vo seloto
+[SP1] доете, волкот дојѓе во селото
+[SP1] ḱe ne izedi site, tie nazemale vili
+[SP1] ќе не изеди сите, тие наземале вили
+[SP1] motiki, duri i site
+[SP1] мотики, дури и сите
+[SP1] alati šo možele
+[SP1] алати шо можеле
+[SP1] da tepaat
+[SP1] да тепаат
+[SP1] koga izlegle
+[SP1] кога излегле
+[SP1] koa go fatile
+[SP1] коа го фатиле
+[SP1] tepaj, tepaj, tepaj, tepaj, tepaj, tepaj, go naprajle
+[SP1] тепај, тепај, тепај, тепај, тепај, тепај, го напрајле
+[SP1] paramparče
+[SP1] парампарче
+[SP1] taka deneska
+[SP1] така денеска
+[SP1] ušte eden volk ima pomalce
+[SP1] уште еден волк има помалце
+[SP1] go utepale volko
+[SP1] го утепале волко
+[SP1] volki... volkot najpolse rekol
+[SP1] волки... волкот најполсе рекол
+[SP1] kade bre jas, šo barav jas da bidam
+[SP1] каде бре јас, шо барав јас да бидам
+[SP1] kum?
+[SP1] кум?
+[SP1] arno si imaše meso
+[SP1] арно си имаше месо
+[SP1] si imaše magareto, ḱe si go kasnev
+[SP1] си имаше магарето, ќе си го каснев
+[SP1] i ḱe odam na kum, e taka, pomalku volk
+[SP1] и ќе одам на кум, е така, помалку волк

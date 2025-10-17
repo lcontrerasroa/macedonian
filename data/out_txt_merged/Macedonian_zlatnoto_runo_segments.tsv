@@ -1,0 +1,603 @@
+start_ms	end_ms	sp	kind	text
+9630	12721	SP1	lat	se ḱe raskažam edna prikaska
+9630	12721	SP1	cyr	се ќе раскажам една прикаска
+12999	14440	SP1	lat	za edna lovdžija
+12999	14440	SP1	cyr	за една ловџија
+15688	16723	SP1	lat	vo eden grad
+15688	16723	SP1	cyr	во еден град
+16797	18254	SP1	lat	živeeše carot
+16797	18254	SP1	cyr	живееше царот
+19140	19754	SP1	lat	i
+19140	19754	SP1	cyr	и
+20042	21131	SP1	lat	beše mnogu
+20042	21131	SP1	cyr	беше многу
+22233	23376	SP1	lat	sposoben
+22233	23376	SP1	cyr	способен
+23715	25207	SP1	lat	da go uredi dobro
+23715	25207	SP1	cyr	да го уреди добро
+25392	26968	SP1	lat	da napraj gradini
+25392	26968	SP1	cyr	да напрај градини
+27272	27817	SP1	lat	i
+27272	27817	SP1	cyr	и
+28105	29602	SP1	lat	vo bliskata šuma
+28105	29602	SP1	cyr	во блиската шума
+29984	31513	SP1	lat	im ovozmož(n)uvaše
+29984	31513	SP1	cyr	им овозмож(н)уваше
+31802	33217	SP1	lat	na lovdžiite da odat
+31802	33217	SP1	cyr	на ловџиите да одат
+33560	34536	SP1	lat	na lov
+33560	34536	SP1	cyr	на лов
+35264	36182	SP1	lat	eden den
+35264	36182	SP1	cyr	еден ден
+36339	38374	SP1	lat	lovdžijata so drugarite
+36339	38374	SP1	cyr	ловџијата со другарите
+38550	39626	SP1	lat	otide na lov
+38550	39626	SP1	cyr	отиде на лов
+40107	40962	SP1	lat	i tamu
+40107	40962	SP1	cyr	и таму
+41244	42101	SP1	lat	sretna
+41244	42101	SP1	cyr	сретна
+42322	44870	SP1	lat	eden oven so zlatno runo
+42322	44870	SP1	cyr	еден овен со златно руно
+45276	47261	SP1	lat	i toj mu re... ovenot mu reče
+45276	47261	SP1	cyr	и тој му ре... овенот му рече
+47547	49230	SP1	lat	jas tebe ḱe te ubijam
+47547	49230	SP1	cyr	јас тебе ќе те убијам
+50727	52686	SP1	lat	a lovdžijata reče, ne!
+50727	52686	SP1	cyr	а ловџијата рече, не!
+52957	54473	SP1	lat	jas tebe ḱe te ubijam!
+52957	54473	SP1	cyr	јас тебе ќе те убијам!
+54763	57691	SP1	lat	ama dodeka lovdžijata ja mesteše puškata
+54763	57691	SP1	cyr	ама додека ловџијата ја местеше пушката
+58001	59510	SP1	lat	ovenot go raspara
+58001	59510	SP1	cyr	овенот го распара
+59935	60981	SP1	lat	i pobegna
+59935	60981	SP1	cyr	и побегна
+61574	64140	SP1	lat	go najdoa drugarite, ne znaea šo
+61574	64140	SP1	cyr	го најдоа другарите, не знаеа шо
+64480	65503	SP1	lat	se slučilo
+64480	65503	SP1	cyr	се случило
+65831	66983	SP1	lat	go zakopaa
+65831	66983	SP1	cyr	го закопаа
+67116	69073	SP1	lat	puškata ja odnesoa
+67116	69073	SP1	cyr	пушката ја однесоа
+69381	70815	SP1	lat	kaj negovata žena
+69381	70815	SP1	cyr	кај неговата жена
+71564	73333	SP1	lat	lovdžijata imaše sin
+71564	73333	SP1	cyr	ловџијата имаше син
+73871	76691	SP1	lat	toj rasteše i stana polnoleten
+73871	76691	SP1	cyr	тој растеше и стана полнолетен
+77112	79756	SP1	lat	koga stana polnoleten, ja praša majkata
+77112	79756	SP1	cyr	кога стана полнолетен, ја праша мајката
+80147	83875	SP1	lat	mamo, može da ja zemam puškata i da odam na lov?
+80147	83875	SP1	cyr	мамо, може да ја земам пушката и да одам на лов?
+84234	85945	SP1	lat	majkata reče, ne!
+84234	85945	SP1	cyr	мајката рече, не!
+86329	88258	SP1	lat	nema nikogaš da ti ja dadam
+86329	88258	SP1	cyr	нема никогаш да ти ја дадам
+88476	91307	SP1	lat	zašto tatko ti umre od taa puška
+88476	91307	SP1	cyr	зашто татко ти умре од таа пушка
+91859	92976	SP1	lat	ama eden den
+91859	92976	SP1	cyr	ама еден ден
+93479	95599	SP1	lat	momčeto ja zede puškata
+93479	95599	SP1	cyr	момчето ја зеде пушката
+95677	97555	SP1	lat	i otide na lov vo šumata
+95677	97555	SP1	cyr	и отиде на лов во шумата
+98156	99874	SP1	lat	vo šumata go sretna
+98156	99874	SP1	cyr	во шумата го сретна
+100430	101194	SP1	lat	ovenot
+100430	101194	SP1	cyr	овенот
+101249	102263	SP1	lat	i mu reče
+101249	102263	SP1	cyr	и му рече
+102609	104481	SP1	lat	jas go ubiv tatko ti
+102609	104481	SP1	cyr	јас го убив татко ти
+104735	106210	SP1	lat	ama i tebe ḱe te ubijam!
+104735	106210	SP1	cyr	ама и тебе ќе те убијам!
+106867	109809	SP1	lat	ama momčeto beše pobrzo i go ubi
+106867	109809	SP1	cyr	ама момчето беше побрзо и го уби
+110178	110840	SP1	lat	ovenot
+110178	110840	SP1	cyr	овенот
+111136	113015	SP1	lat	ja odra zlatnata koža
+111136	113015	SP1	cyr	ја одра златната кожа
+113124	114453	SP1	lat	ja odnese doma
+113124	114453	SP1	cyr	ја однесе дома
+115108	116533	SP1	lat	vo gradot se proču
+115108	116533	SP1	cyr	во градот се прочу
+116661	118077	SP1	lat	za zlatnata koža
+116661	118077	SP1	cyr	за златната кожа
+118217	120130	SP1	lat	i site sakaa da ja vidat
+118217	120130	SP1	cyr	и сите сакаа да ја видат
+120485	121608	SP1	lat	t... tova
+120485	121608	SP1	cyr	т... това
+122249	124190	SP1	lat	dojde i do carot
+122249	124190	SP1	cyr	дојде и до царот
+124405	125692	SP1	lat	i carot reče
+124405	125692	SP1	cyr	и царот рече
+126152	128435	SP1	lat	što sakaš jas tebe ḱe ti dadam
+126152	128435	SP1	cyr	што сакаш јас тебе ќе ти дадам
+128564	131090	SP1	lat	samo da mi ja dadeš zlatnata koža
+128564	131090	SP1	cyr	само да ми ја дадеш златната кожа
+131470	132737	SP1	lat	on reče, nikaku
+131470	132737	SP1	cyr	он рече, никаку
+132986	134281	SP1	lat	nema da ti ja dadam
+132986	134281	SP1	cyr	нема да ти ја дадам
+134814	136558	SP1	lat	i carot se misleše
+134814	136558	SP1	cyr	и царот се мислеше
+136874	139202	SP1	lat	i se sovetuvaše so sovetnikot
+136874	139202	SP1	cyr	и се советуваше со советникот
+139548	141241	SP1	lat	što da napravi
+139548	141241	SP1	cyr	што да направи
+141420	143303	SP1	lat	sega za da može
+141420	143303	SP1	cyr	сега за да може
+143696	144389	SP1	lat	da ja
+143696	144389	SP1	cyr	да ја
+144883	148276	SP1	lat	zeme zlatnata... zlatnoto runo
+144883	148276	SP1	cyr	земе златната... златното руно
+148797	150668	SP1	lat	a sovetnikot mu reče
+148797	150668	SP1	cyr	а советникот му рече
+150793	152506	SP1	lat	lesna rabota e za tova!
+150793	152506	SP1	cyr	лесна работа е за това!
+152828	154208	SP1	lat	ḱe mu kažiš
+152828	154208	SP1	cyr	ќе му кажиш
+154384	155739	SP1	lat	deka trebe
+154384	155739	SP1	cyr	дека требе
+155976	156513	SP1	lat	da
+155976	156513	SP1	cyr	да
+157517	158926	SP1	lat	za sedum dena
+157517	158926	SP1	cyr	за седум дена
+159089	160715	SP1	lat	da nasadi lozje
+159089	160715	SP1	cyr	да насади лозје
+161031	162568	SP1	lat	da rodi grozje
+161031	162568	SP1	cyr	да роди грозје
+162747	163980	SP1	lat	i da napravi
+162747	163980	SP1	cyr	и да направи
+164300	165620	SP1	lat	svežo vino
+164300	165620	SP1	cyr	свежо вино
+167171	170739	SP1	lat	i togaš carot mu kaža na de... na momčeto
+167171	170739	SP1	cyr	и тогаш царот му кажа на де... на момчето
+170879	172445	SP1	lat	što treba da napravi
+170879	172445	SP1	cyr	што треба да направи
+172887	176066	SP1	lat	momčeto se uplaši, otide plačejḱi doma
+172887	176066	SP1	cyr	момчето се уплаши, отиде плачејќи дома
+176217	177564	SP1	lat	i kaža na majkata
+176217	177564	SP1	cyr	и кажа на мајката
+177992	179190	SP1	lat	majkata vika
+177992	179190	SP1	cyr	мајката вика
+179389	180804	SP1	lat	tova e nemoguče!
+179389	180804	SP1	cyr	това е немогуче!
+181486	185026	SP1	lat	i togaš momčeto izleze da se prošeta niz seloto
+181486	185026	SP1	cyr	и тогаш момчето излезе да се прошета низ селото
+185447	187737	SP1	lat	po patot go sretna edno devojče
+185447	187737	SP1	cyr	по патот го сретна едно девојче
+188058	188863	SP1	lat	i mu reče
+188058	188863	SP1	cyr	и му рече
+189357	190868	SP1	lat	brate, zošto plačeš?
+189357	190868	SP1	cyr	брате, зошто плачеш?
+191322	193088	SP1	lat	zašto si tolku tažen?
+191322	193088	SP1	cyr	зашто си толку тажен?
+194303	198399	SP1	lat	ama, veli, ti nemožeš ništo da mi pomogneš, i da ti kažam
+194303	198399	SP1	cyr	ама, вели, ти неможеш ништо да ми помогнеш, и да ти кажам
+198848	202186	SP1	lat	ne, veli, kaži mi, možda ḱe možam da ti pomognam
+198848	202186	SP1	cyr	не, вели, кажи ми, можда ќе можам да ти помогнам
+202766	205973	SP1	lat	i togaš momčeto ì kaža što bara carot
+202766	205973	SP1	cyr	и тогаш момчето и кажа што бара царот
+206595	207571	SP1	lat	a taa mu reče
+206595	207571	SP1	cyr	а таа му рече
+208217	209809	SP1	lat	ḱe odiš ḱe mu kažiš
+208217	209809	SP1	cyr	ќе одиш ќе му кажиш
+210645	212739	SP1	lat	da go opredeli
+210645	212739	SP1	cyr	да го определи
+212941	216682	SP1	lat	mestoto kade što treba da bidat nasadeni loznicite
+212941	216682	SP1	cyr	местото каде што треба да бидат насадени лозниците
+216961	218863	SP1	lat	a ti ḱe si ja zemeš torbata
+216961	218863	SP1	cyr	а ти ќе си ја земеш торбата
+219147	222035	SP1	lat	i ḱe se si staviš... mm vnatre jadenje
+219147	222035	SP1	cyr	и ќе се си ставиш... мм внатре јадење
+222303	223787	SP1	lat	i ḱe spieš
+222303	223787	SP1	cyr	и ќе спиеш
+224486	226198	SP1	lat	i togaš momčeto
+224486	226198	SP1	cyr	и тогаш момчето
+226451	230464	SP1	lat	otide kaj carot i mu kaža što treba da napravi
+226451	230464	SP1	cyr	отиде кај царот и му кажа што треба да направи
+230738	231541	SP1	lat	carot
+230738	231541	SP1	cyr	царот
+231894	235132	SP1	lat	go opkruži mestoto kade šo
+231894	235132	SP1	cyr	го опкружи местото каде шо
+235482	236206	SP1	lat	bea
+235482	236206	SP1	cyr	беа
+236766	239541	SP1	lat	trebaše da bidat nasadeni loznicite
+236766	239541	SP1	cyr	требаше да бидат насадени лозниците
+239994	240798	SP1	lat	i taka
+239994	240798	SP1	cyr	и така
+241297	244074	SP1	lat	devojkata beše samovila
+241297	244074	SP1	cyr	девојката беше самовила
+244317	245011	SP1	lat	i taja
+244317	245011	SP1	cyr	и таја
+245334	248054	SP1	lat	gi nasadi so nejzinite drugarki
+245334	248054	SP1	cyr	ги насади со нејзините другарки
+248291	252302	SP1	lat	loznicite i koga momčeto se probudi vtoriot den
+248291	252302	SP1	cyr	лозниците и кога момчето се пробуди вториот ден
+252568	254400	SP1	lat	tie više bea razzeleneti
+252568	254400	SP1	cyr	тие више беа раззеленети
+254540	256877	SP1	lat	i počnaaa da imaat grozdovi
+254540	256877	SP1	cyr	и почнааа да имаат гроздови
+257120	258409	SP1	lat	za sedum dena
+257120	258409	SP1	cyr	за седум дена
+258546	260310	SP1	lat	momčeto napravi vino
+258546	260310	SP1	cyr	момчето направи вино
+260612	262066	SP1	lat	i vo edna torba
+260612	262066	SP1	cyr	и во една торба
+262256	264229	SP1	lat	mu odnese grozje na carot
+262256	264229	SP1	cyr	му однесе грозје на царот
+264579	267086	SP1	lat	koga go vide carot tova, se začudi!
+264579	267086	SP1	cyr	кога го виде царот това, се зачуди!
+267525	270491	SP1	lat	veli, ovoa e nemoguče! mu vika na sovetnikot
+267525	270491	SP1	cyr	вели, овоа е немогуче! му вика на советникот
+270679	272386	SP1	lat	ovoa e mnogu bistro dete
+270679	272386	SP1	cyr	овоа е многу бистро дете
+273038	273743	SP1	lat	/hesitates/
+273038	273743	SP1	cyr	/hesitates/
+274089	275941	SP1	lat	sovetnikot mu odgovara
+274089	275941	SP1	cyr	советникот му одговара
+276333	280645	SP1	lat	nema, vi... veli, ḱe mu daeme druga zadača da napravi
+276333	280645	SP1	cyr	нема, ви... вели, ќе му даеме друга задача да направи
+280930	282430	SP1	lat	i što druga zadača?
+280930	282430	SP1	cyr	и што друга задача?
+282790	283622	SP1	lat	mu kaža
+282790	283622	SP1	cyr	му кажа
+284928	285315	SP1	lat	od
+284928	285315	SP1	cyr	од
+286136	287062	SP1	lat	zabite
+286136	287062	SP1	cyr	забите
+287202	288587	SP1	lat	na samovilite
+287202	288587	SP1	cyr	на самовилите
+288848	291308	SP1	lat	treba da izgradi dvorec
+288848	291308	SP1	cyr	треба да изгради дворец
+293277	295704	SP1	lat	i togaš momčevo se uplaši
+293277	295704	SP1	cyr	и тогаш момчево се уплаши
+295844	298230	SP1	lat	i pak plačejḱi otide kaj majka mu
+295844	298230	SP1	cyr	и пак плачееќи отиде кај мајка му
+298555	299840	SP1	lat	ì kaža što bara
+298555	299840	SP1	cyr	и кажа што бара
+301252	302194	SP1	lat	carot
+301252	302194	SP1	cyr	царот
+302268	303147	SP1	lat	majkata reče
+302268	303147	SP1	cyr	мајката рече
+303420	305980	SP1	lat	odi, možda pak ḱe go sretneš devojčeto
+303420	305980	SP1	cyr	оди, можда пак ќе го сретнеш девојчето
+306190	309776	SP1	lat	i toa može ḱe ti kaže kako treba toa da go napraviš
+306190	309776	SP1	cyr	и тоа може ќе ти каже како треба тоа да го направиш
+310770	312962	SP1	lat	momčeto odeše, se šetaše
+310770	312962	SP1	cyr	момчето одеше, се шеташе
+313367	313976	SP1	lat	i
+313367	313976	SP1	cyr	и
+314147	316694	SP1	lat	na patot go sretna istoto devojče
+314147	316694	SP1	cyr	на патот го сретна истото девојче
+317116	320508	SP1	lat	veli, brate ti pak plačeš, pak si užalen
+317116	320508	SP1	cyr	вели, брате ти пак плачеш, пак си ужален
+320672	321881	SP1	lat	što se slučuva?
+320672	321881	SP1	cyr	што се случува?
+322474	324471	SP1	lat	veli, carot mi reče
+322474	324471	SP1	cyr	вели, царот ми рече
+325112	326247	SP1	lat	ako ne
+325112	326247	SP1	cyr	ако не
+326684	327719	SP1	lat	go napravam
+326684	327719	SP1	cyr	го направам
+327918	331926	SP1	lat	mm... gradot... od samovilski zabi
+327918	331926	SP1	cyr	мм... градот... од самовилски заби
+332159	333303	SP1	lat	mm... togaš
+332159	333303	SP1	cyr	мм... тогаш
+333750	337108	SP1	lat	ḱe mi ja s... ḱe mi ja preseče glavata
+333750	337108	SP1	cyr	ќе ми ја с... ќе ми ја пресече главата
+337518	339452	SP1	lat	o, veli, lesna rabota e!
+337518	339452	SP1	cyr	о, вели, лесна работа е!
+340011	342035	SP1	lat	vo planinate tamu gore
+340011	342035	SP1	cyr	во планинате таму горе
+342169	343260	SP1	lat	teče reka
+342169	343260	SP1	cyr	тече река
+343723	345871	SP1	lat	i ti ḱe ja zagradiš rekata
+343723	345871	SP1	cyr	и ти ќе ја заградиш реката
+346432	347957	SP1	lat	od ednata strana
+346432	347957	SP1	cyr	од едната страна
+348252	350204	SP1	lat	da ne protekuva
+348252	350204	SP1	cyr	да не протекува
+350845	352009	SP1	lat	a ḱe zemeš
+350845	352009	SP1	cyr	а ќе земеш
+352515	353712	SP1	lat	vo eden
+352515	353712	SP1	cyr	во еден
+353992	354705	SP1	lat	brod
+353992	354705	SP1	cyr	брод
+355003	359280	SP1	lat	ḱe doneseš trista litra vino i trista litra rakija
+355003	359280	SP1	cyr	ќе донесеш триста литра вино и триста литра ракија
+359657	361394	SP1	lat	ḱe ja isturiš vo vodata
+359657	361394	SP1	cyr	ќе ја истуриш во водата
+361704	364452	SP1	lat	i togaš ḱe dojdat samovilite da pijat voda
+361704	364452	SP1	cyr	и тогаш ќе дојдат самовилите да пијат вода
+364575	365801	SP1	lat	ḱe se ispijanat
+364575	365801	SP1	cyr	ќе се испијанат
+366428	369143	SP1	lat	i ti togaš ḱe im gi izvadiš zabite
+366428	369143	SP1	cyr	и ти тогаш ќе им ги извадиш забите
+369568	370809	SP1	lat	lesna rabota
+369568	370809	SP1	cyr	лесна работа
+370968	372303	SP1	lat	ḱe vikneš dvaeset
+370968	372303	SP1	cyr	ќе викнеш дваесет
+372949	375906	SP1	lat	drvosečači i oni ḱe gi isečat
+372949	375906	SP1	cyr	дрвосечачи и они ќе ги исечат
+376540	377692	SP1	lat	togaš momčeto
+376540	377692	SP1	cyr	тогаш момчето
+377879	378964	SP1	lat	otide vo
+377879	378964	SP1	cyr	отиде во
+379108	381618	SP1	lat	planinata, ja sopre vodata
+379108	381618	SP1	cyr	планината, ја сопре водата
+381840	382941	SP1	lat	i isturi
+381840	382941	SP1	cyr	и истури
+383252	384159	SP1	lat	vo
+383252	384159	SP1	cyr	во
+385072	390163	SP1	lat	vo vodata trista litra rakija i trista litra vino
+385072	390163	SP1	cyr	во водата триста литра ракија и триста литра вино
+390719	395303	SP1	lat	vo, koga dojdoa samovilite, pieja voda, se ispijanija
+390719	395303	SP1	cyr	во, кога дојдоа самовилите, пиеја вода, се испијанија
+395556	397090	SP1	lat	i padnaa na zemjata
+395556	397090	SP1	cyr	и паднаа на земјата
+397509	400299	SP1	lat	dvae... dvaesete drvosečači
+397509	400299	SP1	cyr	двае... дваесете дрвосечачи
+400474	401906	SP1	lat	gi isekoa zabite
+400474	401906	SP1	cyr	ги исекоа забите
+402085	403710	SP1	lat	i gi odnesoa vo gradot
+402085	403710	SP1	cyr	и ги однесоа во градот
+403902	408164	SP1	lat	i napravija golema palata i gradot go obnovija
+403902	408164	SP1	cyr	и направија голема палата и градот го обновија
+408817	409509	SP1	lat	togaš
+408817	409509	SP1	cyr	тогаш
+409700	410587	SP1	lat	carot
+409700	410587	SP1	cyr	царот
+411280	413162	SP1	lat	se sovetuva so sovetnikot
+411280	413162	SP1	cyr	се советува со советникот
+413547	414307	SP1	lat	i mu veli
+413547	414307	SP1	cyr	и му вели
+414677	417276	SP1	lat	veli, pak go napraj vo... ovoa gradot
+414677	417276	SP1	cyr	вели, пак го напрај во... овоа градот
+417910	420715	SP1	lat	mm... ovoa momče e premnogu pametno
+417910	420715	SP1	cyr	мм... овоа момче е премногу паметно
+420809	422214	SP1	lat	kako možeme da go
+420809	422214	SP1	cyr	како можеме да го
+422455	423860	SP1	lat	da go uništime?
+422455	423860	SP1	cyr	да го уништиме?
+424015	426258	SP1	lat	vika, lesna rabota e, vika
+424015	426258	SP1	cyr	вика, лесна работа е, вика
+426436	429191	SP1	lat	ḱe mu daeme drugo... zadača
+426436	429191	SP1	cyr	ќе му даеме друго... задача
+429957	432954	SP1	lat	i togaš carot go vikna momčeto i mu reče
+429957	432954	SP1	cyr	и тогаш царот го викна момчето и му рече
+433910	436166	SP1	lat	ḱe odiš vo drugoto carstvo
+433910	436166	SP1	cyr	ќе одиш во другото царство
+437124	438913	SP1	lat	t... so edna galija
+437124	438913	SP1	cyr	т... со една галија
+439191	441864	SP1	lat	vo galijata ḱe ima dvaeset duḱana
+439191	441864	SP1	cyr	во галијата ќе има дваесет дуќана
+442311	444455	SP1	lat	i dvaeset
+442311	444455	SP1	cyr	и дваесет
+445490	447007	SP1	lat	ḱe ima dvaeset
+445490	447007	SP1	cyr	ќе има дваесет
+447793	450934	SP1	lat	momci kojšo ḱe služat vo duḱanite
+447793	450934	SP1	cyr	момци којшо ќе служат во дуќаните
+451527	453119	SP1	lat	togaš ḱe dojdat
+451527	453119	SP1	cyr	тогаш ќе дојдат
+453435	454531	SP1	lat	site devojki
+453435	454531	SP1	cyr	сите девојки
+454848	456797	SP1	lat	ḱe dojde i carskata ḱerka
+454848	456797	SP1	cyr	ќе дојде и царската ќерка
+456883	457610	SP1	lat	i carot
+456883	457610	SP1	cyr	и царот
+457926	459225	SP1	lat	ḱe... da gi vidat
+457926	459225	SP1	cyr	ќе... да ги видат
+459638	461102	SP1	lat	prodavnicite
+459638	461102	SP1	cyr	продавниците
+461892	462715	SP1	lat	i togaš
+461892	462715	SP1	cyr	и тогаш
+462910	464420	SP1	lat	momčeto pak
+462910	464420	SP1	cyr	момчето пак
+464516	466487	SP1	lat	najde dvaeset galii
+464516	466487	SP1	cyr	најде дваесет галии
+467003	469120	SP1	lat	najde dvaeset momci
+467003	469120	SP1	cyr	најде дваесет момци
+469447	471816	SP1	lat	koj služea vo duḱanite
+469447	471816	SP1	cyr	кој служеа во дуќаните
+472073	472762	SP1	lat	najde
+472073	472762	SP1	cyr	најде
+472891	475729	SP1	lat	najubava roba što postoeše
+472891	475729	SP1	cyr	најубава роба што постоеше
+475981	476809	SP1	lat	i trgna
+475981	476809	SP1	cyr	и тргна
+476953	478508	SP1	lat	vo drugoto carstvo
+476953	478508	SP1	cyr	во другото царство
+478863	480735	SP1	lat	koga stignaa vo carstvoto
+478863	480735	SP1	cyr	кога стигнаа во царството
+481076	482879	SP1	lat	narodot beše voshiten
+481076	482879	SP1	cyr	народот беше восхитен
+483198	484910	SP1	lat	i se zboruvaše samo
+483198	484910	SP1	cyr	и се зборуваше само
+485058	487443	SP1	lat	za galijata kakvi
+485058	487443	SP1	cyr	за галијата какви
+488175	489583	SP1	lat	kakva stoka ima
+488175	489583	SP1	cyr	каква стока има
+489840	493356	SP1	lat	kakvi prodavnici i kakvi momci tamu
+489840	493356	SP1	cyr	какви продавници и какви момци таму
+493669	496397	SP1	lat	site devojki dovojǵaja vo
+493669	496397	SP1	cyr	сите девојки довојѓаја во
+497109	498035	SP1	lat	galijata
+497109	498035	SP1	cyr	галијата
+498786	502456	SP1	lat	togaš ču i ḱerkata na carot
+498786	502456	SP1	cyr	тогаш чу и ќерката на царот
+503120	505268	SP1	lat	i taja dojde da vidi
+503120	505268	SP1	cyr	и таја дојде да види
+506836	508000	SP1	lat	i koga
+506836	508000	SP1	cyr	и кога
+508141	510394	SP1	lat	se... počna da se stemnuva
+508141	510394	SP1	cyr	се... почна да се стемнува
+511140	512453	SP1	lat	galijata trgna
+511140	512453	SP1	cyr	галијата тргна
+512782	514320	SP1	lat	a devojkata na... a...
+512782	514320	SP1	cyr	а девојката на... а...
+514669	515793	SP1	lat	carskata ḱerka
+514669	515793	SP1	cyr	царската ќерка
+516017	517718	SP1	lat	na ramoto imaše lebed
+516017	517718	SP1	cyr	на рамото имаше лебед
+517929	519505	SP1	lat	kojšo trebaše da letne
+517929	519505	SP1	cyr	којшо требаше да летне
+519715	521914	SP1	lat	i da kaže deka galijata trga
+519715	521914	SP1	cyr	и да каже дека галијата трга
+522073	524887	SP1	lat	deka ḱe ja odnesat vo drugoto carstvo
+522073	524887	SP1	cyr	дека ќе ја однесат во другото царство
+525548	526795	SP1	lat	i togaš a...
+525548	526795	SP1	cyr	и тогаш а...
+527466	528019	SP1	lat	/hesitates/
+527466	528019	SP1	cyr	/hesitates/
+528330	530550	SP1	lat	togaš momčeto
+528330	530550	SP1	cyr	тогаш момчето
+530645	532712	SP1	lat	mu zapoveda na eden
+530645	532712	SP1	cyr	му заповеда на еден
+532957	535173	SP1	lat	od orlite šo gi imaše
+532957	535173	SP1	cyr	од орлите шо ги имаше
+535633	536046	SP1	lat	a...
+535633	536046	SP1	cyr	а...
+536540	538731	SP1	lat	da go zapali perduvot na
+536540	538731	SP1	cyr	да го запали пердувот на
+539019	539951	SP1	lat	orleto
+539019	539951	SP1	cyr	орлето
+540036	542424	SP1	lat	i togaš...
+540036	542424	SP1	cyr	и тогаш...
+543392	544280	SP1	lat	gemijata
+543392	544280	SP1	cyr	гемијата
+544840	545812	SP1	lat	trgna
+544840	545812	SP1	cyr	тргна
+547116	548897	SP1	lat	taka ploveše gemijata
+547116	548897	SP1	cyr	така пловеше гемијата
+549156	550198	SP1	lat	i posle pak
+549156	550198	SP1	cyr	и после пак
+550342	551372	SP1	lat	devojčeto
+550342	551372	SP1	cyr	девојчето
+551473	553525	SP1	lat	so... carskata ḱerka
+551473	553525	SP1	cyr	со... царската ќерка
+553813	555428	SP1	lat	i... go pogali
+553813	555428	SP1	cyr	и... го погали
+555661	556486	SP1	lat	galebot
+555661	556486	SP1	cyr	галебот
+557151	560933	SP1	lat	na ramoto i pak zastana gemijata
+557151	560933	SP1	cyr	на рамото и пак застана гемијата
+561097	562103	SP1	lat	a togaš
+561097	562103	SP1	cyr	а тогаш
+563730	565330	SP1	lat	/hesitates/
+563730	565330	SP1	cyr	/hesitates/
+565389	567080	SP1	lat	togaš momčeto
+565389	567080	SP1	cyr	тогаш момчето
+567492	568645	SP1	lat	a... go vikna
+567492	568645	SP1	cyr	а... го викна
+569474	570356	SP1	lat	/hesitates/
+569474	570356	SP1	cyr	/hesitates/
+573945	576840	SP1	lat	go vikna galebot
+573945	576840	SP1	cyr	го викна галебот
+577114	579056	SP1	lat	što noseše živa voda
+577114	579056	SP1	cyr	што носеше жива вода
+580237	583529	SP1	lat	i tova... toj ja isturi živata voda
+580237	583529	SP1	cyr	и това... тој ја истури живата вода
+583700	584684	SP1	lat	i gemijata
+583700	584684	SP1	cyr	и гемијата
+584789	585544	SP1	lat	trgna
+584789	585544	SP1	cyr	тргна
+585754	588718	SP1	lat	i taka stasaa vo carstvoto
+585754	588718	SP1	cyr	и така стасаа во царството
+588961	590197	SP1	lat	kajšo beše
+588961	590197	SP1	cyr	кајшо беше
+590690	592074	SP1	lat	negoviot grad
+590690	592074	SP1	cyr	неговиот град
+592575	595241	SP1	lat	koga dojde i koga ja vidoa devojkata
+592575	595241	SP1	cyr	кога дојде и кога ја видоа девојката
+595494	596630	SP1	lat	carskata ḱerka
+595494	596630	SP1	cyr	царската ќерка
+597171	597954	SP1	lat	taja
+597171	597954	SP1	cyr	таја
+598250	599632	SP1	lat	beše mnogu ubava
+598250	599632	SP1	cyr	беше многу убава
+599766	600898	SP1	lat	i carot sakaše
+599766	600898	SP1	cyr	и царот сакаше
+601070	602560	SP1	lat	da ja zeme za žena
+601070	602560	SP1	cyr	да ја земе за жена
+603591	605380	SP1	lat	togaš sovetnikot
+603591	605380	SP1	cyr	тогаш советникот
+605494	605957	SP1	lat	/hesitates/
+605494	605957	SP1	cyr	/hesitates/
+606151	606622	SP1	lat	go
+606151	606622	SP1	cyr	го
+607108	608241	SP1	lat	go povredi
+607108	608241	SP1	cyr	го повреди
+608540	611077	SP1	lat	mu ja prejče glavata na momčeto
+608540	611077	SP1	cyr	му ја прејче главата на момчето
+611350	612500	SP1	lat	mm, i
+611350	612500	SP1	cyr	мм, и
+614789	618241	SP1	lat	tova na... na... na gemijata
+614789	618241	SP1	cyr	това на... на... на гемијата
+618638	619709	SP1	lat	i togaš, a...
+618638	619709	SP1	cyr	и тогаш, а...
+620122	621163	SP1	lat	devojkata reče
+620122	621163	SP1	cyr	девојката рече
+621424	623515	SP1	lat	šo storivte? carskata ḱerka
+621424	623515	SP1	cyr	шо сторивте? царската ќерка
+623889	625082	SP1	lat	d... toj
+623889	625082	SP1	cyr	д... тој
+625645	626513	SP1	lat	cel pat
+625645	626513	SP1	cyr	цел пат
+626821	627786	SP1	lat	se brineše
+626821	627786	SP1	cyr	се бринеше
+627949	630036	SP1	lat	misleše za mene i me čuvaše
+627949	630036	SP1	cyr	мислеше за мене и ме чуваше
+630871	633932	SP1	lat	a carot sakaše da ja zeme za žena
+630871	633932	SP1	cyr	а царот сакаше да ја земе за жена
+634683	637105	SP1	lat	ona so živata voda što ja imaše
+634683	637105	SP1	cyr	она со живата вода што ја имаше
+637272	638739	SP1	lat	ja polija glavata
+637272	638739	SP1	cyr	ја полија главата
+638906	642231	SP1	lat	i togaš mu se zarasna glavata na momčeto
+638906	642231	SP1	cyr	и тогаш му се зарасна главата на момчето
+642972	643735	SP1	lat	i taka
+642972	643735	SP1	cyr	и така
+643953	645291	SP1	lat	devojčeto mm...
+643953	645291	SP1	cyr	девојчето мм...
+645494	647037	SP1	lat	carskata ḱerka
+645494	647037	SP1	cyr	царската ќерка
+648486	650074	SP1	lat	pojde so momčeto
+648486	650074	SP1	cyr	појде со момчето
+650300	651669	SP1	lat	togaš carot reče
+650300	651669	SP1	cyr	тогаш царот рече
+651859	654858	SP1	lat	ovoa, ovoa momče e mnogu pametno
+651859	654858	SP1	cyr	овоа, овоа момче е многу паметно
+655166	657050	SP1	lat	sega ḱe stane ušte popametno
+655166	657050	SP1	cyr	сега ќе стане уште попаметно
+657294	659775	SP1	lat	i ja bi sakal da mi ja presečite glavata
+657294	659775	SP1	cyr	и ја би сакал да ми ја пресечите главата
+660169	661295	SP1	lat	mm... i potova
+660169	661295	SP1	cyr	мм... и потова
+661575	664120	SP1	lat	da vidam kolku ḱe bidam popameten
+661575	664120	SP1	cyr	да видам колку ќе бидам попаметен
+664612	666385	SP1	lat	i togaš s... na carot
+664612	666385	SP1	cyr	и тогаш с... на царот
+666579	668193	SP1	lat	mu ja presekoa glavata
+666579	668193	SP1	cyr	му ја пресекоа главата
+668507	669303	SP1	lat	arno ama
+668507	669303	SP1	cyr	арно ама
+669478	671319	SP1	lat	živa voda više nemaše
+669478	671319	SP1	cyr	жива вода више немаше
+671735	674241	SP1	lat	i taka carot ostana bez glava
+671735	674241	SP1	cyr	и така царот остана без глава
+674448	676077	SP1	lat	a momčeto mm...
+674448	676077	SP1	cyr	а момчето мм...
+677041	679143	SP1	lat	stana a... car
+677041	679143	SP1	cyr	стана а... цар
+679613	680304	SP1	lat	na
+679613	680304	SP1	cyr	на
+680921	683435	SP1	lat	na državata, go zameni carot
+680921	683435	SP1	cyr	на државата, го замени царот
+683595	685739	SP1	lat	i ja zede carskata ḱerka
+683595	685739	SP1	cyr	и ја зеде царската ќерка
+686000	690300	SP1	lat	za žena i taka si živeea srečno dolgi godini
+686000	690300	SP1	cyr	за жена и така си живееа сречно долги години

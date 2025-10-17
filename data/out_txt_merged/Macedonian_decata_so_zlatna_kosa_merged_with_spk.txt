@@ -1,0 +1,514 @@
+[SP1] vo eden grad si živeeše eden car
+[SP1] во еден град си живееше еден цар
+[SP1] carot im naredi na luǵeto vo gradot
+[SP1] царот им нареди на луѓето во градот
+[SP1] posle večerata
+[SP1] после вечерата
+[SP1] nikoj da ne smee da pali svetlo
+[SP1] никој да не смее да пали светло
+[SP1] vo toj grad
+[SP1] во тој град
+[SP1] živeeše i edna vdovica
+[SP1] живееше и една вдовица
+[SP1] šo imaše tri deca
+[SP1] шо имаше три деца
+[SP1] decata bea
+[SP1] децата беа
+[SP1] ženski
+[SP1] женски
+[SP1] i
+[SP1] и
+[SP1] n... posle večerata
+[SP1] н... после вечерата
+[SP1] predea
+[SP1] предеа
+[SP1] konci od volna
+[SP1] конци од волна
+[SP1] togaš golemata ḱerka ì reče
+[SP1] тогаш големата ќерка и рече
+[SP1] mamo
+[SP1] мамо
+[SP1] carot naredi
+[SP1] царот нареди
+[SP1] da ne palime svetlo posle večera
+[SP1] да не палиме светло после вечера
+[SP1] oti kaznite se golemi
+[SP1] оти казните се големи
+[SP1] a
+[SP1] а
+[SP1] majkata ì odgovori
+[SP1] мајката и одговори
+[SP1] ako nie
+[SP1] ако ние
+[SP1] ne
+[SP1] не
+[SP1] predeme konci posle večera
+[SP1] предеме конци после вечера
+[SP1] togaš utre ḱe nemame da jademe leb
+[SP1] тогаш утре ќе немаме да јадеме леб
+[SP1] i taka prodolžija
+[SP1] и така продолжија
+[SP1] da
+[SP1] да
+[SP1] si predat konci
+[SP1] си предат конци
+[SP1] najgolemata ḱerka ì reče
+[SP1] најголемата ќерка и рече
+[SP1] mamo
+[SP1] мамо
+[SP1] kolku sakam
+[SP1] колку сакам
+[SP1] sinot na carot da me pobara za žena
+[SP1] синот на царот да ме побара за жена
+[SP1] jas tolku ḱe mu ja sredam
+[SP1] јас толку ќе му ја средам
+[SP1] sobata
+[SP1] собата
+[SP1] što toj ḱe bide mnogu zadovolen
+[SP1] што тој ќе биде многу задоволен
+[SP1] posle se javi i vtorata ḱerka
+[SP1] после се јави и втората ќерка
+[SP1] vika, i ja sakam da mu bidam
+[SP1] вика, и ја сакам да му бидам
+[SP1] žena
+[SP1] жена
+[SP1] na sinot na kralot
+[SP1] на синот на кралот
+[SP1] jas, vika, tolku odelata ḱe mu gi sredam
+[SP1] јас, вика, толку оделата ќе му ги средам
+[SP1] da toj ḱe bide mnogu zadovolen
+[SP1] да тој ќе биде многу задоволен
+[SP1] a najmalata ḱerka reče
+[SP1] а најмалата ќерка рече
+[SP1] jas, ako me zeme sinot na kralot za žena,
+[SP1] јас, ако ме земе синот на кралот за жена,
+[SP1] ḱe mu rodam dete što ima zlatna kosa
+[SP1] ќе му родам дете што има златна коса
+[SP1] i od solzite ḱe roni biseri
+[SP1] и од солзите ќе рони бисери
+[SP1] kralot
+[SP1] кралот
+[SP1] go slušna razgovorot
+[SP1] го слушна разговорот
+[SP1] i utredenta ja povika majkata
+[SP1] и утредента ја повика мајката
+[SP1] i ì reče
+[SP1] и и рече
+[SP1] kolku ḱerki ti imaš?
+[SP1] колку ќерки ти имаш?
+[SP1] taa mu reče, tri
+[SP1] таа му рече, три
+[SP1] site tri ḱe gi zemam za ženi
+[SP1] сите три ќе ги земам за жени
+[SP1] na mojot sin
+[SP1] на мојот син
+[SP1] i taka ḱerkite otidoa kaj sinot
+[SP1] и така ќерките отидоа кај синот
+[SP1] na kralot
+[SP1] на кралот
+[SP1] arno ama
+[SP1] арно ама
+[SP1] pominaa dva tri dena
+[SP1] поминаа два три дена
+[SP1] i kralot
+[SP1] и кралот
+[SP1] otide da vidi što tie
+[SP1] отиде да види што тие
+[SP1] napravile od obeḱanjeto
+[SP1] направиле од обеќањето
+[SP1] vide prvata ḱerka
+[SP1] виде првата ќерка
+[SP1] deka dobro napravila
+[SP1] дека добро направила
+[SP1] vtorata ḱerka isto dobro napravila
+[SP1] втората ќерка исто добро направила
+[SP1] ama tretata ne rodila bebe
+[SP1] ама третата не родила бебе
+[SP1] i toj ì reče
+[SP1] и тој и рече
+[SP1] dvete dobro ja završile rabotata
+[SP1] двете добро ја завршиле работата
+[SP1] a ti ne si ja završila rabotata
+[SP1] а ти не си ја завршила работата
+[SP1] a ona mu reče
+[SP1] а она му рече
+[SP1] pa toa ne e konj da go javneš i da go bodneš
+[SP1] па тоа не е коњ да го јавнеш и да го боднеш
+[SP1] neli trebe
+[SP1] нели требе
+[SP1] devet meseci da projdat
+[SP1] девет месеци да пројдат
+[SP1] pa za da se rodi bebeto
+[SP1] па за да се роди бебето
+[SP1] kralot ì reče, jas ḱe čekam
+[SP1] кралот и рече, јас ќе чекам
+[SP1] i pominaa devet meseci
+[SP1] и поминаа девет месеци
+[SP1] se rodija
+[SP1] се родија
+[SP1] dve bebinja
+[SP1] две бебиња
+[SP1] edno maško
+[SP1] едно машко
+[SP1] edno žensko
+[SP1] едно женско
+[SP1] bea so zlatni kosi
+[SP1] беа со златни коси
+[SP1] i
+[SP1] и
+[SP1] koga zaplakaa
+[SP1] кога заплакаа
+[SP1] ronea biseri
+[SP1] ронеа бисери
+[SP1] ama tova kralot ne go vide
+[SP1] ама това кралот не го виде
+[SP1] go vidoa sestrite, dvete sestri na
+[SP1] го видоа сестрите, двете сестри на
+[SP1] na devojkata
+[SP1] на девојката
+[SP1] i togaš tie
+[SP1] и тогаш тие
+[SP1] si razgovaraa
+[SP1] си разговараа
+[SP1] ovoa ne... ne t... ne treba taka da bide
+[SP1] овоа не... не т... не треба така да биде
+[SP1] mora da gi zememe bebinjata
+[SP1] мора да ги земеме бебињата
+[SP1] da gi stavime vo kovčeg
+[SP1] да ги ставиме во ковчег
+[SP1] i da gi puštime vo ezero
+[SP1] и да ги пуштиме во езеро
+[SP1] i tova go napravija
+[SP1] и това го направија
+[SP1] i koga dojde tretiot den, kralot da go vidi bebeto
+[SP1] и кога дојде третиот ден, кралот да го види бебето
+[SP1] najde
+[SP1] најде
+[SP1] vo lulkata dve mačinja
+[SP1] во лулката две мачиња
+[SP1] i toj ì reče, ti ne ja ispol... ti ne ja is... ispolni ona što obeḱa
+[SP1] и тој и рече, ти не ја испол... ти не ја ис... исполни она што обеќа
+[SP1] ti ne rodi bebinja, rodi mačinja!
+[SP1] ти не роди бебиња, роди мачиња!
+[SP1] i taa mu reče
+[SP1] и таа му рече
+[SP1] ne, mojte sestri gi ukradoa bebinjata
+[SP1] не, мојте сестри ги украдоа бебињата
+[SP1] i gi frlija vo ezeroto
+[SP1] и ги фрлија во езерото
+[SP1] togaš kralot naredi
+[SP1] тогаш кралот нареди
+[SP1] da se zatvori vo zatvor
+[SP1] да се затвори во затвор
+[SP1] i nejze ja zatvorija vo zatvor
+[SP1] и нејзе ја затворија во затвор
+[SP1] arno ama
+[SP1] арно ама
+[SP1] pokraj ezeroto živeeše eden
+[SP1] покрај езерото живееше еден
+[SP1] postar čovek
+[SP1] постар човек
+[SP1] maž
+[SP1] маж
+[SP1] koga go vide kovčegot
+[SP1] кога го виде ковчегот
+[SP1] go zede
+[SP1] го зеде
+[SP1] go otvori
+[SP1] го отвори
+[SP1] i vnatre najde dve bebinja
+[SP1] и внатре најде две бебиња
+[SP1] edno žensko
+[SP1] едно женско
+[SP1] edno maško
+[SP1] едно машко
+[SP1] i otšo plačele
+[SP1] и отшо плачеле
+[SP1] poln beše so biseri kovčegot
+[SP1] полн беше со бисери ковчегот
+[SP1] togaš toj gi zede bebinjata
+[SP1] тогаш тој ги зеде бебињата
+[SP1] i im reče deka on ḱe im bide tatko i ḱe gi odgleda
+[SP1] и им рече дека он ќе им биде татко и ќе ги одгледа
+[SP1] taka tie rastea
+[SP1] така тие растеа
+[SP1] ama eden den koga porasnaa pogolemi
+[SP1] ама еден ден кога пораснаа поголеми
+[SP1] tie mu rekoa
+[SP1] тие му рекоа
+[SP1] tato
+[SP1] тато
+[SP1] zošto nie ne živeeme kaj luǵeto što živeat
+[SP1] зошто ние не живееме кај луѓето што живеат
+[SP1] vo gradot
+[SP1] во градот
+[SP1] ami i zima i leto živeeme
+[SP1] ами и зима и лето живееме
+[SP1] pokraj ezeroto
+[SP1] покрај езерото
+[SP1] tatkoto im reče
+[SP1] таткото им рече
+[SP1] zašo neame pari da napravime kuḱa
+[SP1] зашо неаме пари да направиме куќа
+[SP1] a togaš
+[SP1] а тогаш
+[SP1] v... decata mu rekoa
+[SP1] в... децата му рекоа
+[SP1] ḱe gi prodademe site biseri
+[SP1] ќе ги продадеме сите бисери
+[SP1] i ḱe napravime kuḱa
+[SP1] и ќе направиме куќа
+[SP1] tie napravija kuḱa mnogu ubava
+[SP1] тие направија куќа многу убава
+[SP1] vednaga
+[SP1] веднага
+[SP1] /hesitates/
+[SP1] /hesitates/
+[SP1] do kuḱata na kralot
+[SP1] до куќата на кралот
+[SP1] i živeeja srečno
+[SP1] и живееја сречно
+[SP1] decata bea mnogu dobri
+[SP1] децата беа многу добри
+[SP1] a sinot na kralot
+[SP1] а синот на кралот
+[SP1] počna da se druži
+[SP1] почна да се дружи
+[SP1] so dečinjata
+[SP1] со дечињата
+[SP1] togaš sestrite gi prepoznaa
+[SP1] тогаш сестрите ги препознаа
+[SP1] deka se toa decata na nejzinata sestra
+[SP1] дека се тоа децата на нејзината сестра
+[SP1] i
+[SP1] и
+[SP1] rekoa
+[SP1] рекоа
+[SP1] deka trebe tie da bidat uništeni
+[SP1] дека требе тие да бидат уништени
+[SP1] ama kako?
+[SP1] ама како?
+[SP1] ja zamolija edna žena i ì rekoa
+[SP1] ја замолија една жена и и рекоа
+[SP1] na toa i toa mesto
+[SP1] на тоа и тоа место
+[SP1] ima tamu
+[SP1] има таму
+[SP1] /hesitates/
+[SP1] /hesitates
+[SP1] /hesitates/
+[SP1] /hesitates
+[SP1] pari
+[SP1] пари
+[SP1] i ḱe od... ako sakaat oni
+[SP1] и ќе од... ако сакаат они
+[SP1] besceneti
+[SP1] бесценети
+[SP1] besceneta ruda pari
+[SP1] бесценета руда пари
+[SP1] i ḱe odat ako sakaat
+[SP1] и ќе одат ако сакаат
+[SP1] da im bide posvetol domot
+[SP1] да им биде посветол домот
+[SP1] i taka ženata
+[SP1] и така жената
+[SP1] im kaža na tie
+[SP1] им кажа на тие
+[SP1] dečinjata
+[SP1] дечињата
+[SP1] i togaš maškoto dete
+[SP1] и тогаш машкото дете
+[SP1] otide da go bara da... toa mesto
+[SP1] отиде да го бара да... тоа место
+[SP1] so bescenite kamenja za da donese i da ja osvetli poveḱe kuḱata
+[SP1] со бесцените камења за да донесе и да ја осветли повеќе куќата
+[SP1] arno ama
+[SP1] арно ама
+[SP1] vo toa mesto bilo koj ḱe otide
+[SP1] во тоа место било кој ќе отиде
+[SP1] ne se vraḱal više
+[SP1] не се враќал више
+[SP1] a koga počina tatkoto što gi gledaše
+[SP1] а кога почина таткото што ги гледаше
+[SP1] toj mu dade edna amajlija
+[SP1] тој му даде една амајлија
+[SP1] i mu reče
+[SP1] и му рече
+[SP1] ovaa amajlija ḱe te čuva od sekakvo zlo
+[SP1] оваа амајлија ќе те чува од секакво зло
+[SP1] i da ja nosiš
+[SP1] и да ја носиш
+[SP1] i taka momčeto
+[SP1] и така момчето
+[SP1] trgna da go bara bescenetite kamenja
+[SP1] тргна да го бара бесценетите камења
+[SP1] i so amajlijata
+[SP1] и со амајлијата
+[SP1] tamu se pojavi edna devojka
+[SP1] таму се појави една девојка
+[SP1] i mu reče
+[SP1] и му рече
+[SP1] da se napraviš kamen
+[SP1] да се направиш камен
+[SP1] ama toj ne se napravi kamen
+[SP1] ама тој не се направи камен
+[SP1] toj... taa svati
+[SP1] тој... таа свати
+[SP1] deka toj ima amajlija
+[SP1] дека тој има амајлија
+[SP1] i t... i togaš
+[SP1] и т... и тогаш
+[SP1] toj se vrati
+[SP1] тој се врати
+[SP1] so kamenot
+[SP1] со каменот
+[SP1] se kači na konot
+[SP1] се качи на конот
+[SP1] i trgna da odi doma
+[SP1] и тргна да оди дома
+[SP1] po n... zad nego
+[SP1] по н... зад него
+[SP1] se kači
+[SP1] се качи
+[SP1] samovilata
+[SP1] самовилата
+[SP1] ženata beše samovila
+[SP1] жената беше самовила
+[SP1] se kači
+[SP1] се качи
+[SP1] i toj ja praša
+[SP1] и тој ја праша
+[SP1] kade ḱe odite vie
+[SP1] каде ќе одите вие
+[SP1] vika ḱe do... ḱe dojdam kaj vas doma
+[SP1] вика ќе до... ќе дојдам кај вас дома
+[SP1] on vika
+[SP1] он вика
+[SP1] dobro itaka nemame majka, ti ḱe ni bideš majka
+[SP1] добро итака немаме мајка, ти ќе ни бидеш мајка
+[SP1] ona reče, dobro
+[SP1] она рече, добро
+[SP1] i oni otidoa
+[SP1] и они отидоа
+[SP1] mm, kaj, mm, doma
+[SP1] мм, кај, мм, дома
+[SP1] i koga /scrapes throat/
+[SP1] и кога /scrapes throat/
+[SP1] ženava
+[SP1] женава
+[SP1] mu veli
+[SP1] му вели
+[SP1] zošto ne go viknete
+[SP1] зошто не го викнете
+[SP1] sinot na carot
+[SP1] синот на царот
+[SP1] i drugi gosti da dojdat
+[SP1] и други гости да дојдат
+[SP1] da gi počastime
+[SP1] да ги почастиме
+[SP1] zašo kuḱata beše više mnogu osvetlena, da vidat
+[SP1] зашо куќата беше више многу осветлена, да видат
+[SP1] on ì reče
+[SP1] он и рече
+[SP1] pa nemame ni posluga
+[SP1] па немаме ни послуга
+[SP1] nemame ni hrana
+[SP1] немаме ни храна
+[SP1] ona vika
+[SP1] она вика
+[SP1] ostavete
+[SP1] оставете
+[SP1] toa e moja briga
+[SP1] тоа е моја брига
+[SP1] i ona tropna na eden škaf
+[SP1] и она тропна на еден шкаф
+[SP1] i se pojavue dvaeset
+[SP1] и се појавуе дваесет
+[SP1] poslužiteli
+[SP1] послужители
+[SP1] tropna na drug škaf
+[SP1] тропна на друг шкаф
+[SP1] se pojavi hrana
+[SP1] се појави храна
+[SP1] i taka gi pokanija da dojde
+[SP1] и така ги поканија да дојде
+[SP1] sinot na carot
+[SP1] синот на царот
+[SP1] i mnogu gosti
+[SP1] и многу гости
+[SP1] i
+[SP1] и
+[SP1] koga dojde
+[SP1] кога дојде
+[SP1] mm, majkata
+[SP1] мм, мајката
+[SP1] ona mu reče
+[SP1] она му рече
+[SP1] deka
+[SP1] дека
+[SP1] ovie
+[SP1] овие
+[SP1] ovie deca
+[SP1] овие деца
+[SP1] ḱe si ja najdat
+[SP1] ќе си ја најдат
+[SP1] svojata majka
+[SP1] својата мајка
+[SP1] a kako?
+[SP1] а како?
+[SP1] veli, ko ḱe dojde sega sinot na k... kralot
+[SP1] вели, ко ќе дојде сега синот на к... кралот
+[SP1] site zatvorenici ḱe gi otpušti
+[SP1] сите затвореници ќе ги отпушти
+[SP1] toa ḱe ti bide tvoeto baranje
+[SP1] тоа ќе ти биде твоето барање
+[SP1] i toj
+[SP1] и тој
+[SP1] pobara
+[SP1] побара
+[SP1] site zatvorenici gi otpušti i dojdoa
+[SP1] сите затвореници ги отпушти и дојдоа
+[SP1] ama taja mavna so glavata
+[SP1] ама таја мавна со главата
+[SP1] deka ušte ima zatvorenici
+[SP1] дека уште има затвореници
+[SP1] i togaš
+[SP1] и тогаш
+[SP1] sinot reče, ušte ima, neka dojdat site
+[SP1] синот рече, уште има, нека дојдат сите
+[SP1] i togaš ja donesoa pravata majka
+[SP1] и тогаш ја донесоа правата мајка
+[SP1] od zatvor
+[SP1] од затвор
+[SP1] ona si gi pozna decata
+[SP1] она си ги позна децата
+[SP1] po svoeto... zlatna kosička
+[SP1] по своето... златна косичка
+[SP1] i što ronea biseri od solzite
+[SP1] и што ронеа бисери од солзите
+[SP1] togaš
+[SP1] тогаш
+[SP1] sinot na kralot
+[SP1] синот на кралот
+[SP1] ja svati deka e taa negovata žena
+[SP1] ја свати дека е таа неговата жена
+[SP1] a na dvete sestri gi praša
+[SP1] а на двете сестри ги праша
+[SP1] dali sakate konj da vi dademe za da begate
+[SP1] дали сакате коњ да ви дадеме за да бегате
+[SP1] ili bodež da se ubiete
+[SP1] или бодеж да се убиете
+[SP1] tie rekoa barame konj
+[SP1] тие рекоа бараме коњ
+[SP1] da pobegneme
+[SP1] да побегнеме
+[SP1] i taka dvete sestri pobegnaa
+[SP1] и така двете сестри побегнаа
+[SP1] tatkoto
+[SP1] таткото
+[SP1] majkata
+[SP1] мајката
+[SP1] i decata
+[SP1] и децата
+[SP1] prodolžija sreḱno da živeat
+[SP1] продолжија среќно да живеат

@@ -1,0 +1,232 @@
+[SP1] e taka
+[SP1] е така
+[SP1] si, si bil
+[SP1] си, си бил
+[SP1] si bile isto familija, tatko, majka, si imale poeḱe deca
+[SP1] си биле исто фамилија, татко, мајка, си имале поеќе деца
+[SP1] ama imale eden sin
+[SP1] ама имале еден син
+[SP1] e sega došlo vreme
+[SP1] е сега дошло време
+[SP1] nači
+[SP1] начи
+[SP1] imale eden sin, ama ko, ko se rodil, samo toj bil maško
+[SP1] имале еден син, ама ко, ко се родил, само тој бил машко
+[SP1] a drugite bile ženski
+[SP1] а другите биле женски
+[SP1] e ko došle na... narečnicite
+[SP1] е ко дошле на... наречниците
+[SP1] isto i za nego
+[SP1] исто и за него
+[SP1] nači, narečnicite, ama togaš babite naslušale
+[SP1] начи, наречниците, ама тогаш бабите наслушале
+[SP1] imalo babite sedele noḱta
+[SP1] имало бабите седеле ноќта
+[SP1] oti majkata, taka, se vikala leunka, ko bila leunka
+[SP1] оти мајката, така, се викала леунка, ко била леунка
+[SP1] i togaš idele, ili ḱe ì go zemat deteto, ili ḱe ì go umrat
+[SP1] и тогаш иделе, или ќе и го земат детето, или ќе и го умрат
+[SP1] i taka
+[SP1] и така
+[SP1] i oti deteto koa e malo, rekle
+[SP1] и оти детето коа е мало, рекле
+[SP1] ko ḱe se smeit, mu vikale ḱe ti go zemime od majka ti cic... cickata
+[SP1] ко ќе се смеит, му викале ќе ти го земиме од мајка ти циц... цицката
+[SP1] šo, šo, cicat
+[SP1] шо, шо, цицат
+[SP1] a ko ḱe plačelo
+[SP1] а ко ќе плачело
+[SP1] vikale majka ti ḱe ti umrit
+[SP1] викале мајка ти ќе ти умрит
+[SP1] na deteto
+[SP1] на детето
+[SP1] i sega, d... ovie
+[SP1] и сега, д... овие
+[SP1] sinov, rekle
+[SP1] синов, рекле
+[SP1] narečnicive, ednata rekla
+[SP1] наречнициве, едната рекла
+[SP1] nema, nema da go zemime, nema da go ubijame
+[SP1] нема, нема да го земиме, нема да го убијаме
+[SP1] ma koa ḱe se ženit
+[SP1] ма коа ќе се женит
+[SP1] ḱe narastit ergen
+[SP1] ќе нарастит ерген
+[SP1] ama ḱe se udavi vo bunar
+[SP1] ама ќе се удави во бунар
+[SP1] i sega
+[SP1] и сега
+[SP1] imale isto i tie momok, i momokot slušnal
+[SP1] имале исто и тие момок, и момокот слушнал
+[SP1] i momokov sega ne kažuvat i mu vika samo na ovie
+[SP1] и момоков сега не кажуват и му вика само на овие
+[SP1] ḱe me kanite, vika, na svadba
+[SP1] ќе ме каните, вика, на свадба
+[SP1] obavezno ḱe me kanite ko ḱe go zemite
+[SP1] обавезно ќе ме каните ко ќе го земите
+[SP1] sakam da dojdam na svadba
+[SP1] сакам да дојдам на свадба
+[SP1] dobro, ḱe te kanime
+[SP1] добро, ќе те каниме
+[SP1] go pokanile na svadba
+[SP1] го поканиле на свадба
+[SP1] i ajde sega, vika, da odime po... po nevesta
+[SP1] и ајде сега, вика, да одиме по... по невеста
+[SP1] ne, reče, vie odete
+[SP1] не, рече, вие одете
+[SP1] ja, reče, ḱe ostanam doma
+[SP1] ја, рече, ќе останам дома
+[SP1] mora da ima, da ima nekoj doma vo kuḱava
+[SP1] мора да има, да има некој дома во куќава
+[SP1] se sobrale svatoi, so tapani, so svirki
+[SP1] се собрале сватои, со тапани, со свирки
+[SP1] spregnale so dvata konja, kolite, mu klale dzvonci na kolite
+[SP1] спрегнале со двата коња, колите, му клале ѕвонци на колите
+[SP1] togaš bilo mnogu interesno
+[SP1] тогаш било многу интересно
+[SP1] na konjite dzvonci
+[SP1] на коњите ѕвонци
+[SP1] i nevestata košo sedit, kolata e namestena
+[SP1] и невестата кошо седит, колата е наместена
+[SP1] ah, so jambolija, ubava, nevestata i zetot sedat nazad
+[SP1] ах, со јамболија, убава, невестата и зетот седат назад
+[SP1] zolvata
+[SP1] золвата
+[SP1] na zetot sestrata, sedi pred nego
+[SP1] на зетот сестрата, седи пред него
+[SP1] i
+[SP1] и
+[SP1] i deverot ì go drži venecot na nevestata, venec pleten od bršlen
+[SP1] и деверот и го држи венецот на невестата, венец плетен од бршлен
+[SP1] zelen venec pleten
+[SP1] зелен венец плетен
+[SP1] od živo i bosilek
+[SP1] од живо и босилек
+[SP1] so bosilek napraen
+[SP1] со босилек напраен
+[SP1] so, so crven konec pleten i parina
+[SP1] со, со црвен конец плетен и парина
+[SP1] srebreni pari na nego
+[SP1] сребрени пари на него
+[SP1] i go stavat venecot na, na glava
+[SP1] и го стават венецот на, на глава
+[SP1] i nevestata e prevezena
+[SP1] и невестата е превезена
+[SP1] napred
+[SP1] напред
+[SP1] da
+[SP1] да
+[SP1] i ko ḱe ja, ko ḱe ja donesat nevestata vo dvorot
+[SP1] и ко ќе ја, ко ќе ја донесат невестата во дворот
+[SP1] e togaš na nevestata i na momčeto
+[SP1] е тогаш на невестата и на момчето
+[SP1] ima pogača
+[SP1] има погача
+[SP1] svekoro ḱe slezi prvo, nevestata
+[SP1] свекоро ќе слези прво, невестата
+[SP1] i momčeto, stoat vo kola
+[SP1] и момчето, стоат во кола
+[SP1] i svekorot
+[SP1] и свекорот
+[SP1] sea vaka, toa se pokažuva
+[SP1] сеа вака, тоа се покажува
+[SP1] ḱe mu stavi pogačata vaka pred niv i tie dvajcata ḱe se poklonat
+[SP1] ќе му стави погачата вака пред нив и тие двајцата ќе се поклонат
+[SP1] tri pati
+[SP1] три пати
+[SP1] se, se poklonuvat, ovaa interesna e
+[SP1] се, се поклонуват, оваа интересна е
+[SP1] ḱe se poklonat tri pati na pogačata
+[SP1] ќе се поклонат три пати на погачата
+[SP1] i vaka so racete
+[SP1] и вака со рацете
+[SP1] e posle
+[SP1] е после
+[SP1] posle toa, nevestata
+[SP1] после тоа, невестата
+[SP1] ḱe s... ḱe slezit
+[SP1] ќе с... ќе слезит
+[SP1] ḱe slezi od kolata
+[SP1] ќе слези од колата
+[SP1] ḱe ja odvedat
+[SP1] ќе ја одведат
+[SP1] i momčeto
+[SP1] и момчето
+[SP1] ḱe zastana pred konjite
+[SP1] ќе застана пред коњите
+[SP1] ḱe, ḱe se poklona zatoa šo konjite gi donesle
+[SP1] ќе, ќе се поклона затоа шо коњите ги донесле
+[SP1] to je, to je, to je čest, blagodaram
+[SP1] то је, то је, то је чест, благодарам
+[SP1] na primer
+[SP1] на пример
+[SP1] i sega
+[SP1] и сега
+[SP1] završile toa se
+[SP1] завршиле тоа се
+[SP1] nevestata ì go digaat prevezot
+[SP1] невестата и го дигаат превезот
+[SP1] svekorot, ali... ili kumot
+[SP1] свекорот, али... или кумот
+[SP1] i ḱe ì go digna, da možit da, da gledat
+[SP1] и ќе и го дигна, да можит да, да гледат
+[SP1] i
+[SP1] и
+[SP1] ah
+[SP1] ах
+[SP1] sega ova, sea ova, ova ti go, ti go dodavam, to običajot kako e
+[SP1] сега ова, сеа ова, ова ти го, ти го додавам, то обичајот како е
+[SP1] nevestata sea ko ḱe slezi, svekrvata ja prečekuva so leb
+[SP1] невестата сеа ко ќе слези, свекрвата ја пречекува со леб
+[SP1] so pogačata
+[SP1] со погачата
+[SP1] i ì dava vo eden fildžan klava med
+[SP1] и и дава во еден филџан клава мед
+[SP1] i nevestata na ko ḱe vlezit pred vrata koa ḱe zastani
+[SP1] и невестата на ко ќе влезит пред врата коа ќе застани
+[SP1] mačkat na vratata
+[SP1] мачкат на вратата
+[SP1] pravi krst
+[SP1] прави крст
+[SP1] pravi krst dolu
+[SP1] прави крст долу
+[SP1] i od stranite pravit
+[SP1] и од страните правит
+[SP1] so, so med
+[SP1] со, со мед
+[SP1] da, da, da bida blagi
+[SP1] да, да, да бида благи
+[SP1] da bida veseli
+[SP1] да бида весели
+[SP1] ama
+[SP1] ама
+[SP1] svekrvava, svekrvava ja nosit nevestata kaj vratata
+[SP1] свекрвава, свекрвава ја носит невестата кај вратата
+[SP1] a zetov trčat nakaj, nakaj bunarot
+[SP1] а зетов трчат накај, накај бунарот
+[SP1] otrča nakaj bunarot, bunarot zakovan
+[SP1] отрча накај бунарот, бунарот закован
+[SP1] nemožit da, da, da vlezit
+[SP1] неможит да, да, да влезит
+[SP1] ko se, se izmočale konjite, izmoreni
+[SP1] ко се, се измочале коњите, изморени
+[SP1] odele, patuvale po selski patišta so koli i so pajtoni
+[SP1] оделе, патувале по селски патишта со коли и со пајтони
+[SP1] i se izmočal konjot
+[SP1] и се измочал коњот
+[SP1] konjo ko ḱe se izmoča, močat mnogu
+[SP1] коњо ко ќе се измоча, мочат многу
+[SP1] i ovoj odenje, fap!
+[SP1] и овој одење, фап!
+[SP1] legnal vo močta
+[SP1] легнал во мочта
+[SP1] i zetot umrel
+[SP1] и зетот умрел
+[SP1] i taka
+[SP1] и така
+[SP1] se rasturila svadbata, ostanala nevestata vo kuḱata
+[SP1] се растурила свадбата, останала невестата во куќата
+[SP1] bez momče
+[SP1] без момче
+[SP1] airlija svadbata
+[SP1] аирлија свадбата

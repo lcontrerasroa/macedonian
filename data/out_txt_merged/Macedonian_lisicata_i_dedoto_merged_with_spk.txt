@@ -1,0 +1,334 @@
+[SP1] dedo Petre
+[SP1] дедо Петре
+[SP1] i baba Stojnja
+[SP1] и баба Стојња
+[SP1] ej
+[SP1] еј
+[SP1] lele grešiv
+[SP1] леле грешив
+[SP1] dobro
+[SP1] добро
+[SP1] ajde
+[SP1] ајде
+[SP1] ako e Stojnja, šo?
+[SP1] ако е Стојња, шо?
+[SP1] da ne, da ne se lutit?
+[SP1] да не, да не се лутит?
+[SP1] ami, šo ḱe se luti? ne
+[SP1] ами, шо ќе се лути? не
+[SP1] ne ne, ajde, lele lele grešiv ja
+[SP1] не не, ајде, леле леле грешив ја
+[SP1] baba Kalina
+[SP1] баба Калина
+[SP1] se, se izvinuvam
+[SP1] се, се извинувам
+[SP1] ì go grešiv imeto
+[SP1] и го грешив името
+[SP1] dedo Petre
+[SP1] дедо Петре
+[SP1] i baba Kalina se dogovorile
+[SP1] и баба Калина се договориле
+[SP1] da odi dedo na pazar da kupi ribi
+[SP1] да оди дедо на пазар да купи риби
+[SP1] i dedoto ja spregnal kolata so konjot
+[SP1] и дедото ја спрегнал колата со коњот
+[SP1] otišol na pazar
+[SP1] отишол на пазар
+[SP1] kupil ribi
+[SP1] купил риби
+[SP1] šo treba za jadenje, kupil leb, kupil meso
+[SP1] шо треба за јадење, купил леб, купил месо
+[SP1] ì kupil na babata
+[SP1] и купил на бабата
+[SP1] ì kupil leblebii, i kupil
+[SP1] и купил леблебии, и купил
+[SP1] ì kupil smokvi
+[SP1] и купил смокви
+[SP1] i, natovaril kolata
+[SP1] и, натоварил колата
+[SP1] i si idit
+[SP1] и си идит
+[SP1] ama Kuma Lisa
+[SP1] ама Кума Лиса
+[SP1] itra mnogu
+[SP1] итра многу
+[SP1] namirisala deka dedoto nosi vo kolata
+[SP1] намирисала дека дедото носи во колата
+[SP1] natovareno
+[SP1] натоварено
+[SP1] se napravila mrtva, legnala na patot, mu go preprečila patot
+[SP1] се направила мртва, легнала на патот, му го препречила патот
+[SP1] legnala na pato
+[SP1] легнала на пато
+[SP1] i dedoto slegol
+[SP1] и дедото слегол
+[SP1] zastanal so konjo Dorče
+[SP1] застанал со коњо Дорче
+[SP1] i vika
+[SP1] и вика
+[SP1] ee zastani Dorče sega
+[SP1] ее застани Дорче сега
+[SP1] imame sreḱa
+[SP1] имаме среќа
+[SP1] eve lisica za babata
+[SP1] еве лисица за бабата
+[SP1] e, ja klocnal so nogata
+[SP1] е, ја клоцнал со ногата
+[SP1] ne mrdat
+[SP1] не мрдат
+[SP1] pa ja klocnal, ne mrda
+[SP1] па ја клоцнал, не мрда
+[SP1] ma vika, ovaa e mrtva
+[SP1] ма вика, оваа е мртва
+[SP1] i ja zemal
+[SP1] и ја земал
+[SP1] ja frlil vo kolata, ja stavil kaj ribite
+[SP1] ја фрлил во колата, ја ставил кај рибите
+[SP1] i taja
+[SP1] и таја
+[SP1] itra lisica
+[SP1] итра лисица
+[SP1] go namirisala ribite
+[SP1] го намирисала рибите
+[SP1] počnala
+[SP1] почнала
+[SP1] edna po edna da frlat od kolata nazad
+[SP1] една по една да фрлат од колата назад
+[SP1] dedoto terat napred
+[SP1] дедото терат напред
+[SP1] taja nazad si frlat ribi
+[SP1] таја назад си фрлат риби
+[SP1] i dovrlila ribite i slegla
+[SP1] и доврлила рибите и слегла
+[SP1] slegla, si gi sobrala ribite
+[SP1] слегла, си ги собрала рибите
+[SP1] si gi odnesla vo nejzinata koliba
+[SP1] си ги однесла во нејзината колиба
+[SP1] vo kolibata
+[SP1] во колибата
+[SP1] gi nanižala ribite, da se sušat, imala, si palela ogon
+[SP1] ги нанижала рибите, да се сушат, имала, си палела огон
+[SP1] si imala mali lisičina, tri
+[SP1] си имала мали лисичина, три
+[SP1] i sega šo ḱe prajt
+[SP1] и сега шо ќе прајт
+[SP1] i se fatile so volkot da bidat prijateli
+[SP1] и се фатиле со волкот да бидат пријатели
+[SP1] drugari
+[SP1] другари
+[SP1] došol volko kaj Kuma Lisa
+[SP1] дошол волко кај Кума Лиса
+[SP1] abe vika
+[SP1] абе вика
+[SP1] Kuma Liso, vika, od kaj najde ti olku ribi?
+[SP1] Кума Лисо, вика, од кај најде ти олку риби?
+[SP1] bre vika Volčko, jas mm....
+[SP1] бре вика Волчко, јас мм....
+[SP1] mm
+[SP1] мм
+[SP1] mi vrzaa
+[SP1] ми врзаа
+[SP1] edno
+[SP1] едно
+[SP1] edno kače
+[SP1] едно каче
+[SP1] kaj vodenicana
+[SP1] кај воденицана
+[SP1] i sobrav ribi tamu
+[SP1] и собрав риби таму
+[SP1] ko šo teči rekata
+[SP1] ко шо течи реката
+[SP1] i si gi nanižav
+[SP1] и си ги нанижав
+[SP1] i sega volkov
+[SP1] и сега волков
+[SP1] ì vikat ajde
+[SP1] и викат ајде
+[SP1] na Lisa
+[SP1] на Лиса
+[SP1] pa Liso, i mene, vika, ḱe me odnesiš
+[SP1] па Лисо, и мене, вика, ќе ме однесиш
+[SP1] dobro, vika, ama sega
+[SP1] добро, вика, ама сега
+[SP1] dedoto
+[SP1] дедото
+[SP1] ne
+[SP1] не
+[SP1] dedoto idi
+[SP1] дедото иди
+[SP1] a, malku zgrešiv
+[SP1] а, малку згрешив
+[SP1] dedoto idi i vika
+[SP1] дедото иди и вика
+[SP1] a baboooo
+[SP1] а бабоооо
+[SP1] brzo, otvori ja portata, reče, ti nosam i ribi i kožuvče
+[SP1] брзо, отвори ја портата, рече, ти носам и риби и кожувче
+[SP1] i drugo, ti ispazariv se za jadenje
+[SP1] и друго, ти испазарив се за јадење
+[SP1] trča babata, radosna za kožuvče
+[SP1] трча бабата, радосна за кожувче
+[SP1] gledat, nema kožuvče
+[SP1] гледат, нема кожувче
+[SP1] be zašto me lažiš be vika
+[SP1] бе зашто ме лажиш бе вика
+[SP1] dedo Petre?
+[SP1] дедо Петре?
+[SP1] abe kako babo, ete, ima, vika, i lisica vo kolata
+[SP1] абе како бабо, ете, има, вика, и лисица во колата
+[SP1] nema ništo!
+[SP1] нема ништо!
+[SP1] koa, a, reče, itrata lisica šo mi napravila
+[SP1] коа, а, рече, итрата лисица шо ми направила
+[SP1] mi gi zela ribite site
+[SP1] ми ги зела рибите сите
+[SP1] i ništo babata, aj, reče
+[SP1] и ништо бабата, ај, рече
+[SP1] ḱe naprajme drugo jadenje, sea nema ribi, nemat
+[SP1] ќе напрајме друго јадење, сеа нема риби, немат
+[SP1] ḱe, ḱe svarime gravče
+[SP1] ќе, ќе свариме гравче
+[SP1] bilo šo, ḱe pominime
+[SP1] било шо, ќе поминиме
+[SP1] dvajca sme
+[SP1] двајца сме
+[SP1] i ništo
+[SP1] и ништо
+[SP1] i sega ko otišol volkot
+[SP1] и сега ко отишол волкот
+[SP1] kaj, kaj Kuma Lisa, go pokanila na gosti
+[SP1] кај, кај Кума Лиса, го поканила на гости
+[SP1] go pokanila na gosti i da i gi krsti decata
+[SP1] го поканила на гости и да и ги крсти децата
+[SP1] i
+[SP1] и
+[SP1] sega
+[SP1] сега
+[SP1] ednio pat
+[SP1] еднио пат
+[SP1] ručal
+[SP1] ручал
+[SP1] volko
+[SP1] волко
+[SP1] ručal i si otišol doma
+[SP1] ручал и си отишол дома
+[SP1] i sea drugio pat vikat
+[SP1] и сеа другио пат викат
+[SP1] na
+[SP1] на
+[SP1] oti ručal izel ribite
+[SP1] оти ручал изел рибите
+[SP1] i drug pat došol pak
+[SP1] и друг пат дошол пак
+[SP1] aj mu vika sea, Kumčo Volčo
+[SP1] ај му вика сеа, Кумчо Волчо
+[SP1] a, da mi gi krstiš decava
+[SP1] а, да ми ги крстиш децава
+[SP1] dobro, vika, ḱe ti, ḱe, ḱe gi krstime
+[SP1] добро, вика, ќе ти, ќе, ќе ги крстиме
+[SP1] i
+[SP1] и
+[SP1] ona namestila, sega, sea ḱe mu prajt stapka
+[SP1] она наместила, сега, сеа ќе му прајт стапка
+[SP1] stoplila voda
+[SP1] стоплила вода
+[SP1] poslala jambolijata
+[SP1] послала јамболијата
+[SP1] uboo
+[SP1] убоо
+[SP1] i ajde da... ajde, ajde, kume, bujrum, ajde
+[SP1] и ајде да... ајде, ајде, куме, бујрум, ајде
+[SP1] dojdi, ajde sega ḱe sedniš tuka
+[SP1] дојди, ајде сега ќе седниш тука
+[SP1] toj sednuvanje, propadnal vo toplata voda
+[SP1] тој седнување, пропаднал во топлата вода
+[SP1] žeška voda
+[SP1] жешка вода
+[SP1] i se poparil
+[SP1] и се попарил
+[SP1] sea, se poparil siot
+[SP1] сеа, се попарил сиот
+[SP1] i sega
+[SP1] и сега
+[SP1] ah, šo da... šo da prait, vika, ḱuti
+[SP1] ах, шо да... шо да праит, вика, ќути
+[SP1] ḱe najme reče lek
+[SP1] ќе најме рече лек
+[SP1] ḱe najdime lek
+[SP1] ќе најдиме лек
+[SP1] sio meuri, e
+[SP1] сио меури, е
+[SP1] togaš go ispratila, odi, vika, kume
+[SP1] тогаш го испратила, оди, вика, куме
+[SP1] kaj šo mlijat
+[SP1] кај шо млијат
+[SP1] taka, toa se vikalo mlienje
+[SP1] така, тоа се викало млиење
+[SP1] konopta
+[SP1] конопта
+[SP1] odi istrkalaj se
+[SP1] оди истркалај се
+[SP1] i ḱe ti, ḱe ti ozdravit
+[SP1] и ќе ти, ќе ти оздравит
+[SP1] ko mu se iskinale meurite, ko mu ripnale site
+[SP1] ко му се искинале меурите, ко му рипнале сите
+[SP1] izgorel od bolka
+[SP1] изгорел од болка
+[SP1] se vratil pa nazad
+[SP1] се вратил па назад
+[SP1] ah, bre, reče, Kumo Liso, šo mi napravi, reče
+[SP1] ах, бре, рече, Кумо Лисо, шо ми направи, рече
+[SP1] izgorev od bolki, reče, me popari
+[SP1] изгорев од болки, рече, ме попари
+[SP1] ne, reče, kume, ja da
+[SP1] не, рече, куме, ја да
+[SP1] decata
+[SP1] децата
+[SP1] decata go naprajle to
+[SP1] децата го напрајле то
+[SP1] šo ḱe praj sega
+[SP1] шо ќе прај сега
+[SP1] odi, reče, sega
+[SP1] оди, рече, сега
+[SP1] istrkalaj se
+[SP1] истркалај се
+[SP1] vo r... vo rekana
+[SP1] во р... во рекана
+[SP1] vo rekana, kaj, kaj pesokta, istrkalaj se, reče
+[SP1] во рекана, кај, кај пестока, истркалај се, рече
+[SP1] ḱe ti ozdravit
+[SP1] ќе ти оздравит
+[SP1] otišol vo rekata
+[SP1] отишол во реката
+[SP1] se istrkalal
+[SP1] се истркалал
+[SP1] se istrkalal
+[SP1] се истркалал
+[SP1] ko mu se napolnile meurite kamenja
+[SP1] ко му се наполниле меурите камења
+[SP1] nači
+[SP1] начи
+[SP1] izgorel od, od bolki
+[SP1] изгорел од, од болки
+[SP1] i nemožel veḱe volkot, nemožel
+[SP1] и неможел веќе волкот, неможел
+[SP1] došol, pak došol kaj nejze
+[SP1] дошол, пак дошол кај нејзе
+[SP1] šo da ti praam, reče, Kume Volče
+[SP1] шо да ти праам, рече, Куме Волче
+[SP1] lek nema za ova
+[SP1] лек нема за ова
+[SP1] nema lek i
+[SP1] нема лек и
+[SP1] i volkot
+[SP1] и волкот
+[SP1] vatil
+[SP1] ватил
+[SP1] te
+[SP1] те
+[SP1] frlil vo rekata
+[SP1] фрлил во реката
+[SP1] i se... i se udavil
+[SP1] и се... и се удавил
+[SP1] e taka, sea malku ovoj krajo...
+[SP1] е така, сеа малку овој крајо...

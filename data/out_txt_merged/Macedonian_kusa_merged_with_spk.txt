@@ -1,0 +1,169 @@
+[SP1] eee, zlato, si bile
+[SP1] еее, злато, си биле
+[SP1] nekoe semejstvo, si imale
+[SP1] некое семејство, си имале
+[SP1] buluk ovci, buluk znači sto ovci
+[SP1] булук овци, булук значи сто овци
+[SP1] imale ovie dva, tri buluka, dve, tri stada ovci
+[SP1] имале овие два, три булука, две, три стада овци
+[SP1] tie imale
+[SP1] тие имале
+[SP1] ovčar, koj gi pasel ovcite
+[SP1] овчар, кој ги пасел овците
+[SP1] sekoe sabajle gi isteral
+[SP1] секое сабајле ги истерал
+[SP1] na livadite
+[SP1] на ливадите
+[SP1] sekoe navečer, pred sonceto da
+[SP1] секое навечер, пред сонцето да
+[SP1] zajdi skroz da se zamači
+[SP1] зајди скроз да се замачи
+[SP1] si gi vraḱal doma, i si imal
+[SP1] си ги враќал дома, и си имал
+[SP1] i kučinja so nego
+[SP1] и кучиња со него
+[SP1] i denta otišol
+[SP1] и дента отишол
+[SP1] da gi pasi ovcite, pasele šo pasele
+[SP1] да ги паси овците, паселе шо паселе
+[SP1] arno ama
+[SP1] арно ама
+[SP1] na vraḱanje
+[SP1] на враќање
+[SP1] bravite
+[SP1] бравите
+[SP1] tie se maškite ovci
+[SP1] тие се машките овци
+[SP1] taka, bravi, oveni
+[SP1] така, брави, овени
+[SP1] ammmm
+[SP1] амммм
+[SP1] imeto, taka, taka se, taka se vikat, koč
+[SP1] името, така, така се, така се викат, коч
+[SP1] bravi se vikaat
+[SP1] брави се викаат
+[SP1] arno ama poz... vraḱaḱi se nanazad
+[SP1] арно ама поз... враќаќи се наназад
+[SP1] mu zaostanale dvata
+[SP1] му заостанале двата
+[SP1] bravi
+[SP1] брави
+[SP1] zad nekoja trevka, zemale trevka, ednio so drugo
+[SP1] зад некоја тревка, земале тревка, еднио со друго
+[SP1] i rekle vaka
+[SP1] и рекле вака
+[SP1] koj ḱe dotrča prv do trevkata
+[SP1] кој ќе дотрча прв до тревката
+[SP1] negova ḱe bidi trevkata
+[SP1] негова ќе биди тревката
+[SP1] i reče ti odi tamu, ednio brav, ti drugi, na drugana strana
+[SP1] и рече ти оди таму, едио брав, ти други, на другана страна
+[SP1] i tie eden vo sredina
+[SP1] и тие еден во средина
+[SP1] kajšo bila trevata
+[SP1] кајшо била тревата
+[SP1] reče ti
+[SP1] рече ти
+[SP1] a, ne toj, volkot
+[SP1] а, не тој, волкот
+[SP1] volkot gi fatil, sea, reče, ḱe ve jadam
+[SP1] волкот ги фатил, сеа, рече, ќе ве јадам
+[SP1] bravite, abe ti pred da nè izediš, prvo podeli ni ja trevava
+[SP1] бравите, абе ти пред да нè изедиш, прво подели ни ја тревава
+[SP1] posle jadi nè šo ḱe nè jadiš
+[SP1] после јади нè шо ќе нè јадиш
+[SP1] e kako? zastani ti na trevata vo sredina
+[SP1] е како? застани ти на тревата во средина
+[SP1] a nie ḱe odime ednio tamu a drugio tamu
+[SP1] а ние ќе одиме еднио таму а другио таму
+[SP1] koj prv ḱe dotrča do tebe, negova ḱe bidi trevata
+[SP1] кој прв ќе дотрча до тебе, негова ќе биди тревата
+[SP1] i bravite se oddelile
+[SP1] и бравите се одделиле
+[SP1] taka ponastrana
+[SP1] така понастрана
+[SP1] i, se zatrčale, volko, koa go udrile volko
+[SP1] и, се затрчале, волко, коа го удриле волко
+[SP2] /laughs/ go izlažale!
+[SP1] ples! go smotkale, go smačkale
+[SP1] плес! го смоткале, го смачкале
+[SP1] e sea pak ko se spasil volko nekako
+[SP1] е сеа пак ко се спасил волко некако
+[SP1] izlegol od tamu i
+[SP1] излегол од таму и
+[SP1] zaminal vo šuma
+[SP1] заминал во шума
+[SP1] zaminal vo šuma, se piknal vo nekoja kapina
+[SP1] заминал во шума, се пикнал во некоја капина
+[SP1] vo kapinata, legnal vo kapinata da se odmori malce
+[SP1] во капината, легнал во капината да се одмори малце
+[SP1] arno ama nekoj drvar
+[SP1] арно ама некој дрвар
+[SP1] došol da si beri drva od kapinata
+[SP1] дошол да си бери дрва од капината
+[SP1] videl nešto sivo
+[SP1] видел нешто сиво
+[SP1] videl opaškata onade
+[SP1] видел опашката онаде
+[SP1] e more ovoa e, reče, volkot e, sigurno e volkot!
+[SP1] е море овоа е, рече, волкот е, сигурно е волкот!
+[SP1] go fatil, mu ja fatil opaškata
+[SP1] го фатил, му ја фатил опашката
+[SP1] toj trga, volko, napred, ovoj trga nazad
+[SP1] тој трга, волко, напред, овој трга назад
+[SP1] mu ja skinal opaškata
+[SP1] му ја скинал опашката
+[SP1] mu ja skinal opaškata i volko izbegal
+[SP1] му ја скинал опашката и волко избегал
+[SP1] izbegal ama gi sretna drugite volci
+[SP1] избегал ама ги сретна другите волци
+[SP1] drugite volci
+[SP1] другите волци
+[SP1] mu rekle, kuša, kuša!
+[SP1] му рекле, куша, куша!
+[SP1] kuša! kuša znači bez opaška
+[SP1] куша! куша значи без опашка
+[SP1] i dobro, reče, kuša, ama kuša znae edna mnogu ubava kruša
+[SP1] и добро, рече, куша, ама куша знае една многу убава круша
+[SP1] i otide... koja e taa kruša? dojdete, reče, vamu
+[SP1] и отиде... која е таа круша? дојдете, рече, ваму
+[SP1] poblisku do seloto
+[SP1] поблиску до селото
+[SP1] tamu
+[SP1] таму
+[SP1] i sega, do seloto, došle tamu
+[SP1] и сега, до селото, дошле таму
+[SP1] se kačile
+[SP1] се качиле
+[SP1] ovoj... volkot se kačil gore, jas, reče, če se kačam gore
+[SP1] овој... волкот се качил горе, јас, рече, че се качам горе
+[SP1] jas če tresam
+[SP1] јас че тресам
+[SP1] a vas site ḱe vi vrzam opaškite da ne gi jadite krušite
+[SP1] а вас сите ќе ви врзам опашките да не ги јадите крушите
+[SP1] i mu gi navrza site opaškite i ovoj trese i paǵaa kruški
+[SP1] и му ги наврза сите опашките и овој тресе и паѓаа крушки
+[SP1] ovie čekaat
+[SP1] овие чекаат
+[SP1] sea ovoj volkot itar
+[SP1] сеа овој волкот итар
+[SP1] aaauuu, što dovaǵa, reče, od selovo!
+[SP1] аааууу, што доваѓа, рече, од селово!
+[SP1] edno
+[SP1] едно
+[SP1] luǵe! grupa luǵe! so puški! so vili!
+[SP1] луѓе! група луѓе! со пушки! со вили!
+[SP1] so motiki, site, begajte, spasuvajte se kako znaite!
+[SP1] со мотики, сите, бегајте, спасувајте се како знаите!
+[SP1] umejte. jas, vika, skokam!
+[SP1] умејте. јас, вика, скокам!
+[SP1] i ovie trga eden, trga tamu, trgaj, site stanale kuši
+[SP1] и овие трга еден, трга таму, тргај, сите станале куши
+[SP1] i pak počna, deka kuša, kuša!
+[SP1] и пак почна, дека куша, куша!
+[SP1] kuša, ama, pogledajte se i vie! kuša vi pokaža kruša, a vie ostanavte kuši!
+[SP1] куша, ама, погледајте се и вие! куша ви покажа круша, а вие останавте куши!
+[SP1] e čim je taka, ovie se nalutile, zemale, go isparčile volkot. i deneska ima eden volk pomalce od poiḱe, tri volci
+[SP1] е чим је така, овие се налутиле, земале, го испарчиле волкот. и денеска има еден волк помалце од поиќе, три волци
+[SP1] ete ja prikaskata
+[SP1] ете ја прикаската

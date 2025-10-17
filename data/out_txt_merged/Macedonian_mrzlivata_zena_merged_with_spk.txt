@@ -1,0 +1,420 @@
+[SP1] dobro, ajde, prvata ḱe ti ja kažam
+[SP1] добро, ајде, првата ќе ти ја кажам
+[SP1] so mrzlivata devojka
+[SP1] со мрзливата девојка
+[SP1] dobro sum sednata, se vo red je
+[SP1] добро сум седната, се во ред је
+[SP1] e mrzlivata devojka trebalo da se mažit
+[SP1] е мрзливата девојка требало да се мажит
+[SP1] idele strojnici, klaj si perniče pod gaz, na
+[SP1] иделе стројници, клај си перниче под газ, на
+[SP1] idele, idele strojnici, koj ḱe ja posakat
+[SP1] иделе, иделе стројници, кој ќе ја посакат
+[SP1] tatkoto i majkata ne ja davale
+[SP1] таткото и мајката не ја давале
+[SP1] mu vikale, ne
+[SP1] му викале, не
+[SP1] sinko, ne e za vas
+[SP1] синко, не е за вас
+[SP1] taja je, mnogu bila mrzliva
+[SP1] таја је, многу била мрзлива
+[SP1] i
+[SP1] и
+[SP1] eden došol
+[SP1] еден дошол
+[SP1] se vratil, došle drugi ja pobarale
+[SP1] се вратил, дошле други ја побарале
+[SP1] pak
+[SP1] пак
+[SP1] ne sa... ne mu ja davale
+[SP1] не са... не му ја давале
+[SP1] ne e, sinko, za tebe
+[SP1] не е, синко, за тебе
+[SP1] nogu e mrzliva
+[SP1] ногу е мрзлива
+[SP1] i eden
+[SP1] и еден
+[SP1] bil mnogu
+[SP1] бил многу
+[SP1] silen taka
+[SP1] силен така
+[SP1] bil nači opasen čovek
+[SP1] бил начи опасен човек
+[SP1] dajte mi e, reče, mene, ja ḱe ja zemam
+[SP1] дајте ми е, рече, мене, ја ќе ја земам
+[SP1] ja ḱe, ja ḱe ja naučam sè
+[SP1] ја ќе, ја ќе ја научам сè
+[SP1] ne, sinko, ne!
+[SP1] не, синко, не!
+[SP1] dajte mi ja!
+[SP1] дајте ми ја!
+[SP1] mu ja dale
+[SP1] му ја дале
+[SP1] mu ja dale, naprajle svadba
+[SP1] му ја дале, напрајле свадба
+[SP1] jadele, pijale
+[SP1] јаделе, пијале
+[SP1] šo imalo o svadbata, šo ostanalo lebče, edno drugo, sè
+[SP1] шо имало о свадбата, шо останало лебче, едно друго, сè
+[SP1] i taja samo, samo čekat, šo imale izele
+[SP1] и таја само, само чекат, шо имале изеле
+[SP1] i sega nema šo da jadat
+[SP1] и сега нема шо да јадат
+[SP1] mažov sega
+[SP1] мажов сега
+[SP1] vika
+[SP1] вика
+[SP1] s kupil edno kožuvče
+[SP1] с купил едно кожувче
+[SP1] ženo
+[SP1] жено
+[SP1] aj obleči go kožuvčevo, reče
+[SP1] ај облечи го кожувчево, рече
+[SP1] na tebe
+[SP1] на тебе
+[SP1] i
+[SP1] и
+[SP1] mu vikat
+[SP1] му викат
+[SP1] kožuvče
+[SP1] кожувче
+[SP1] da, sega slušaj me šo ḱe ti kažam
+[SP1] да, сега слушај ме шо ќе ти кажам
+[SP1] da staniš sabajle
+[SP1] да станиш сабајле
+[SP1] da se izmijaš obraz
+[SP1] да се измијаш образ
+[SP1] da se isčešlaš
+[SP1] да се исчешлаш
+[SP1] da gi zasučiš rakavite
+[SP1] да ги засучиш ракавите
+[SP1] da zamesiš leb
+[SP1] да замесиш леб
+[SP1] kako Baba Mare šo mesit
+[SP1] како Баба Маре шо месит
+[SP1] kifli i pogači
+[SP1] кифли и погачи
+[SP1] i da napraviš ruček ili sarma
+[SP1] и да направиш ручек или сарма
+[SP1] ko ḱe dojdam od oranje ḱe ručame zaedno
+[SP1] ко ќе дојдам од орање ќе ручаме заедно
+[SP1] i taja ne znaela da raboti ništo
+[SP1] и таја не знаела да работи ништо
+[SP1] pasela guski tamu edno drugo sè, po čavkite, ama ništo drugo ne znaela
+[SP1] пасела гуски таму едно друго сè, по чавките, ама ништо друго не знаела
+[SP1] nečešlana vo kosata, ne onadena
+[SP1] нечешлана во косата, не онадена
+[SP1] eh, ovoj si došol od oranje
+[SP1] ех, овој си дошол од орање
+[SP1] i taja sedit čekat
+[SP1] и таја седит чекат
+[SP1] čekat nema ništo jadenje
+[SP1] чекат нема ништо јадење
+[SP1] i toj mu vikat
+[SP1] и тој му викат
+[SP1] ženo, obleči go, reče, kožuvčeno
+[SP1] жено, облечи го, рече, кожувчено
+[SP1] obleči go
+[SP1] облечи го
+[SP1] go zel stapot
+[SP1] го зел стапот
+[SP1] pa ja istepal ubavo
+[SP1] па ја истепал убаво
+[SP1] e istepal, reče
+[SP1] е истепал, рече
+[SP1] i taja, taja ḱutit
+[SP1] и таја, таја ќутит
+[SP1] ako, ako ja boli
+[SP1] ако, ако ја боли
+[SP1] neli ti rekov da staniš, da napraviš jadenje, ko ḱe dojdam od oranje da jadime?
+[SP1] нели ти реков да станиш, да направиш јадење, ко ќе дојдам од орање да јадиме?
+[SP1] da e dvorot izmeten
+[SP1] да е дворот изметен
+[SP1] sè da bidi
+[SP1] сè да биди
+[SP1] ništo
+[SP1] ништо
+[SP1] ajde, drugoto sabajle pak
+[SP1] ајде, другото сабајле пак
+[SP1] pak trpele za jadenje, ne e važno
+[SP1] пак трпеле за јадење, не е важно
+[SP1] ajde drugoto sabajle, pak istoto
+[SP1] ајде другото сабајле, пак истото
+[SP1] g... kožuvčeto obeseno za dzidot
+[SP1] г... кожувчето обесено за ѕидот
+[SP1] znaiš što e kožuvče
+[SP1] знаиш што е кожувче
+[SP1] reče
+[SP1] рече
+[SP1] kožuvče
+[SP1] кожувче
+[SP1] da sta... da staniš
+[SP1] да ста... да станиш
+[SP1] da go izmetiš dvoron
+[SP1] да го изметиш дворон
+[SP1] da naprajš jadenje
+[SP1] да напрајш јадење
+[SP1] ko ḱe dojdam od oranje ḱe jadime zaedno
+[SP1] ко ќе дојдам од орање ќе јадиме заедно
+[SP1] taja pak gleda vo kožuvčeto na dzidot
+[SP1] таја пак гледа во кожувчето на ѕидот
+[SP1] kožuvčeto ne sleguvat!
+[SP1] кожувчето не слегуват!
+[SP1] kaj ḱe slezi kožuvče? to ne e, ne e nešto živo
+[SP1] кај ќе слези кожувче? то не е, не е нешто живо
+[SP1] ništo
+[SP1] ништо
+[SP1] tretio den
+[SP1] третио ден
+[SP1] pak istoto ì go kažuvat
+[SP1] пак истото и го кажуват
+[SP1] ajde, reče, ženo
+[SP1] ајде, рече, жено
+[SP1] da sleziš
+[SP1] да слезиш
+[SP1] taja gleda vo kožuvčeto, ne sleguva kožuvčeto
+[SP1] таја гледа во кожувчето, не слегува кожувчето
+[SP1] ko si došol, ja istepal ubavo, ja istepal
+[SP1] ко си дошол, ја истепал убаво, ја истепал
+[SP1] reče
+[SP1] рече
+[SP1] taja, ma, nemu, mažu, reče, mene me bolit!
+[SP1] таја, ма, нему, мажу, рече, мене ме болит!
+[SP1] me bolit mene!
+[SP1] ме болит мене!
+[SP1] e, reče
+[SP1] е, рече
+[SP1] i ništo, pominale tri dena taka
+[SP1] и ништо, поминале три дена така
+[SP1] bez jadenje
+[SP1] без јадење
+[SP1] četvrtio den
+[SP1] четвртио ден
+[SP1] ovoj odit
+[SP1] овој одит
+[SP1] pak, kožuvče, reče
+[SP1] пак, кожувче, рече
+[SP1] da staniš
+[SP1] да станиш
+[SP1] da, da mesiš, da naprajš ruček, da mesiš pogača
+[SP1] да, да месиш, да напрајш ручек, да месиш погача
+[SP1] koa ḱe doam od oranje, da ručame zaedno
+[SP1] коа ќе доам од орање, да ручаме заедно
+[SP1] gledala, gledala, ne sleguva kožuvčeto
+[SP1] гледала, гледала, не слегува кожувчето
+[SP1] ami stanala
+[SP1] ами станала
+[SP1] se izmila
+[SP1] се измила
+[SP1] napraela mandžička
+[SP1] напраела манџичка
+[SP1] zamesila lebče, kakvo, takvo
+[SP1] замесила лебче, какво, такво
+[SP1] ko došol od oranje
+[SP1] ко дошол од орање
+[SP1] ko gledat
+[SP1] ко гледат
+[SP1] i ovaa, naiš
+[SP1] и оваа, наиш
+[SP1] veḱe sea radosna
+[SP1] веќе сеа радосна
+[SP1] aaa, reče, kožuvče
+[SP1] ааа, рече, кожувче
+[SP1] si napraelo jadenje
+[SP1] си напраело јадење
+[SP1] ne, reče, mažu
+[SP1] не, рече, мажу
+[SP1] ja napraev!
+[SP1] ја напраев!
+[SP1] a, nači, trebalo da jadiš ḱotek
+[SP1] а, начи, требало да јадиш ќотек
+[SP1] pa da se naučiš da, da rabotiš
+[SP1] па да се научиш да, да работиш
+[SP1] i ajde sednale, ručale šo ručale
+[SP1] и ајде седнале, ручале шо ручале
+[SP1] drugio den pak si... počnala da praj jadenje
+[SP1] другио ден пак си... почнала да прај јадење
+[SP1] go zametila dvorot, ovoj na oranje
+[SP1] го заметила дворот, овој на орање
+[SP1] i ovoj orat, i sega majkava i tatkovo
+[SP1] и овој орат, и сега мајкава и татково
+[SP1] abe, vika, šo prajme nie?
+[SP1] абе, вика, шо прајме ние?
+[SP1] go, ja omaživme, ne pojdovme da vidime šo prajt
+[SP1] го, ја омаживме, не појдовме да видиме шо прајт
+[SP1] dali e živa?
+[SP1] дали е жива?
+[SP1] i, majkata reče, ja ḱe odam
+[SP1] и, мајката рече, ја ќе одам
+[SP1] ì bilo žal
+[SP1] и било жал
+[SP1] ja ḱe odam da vidam
+[SP1] ја ќе одам да видам
+[SP1] ovoj kako šo oral
+[SP1] овој како шо орал
+[SP1] imalo taka nekoja šuma
+[SP1] имало така некоја шума
+[SP1] gusta, planinsko mesto
+[SP1] густа, планинско место
+[SP1] vatil ednio vol, go otpuštil, volot
+[SP1] ватил еднио вол, го отпуштил, волот
+[SP1] i so eden vol orat
+[SP1] и со еден вол орат
+[SP1] i babava idit
+[SP1] и бабава идит
+[SP1] pomozi bog, sin... sinko
+[SP1] помози бог, син... синко
+[SP1] bog ti pomogol, babo
+[SP1] бог ти помогол, бабо
+[SP1] reče, šo, reče, so eden vol? pak, reče
+[SP1] рече, шо, рече, со еден вол? пак, рече
+[SP1] eh, nemam
+[SP1] ех, немам
+[SP1] ja fatil za pletenki, kako ja so kosava
+[SP1] ја фатил за плетенки, како ја со косава
+[SP1] e klal vo jaremot
+[SP1] е клал во јаремот
+[SP1] to se vika jarem, šo ora
+[SP1] то се вика јарем, шо ора
+[SP1] ja klal vo jaremo
+[SP1] ја клал во јаремо
+[SP1] i ajde
+[SP1] и ајде
+[SP1] če orat
+[SP1] че орат
+[SP1] eden krug naprael vo nivata
+[SP1] еден круг напраел во нивата
+[SP1] so babava
+[SP1] со бабава
+[SP1] trgat, kako volot
+[SP1] тргат, како волот
+[SP1] so volo zaedno
+[SP1] со воло заедно
+[SP1] i ajde ottuka
+[SP1] и ајде оттука
+[SP1] pominale, ajde sega, reče, gotovo, ḱe odime doma
+[SP1] поминале, ајде сега, рече, готово, ќе одиме дома
+[SP1] i sega ja nosi niz selo
+[SP1] и сега ја носи низ село
+[SP1] so jaremo spregnata so volo
+[SP1] со јаремо спрегната со воло
+[SP1] odavdeka volo, odavdeka taja vo jaremo spregnati
+[SP1] одавдека воло, одавдека таја во јаремо спрегнати
+[SP1] i odi tamu
+[SP1] и оди таму
+[SP1] i vleguva vo, vo dvorot
+[SP1] и влегува во, во дворот
+[SP1] ì vika na ženata
+[SP1] и вика на жената
+[SP1] dojdi, reče, daj mu, reče, na voloine neka jadat
+[SP1] дојди, рече, дај му, рече, на волоине да јадат
+[SP1] i, i baba mu ja vrzal tamu so volo vo, vo dvorot
+[SP1] и, и баба му ја врзал таму со воло во, во дворот
+[SP1] mu frlil tamu carevčiče nešto, slamička da jadat
+[SP1] му фрлил таму царевчиче нешто, сламичка да јадат
+[SP1] ko videla taja majka ì
+[SP1] ко видела таја мајка и
+[SP1] taa ḱuti, ne smej sega
+[SP1] таа ќути, не смеј сега
+[SP1] majkava kriva oti, oti ne ja naučila
+[SP1] мајкава крива оти, оти не ја научила
+[SP1] zatoa, zatoa ja tebe te učam, da znaiš
+[SP1] затоа, затоа ја тебе те учам, да знаиш
+[SP1] i
+[SP1] и
+[SP1] ništo
+[SP1] ништо
+[SP1] šo, e... odi, odi, reče, sega pušti ja
+[SP1] шо, е... оди, оди, рече, сега пушти ја
+[SP1] odi, pušti ja, ne ì dale nejze da jadit
+[SP1] оди, пушти ја, не и дале нејзе да јадит
+[SP1] i si otišla doma
+[SP1] и си отишла дома
+[SP1] i sega mažov ja prečekuvat
+[SP1] и сега мажов ја пречекуват
+[SP1] ja prašuva, reče, ženo, kako pomina?
+[SP1] ја прашува, рече, жено, како помина?
+[SP1] ḱuti, reče, mažu
+[SP1] ќути, рече, мажу
+[SP1] sum orala!
+[SP1] сум орала!
+[SP1] e ništo
+[SP1] е ништо
+[SP1] sega toj reče
+[SP1] сега тој рече
+[SP1] ja ḱe odam sega
+[SP1] ја ќе одам сега
+[SP1] javnal konjot
+[SP1] јавнал коњот
+[SP1] so sedlo na konj, tatkoto znaiš
+[SP1] со седло на коњ, таткото знаиш
+[SP1] selski čovek na konj, na sedlo
+[SP1] селски човек на коњ, на седло
+[SP1] otišol i ovoj oral, zetov
+[SP1] отишол и овој орал, зетов
+[SP1] kako šo oral, go videl deka dedovo idit
+[SP1] како шо орал, го видел дека дедово идит
+[SP1] tap, zaprel volovite
+[SP1] тап, запрел воловите
+[SP1] ajde, reče, dedo, ḱe odime doma
+[SP1] ајде, рече, дедо, ќе одиме дома
+[SP1] nego ne go klal da orat
+[SP1] него не го клал да орат
+[SP1] ajde, ḱe odime doma
+[SP1] ајде, ќе одиме дома
+[SP1] otišle doma
+[SP1] отишле дома
+[SP1] ajde, ajde, ženo
+[SP1] ајде, ајде, жено
+[SP1] zakoli petel eden
+[SP1] заколи петел еден
+[SP1] mesi pogača
+[SP1] меси погача
+[SP1] da naprajš ruček
+[SP1] да напраjш ручек
+[SP1] more, mesila pogača
+[SP1] море, месила погача
+[SP1] moži ne vakva, ama
+[SP1] можи не ваква, ама
+[SP1] selska pogača
+[SP1] селска погача
+[SP1] napraela ruček
+[SP1] напраела ручек
+[SP1] ručale, se napile rakija, se napile vince
+[SP1] ручале, се напиле ракија, се напиле винце
+[SP1] i site raboti, i
+[SP1] и сите работи, и
+[SP1] si otišol doma
+[SP1] си отишол дома
+[SP1] otišol d... da ne zboruvam brgo?
+[SP1] отишол д... да не зборувам брго?
+[SP1] ne
+[SP1] не
+[SP1] otišol doma
+[SP1] отишол дома
+[SP1] i vikat
+[SP1] и викат
+[SP1] mažu, kako, kako pomina?
+[SP1] мажу, како, како помина?
+[SP1] ženo, reče, mnogu ubavo, me, me izgostija
+[SP1] жено, рече, многу убаво, ме, ме изгостија
+[SP1] more petel zakla, more pogača, reče, me prečekaa, nači, preuboo!
+[SP1] море петел закла, море погача, рече, ме пречекаа, начи, преубоо!
+[SP1] i, Velika Dotka
+[SP1] и, Велика Дотка
+[SP1] se naučila da rabotit
+[SP1] се научила да работит
+[SP1] i zatoa poslovicata krajo jet
+[SP1] и затоа пословицата крајо јет
+[SP1] majkata
+[SP1] мајката
+[SP1] i t... majkata bila kriva za ženskoto dete
+[SP1] и т... мајката била крива за женското дете
+[SP1] oti ne go naučila da raboti, tatkoto bil gostin
+[SP1] оти не го научила да работи, таткото бил гостин
+[SP1] ovaja prikazna završuva, blagodaram na snimanjeto
+[SP1] оваја приказна завршува, благодарам на снимањето
+[SP1] ḱe slušnite i druga
+[SP1] ќе слушните и друга
+[SP2] fala
+[SP2] Фала.

@@ -1,0 +1,149 @@
+start_ms	end_ms	sp	kind	text
+1576	4023	SP1	lat	pak prikaska so volci
+1576	4023	SP1	cyr	пак прикаска со волци
+4176	5336	SP1	lat	i so luǵe
+4176	5336	SP1	cyr	и со луѓе
+5420	7511	SP1	lat	si bile nekoi selani
+5420	7511	SP1	cyr	си биле некои селани
+7720	10296	SP1	lat	si imale vo nekoe drugo selo tamu
+7720	10296	SP1	cyr	си имале во некое друго село таму
+10541	11688	SP1	lat	kumovi
+10541	11688	SP1	cyr	кумови
+11960	13731	SP1	lat	e sea tie kumovite
+11960	13731	SP1	cyr	е сеа тие кумовите
+14040	15961	SP1	lat	pravele svadba
+14040	15961	SP1	cyr	правеле свадба
+16460	19344	SP1	lat	e sea ovie od... stekale (?) da odaa na svadba
+16460	19344	SP1	cyr	е сеа овие од... стекале да одаа на свадба
+19460	20660	SP1	lat	ama dedoto rekol
+19460	20660	SP1	cyr	ама дедото рекол
+20820	24909	SP1	lat	jas sam ḱe odam na svadba, da ne se vlečime dvajca starci
+20820	24909	SP1	cyr	јас сам ќе одам на свадба, да не се влечиме двајца старци
+25120	27149	SP1	lat	trgat, ti mesi mi pogača
+25120	27149	SP1	cyr	тргат, ти меси ми погача
+27370	30468	SP1	lat	mesi mi maznik, ko baba ti šo mesila deneska
+27370	30468	SP1	cyr	меси ми мазник, ко баба ти шо месила денеска
+30680	33693	SP1	lat	mesi mi maznik, puštaj mi vino karta
+30680	33693	SP1	cyr	меси ми мазник, пуштај ми вино карта
+34020	35740	SP1	lat	na... isprži mi meso
+34020	35740	SP1	cyr	на... испржи ми месо
+35830	37350	SP1	lat	i jas če odam
+35830	37350	SP1	cyr	и јас че одам
+37440	38660	SP1	lat	na svadba
+37440	38660	SP1	cyr	на свадба
+38700	41074	SP1	lat	trgnal dedoto na svadba so magareto
+38700	41074	SP1	cyr	тргнал дедото на свадба со магарето
+41260	44750	SP1	lat	arno ama si zaboravil nešto ni... u darovite
+41260	44750	SP1	cyr	арно ама си заборавил нешто ни... у даровите
+45160	46500	SP1	lat	i go ostavil magareto
+45160	46500	SP1	cyr	и го оставил магарето
+46590	47460	SP1	lat	magareto
+46590	47460	SP1	cyr	магарето
+47507	49330	SP1	lat	reče, čekaj ti tuka
+47507	49330	SP1	cyr	рече, чекај ти тука
+49370	53690	SP1	lat	ja da pojdam da ja zemam... novčalakot (?), nešto šo trebalo da bidi tamu
+49370	53690	SP1	cyr	ја да појдам да ја земам... новчалакот, нешто шо требало да биди таму
+53910	55479	SP1	lat	i ḱe dojdam tamu
+53910	55479	SP1	cyr	и ќе дојдам таму
+55489	56890	SP1	lat	u meǵuvreme
+55489	56890	SP1	cyr	у меѓувреме
+57090	58020	SP1	lat	došol
+57090	58020	SP1	cyr	дошол
+58200	59310	SP1	lat	volk
+58200	59310	SP1	cyr	волк
+59580	62800	SP1	lat	i se zavrtil, e magare, sea, reče
+59580	62800	SP1	cyr	и се завртил, е магаре, сеа, рече
+62880	63679	SP1	lat	ḱe te jadam
+62880	63679	SP1	cyr	ќе те јадам
+63888	66209	SP1	lat	abe, Volčko, jadi me, ama šo ḱe me jadiš?
+63888	66209	SP1	cyr	абе, Волчко, јади ме, ама шо ќе ме јадиш?
+66320	67864	SP1	lat	gledaš deka jas dojdov
+66320	67864	SP1	cyr	гледаш дека јас дојдов
+67888	69877	SP1	lat	tebe da te kanam za kum
+67888	69877	SP1	cyr	тебе да те канам за кум
+70020	70790	SP1	lat	vidi šo nosam
+70020	70790	SP1	cyr	види шо носам
+70890	72700	SP1	lat	nosam pogača, nosam maznik
+70890	72700	SP1	cyr	носам погача, носам мазник
+72730	74300	SP1	lat	nosam meso prženo
+72730	74300	SP1	cyr	носам месо пржено
+74390	75612	SP1	lat	ti nosam i vino
+74390	75612	SP1	cyr	ти носам и вино
+75692	78760	SP1	lat	dojdov, selanite te kanat da mu bidiš
+75692	78760	SP1	cyr	дојдов, селаните те канат да му бидиш
+79200	80195	SP1	lat	starosvat
+79200	80195	SP1	cyr	старосват
+80220	81228	SP1	lat	vo seloto
+80220	81228	SP1	cyr	со селото
+81310	84161	SP1	lat	kako ja starosvat? ḱe bidiš starosvat! ili kum!
+81310	84161	SP1	cyr	како ја старосват? ќе бидиш старосват! или кум!
+83802	84765	SP2	lat	kum
+83802	84765	SP2	cyr	кум
+84280	86240	SP1	lat	šo sakaš da bidiš, kum ili starosvat?
+84280	86240	SP1	cyr	шо сакаш да бидиш, кум или старосват?
+86426	87000	SP1	lat	dobro
+86426	87000	SP1	cyr	добро
+87080	89860	SP1	lat	sea, reče magareto, kači mi se ti mene
+87080	89860	SP1	cyr	сеа, рече магарето, качи ми се ти мене
+89930	91003	SP1	lat	na samaro
+89930	91003	SP1	cyr	на самаро
+91016	93335	SP1	lat	jas če te odnesam, samareto, sednal na magareto
+91016	93335	SP1	cyr	јас че те однесам, самарето, седнал на магарето
+93660	96710	SP1	lat	kači mi se ti mene, ḱe te o... ḱe idam vo seloto
+93660	96710	SP1	cyr	качи ми се ти мене, ќе те о... ќе идам во селото
+96780	99000	SP1	lat	da te odnesam vo seloto, te čekaat selanine
+96780	99000	SP1	cyr	да те однесам во селото, те чекаат селанине
+99290	100810	SP1	lat	i nekoi deca tamu
+99290	100810	SP1	cyr	и некои деца таму
+100910	103210	SP1	lat	ko volkot kačen na magare
+100910	103210	SP1	cyr	ко волкот качен на магаре
+103310	105314	SP1	lat	i magareto počnalo da rika
+103310	105314	SP1	cyr	и магарето почнало да рика
+105321	107342	SP1	lat	od rikanjeto istrčale deca
+105321	107342	SP1	cyr	од рикањето истрчале деца
+107442	109630	SP1	lat	i se vratile vednaga go videle volkot
+107442	109630	SP1	cyr	и се вратиле веднага го виделе волкот
+109686	111414	SP1	lat	na magareto kačen
+109686	111414	SP1	cyr	на магарето качен
+111457	113670	SP1	lat	i mu kažale na roditelite
+111457	113670	SP1	cyr	и му кажале на родителите
+113749	115825	SP1	lat	doete, volkot dojǵe vo seloto
+113749	115825	SP1	cyr	доете, волкот дојѓе во селото
+115859	118378	SP1	lat	ḱe ne izedi site, tie nazemale vili
+115859	118378	SP1	cyr	ќе не изеди сите, тие наземале вили
+118416	120257	SP1	lat	motiki, duri i site
+118416	120257	SP1	cyr	мотики, дури и сите
+120257	121631	SP1	lat	alati šo možele
+120257	121631	SP1	cyr	алати шо можеле
+121731	122342	SP1	lat	da tepaat
+121731	122342	SP1	cyr	да тепаат
+122368	123452	SP1	lat	koga izlegle
+122368	123452	SP1	cyr	кога излегле
+123478	124347	SP1	lat	koa go fatile
+123478	124347	SP1	cyr	коа го фатиле
+124726	128626	SP1	lat	tepaj, tepaj, tepaj, tepaj, tepaj, tepaj, go naprajle
+124726	128626	SP1	cyr	тепај, тепај, тепај, тепај, тепај, тепај, го напрајле
+128678	130008	SP1	lat	paramparče
+128678	130008	SP1	cyr	парампарче
+130068	131100	SP1	lat	taka deneska
+130068	131100	SP1	cyr	така денеска
+131147	132784	SP1	lat	ušte eden volk ima pomalce
+131147	132784	SP1	cyr	уште еден волк има помалце
+132805	134068	SP1	lat	go utepale volko
+132805	134068	SP1	cyr	го утепале волко
+134263	136366	SP1	lat	volki... volkot najpolse rekol
+134263	136366	SP1	cyr	волки... волкот најполсе рекол
+134530	135395	SP2	lat	Bele
+134530	135395	SP2	cyr	Беле
+136172	137074	SP2	lat	sea
+136172	137074	SP2	cyr	сеа
+136477	139277	SP1	lat	kade bre jas, šo barav jas da bidam
+136477	139277	SP1	cyr	каде бре јас, шо барав јас да бидам
+139319	139914	SP1	lat	kum?
+139319	139914	SP1	cyr	кум?
+139948	141481	SP1	lat	arno si imaše meso
+139948	141481	SP1	cyr	арно си имаше месо
+141518	143703	SP1	lat	si imaše magareto, ḱe si go kasnev
+141518	143703	SP1	cyr	си имаше магарето, ќе си го каснев
+143777	147183	SP1	lat	i ḱe odam na kum, e taka, pomalku volk
+143777	147183	SP1	cyr	и ќе одам на кум, е така, помалку волк

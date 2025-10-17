@@ -1,0 +1,100 @@
+[SP1] ajde, si bile
+[SP1] ајде, си биле
+[SP1] nekoja n... nevesta
+[SP1] некоја н... невеста
+[SP1] so, so, so mažot, mu se rodilo dete
+[SP1] со, со, со мажот, му се родило дете
+[SP1] e, ko se rodilo deteto, bilo običaj
+[SP1] е, ко се родило детето, било обичај
+[SP1] tretata večer da sedat babite
+[SP1] третата вечер да седат бабите
+[SP1] da slušat ko ḱe dojdat narečnicite
+[SP1] да слушат ко ќе дојдат наречниците
+[SP1] kakva sreḱa ḱe mu daat na deteto
+[SP1] каква среќа ќе му даат на детето
+[SP1] na... narečnicite kažuvale dali ḱe završi školo, dali ḱe se omaži, dali ḱe rodi deca ko ḱe se omaži
+[SP1] на... наречниците кажувале дали ќе заврши школо, дали ќе се омажи, дали ќе роди деца ко ќе се омажи
+[SP1] dali ḱe se zaposlit, i taka
+[SP1] дали ќе се запослит, и така
+[SP1] e sega, ženite
+[SP1] е сега, жените
+[SP1] babite pozaspale
+[SP1] бабите позаспале
+[SP1] ama momokov rekol ja sega ḱe sedam, nema da spijam, ḱe slušam
+[SP1] ама момоков рекол ја сега ќе седам, нема да спијам, ќе слушам
+[SP1] ḱe slušam ko ḱe dojdat narečnicite, tie bile samovili
+[SP1] ќе слушам ко ќе дојдат нареќниците, тие биле самовили
+[SP1] se vikale samovili
+[SP1] се викале самовили
+[SP1] ednata vikat
+[SP1] едната викат
+[SP1] da ì go zemime detevo
+[SP1] да и го земиме детево
+[SP1] drugata vika ne
+[SP1] другата вика не
+[SP1] ne, da ì go ostajme, vika, neka se, neka se poraduvat
+[SP1] не, да и го остајме, вика, нека се, нека се порадуват
+[SP1] neka se poraduva, vika, neka e, neka ì rastit
+[SP1] нека се порадува, вика, нека е, нека и растит
+[SP1] tretata vikat isto
+[SP1] третата викат исто
+[SP1] neka, neka, neka narastit
+[SP1] нека, нека, нека нарастит
+[SP1] ama, vikat
+[SP1] ама, викат
+[SP1] momokot ḱe ja zakačit na kol
+[SP1] момокот ќе ја закачит на кол
+[SP1] ḱe ja, ḱe ja račepit
+[SP1] ќе ја, ќе ја рачепит
+[SP1] ko ḱe narasti golema, oti momokot, ḱe, ḱe, ḱe ja zemi za žena
+[SP1] ко ќе нарасти голема, оти момокот, ќе, ќе, ќе ја земи за жена
+[SP1] i ovoj slušat, slušat sega toa što go slušal ne kažuva
+[SP1] и овој слушат, слушат сега тоа што го слушал не кажува
+[SP1] na nikomu ne kažuva, pominalo vreme, bil tuka momok
+[SP1] на никому не кажува, поминало време, бил тука момок
+[SP1] otišol na drugo mesto nekade
+[SP1] отишол на друго место некаде
+[SP1] veḱe ovaa narasnala devojka za maženje
+[SP1] веќе оваа нараснала девојка за мажење
+[SP1] ama košo bila probodena imala vo
+[SP1] ама кошо била прободена имала во
+[SP1] ednata noga golema luzna, kako šo bila zakačena
+[SP1] едната нога голема лузна, како шо била закачена
+[SP1] i sega došlo vreme, ḱe se ženi momokov
+[SP1] и сега дошло време, ќе се жени момоков
+[SP1] ajde ovde, onde, ovaja, onaja, nema koja
+[SP1] ајде овде, онде, оваја, онаја, нема која
+[SP1] ajde taja, ajde ḱe ja zemime Neda
+[SP1] ајде таја, ајде ќе ја земиме Неда
+[SP1] ḱe ja zemime Neda e t... ubava devojka, od familija e, ḱe ja zemime nejze
+[SP1] ќе ја земиме Неда е т... убава девојка, од фамилија е, ќе ја земиме нејзе
+[SP1] ajde naprajle veridba
+[SP1] ајде напрајле веридба
+[SP1] napravile svadba
+[SP1] направиле свадба
+[SP1] i sega
+[SP1] и сега
+[SP1] toj je
+[SP1] тој је
+[SP1] je prašuvat
+[SP1] је прашуват
+[SP1] zašto, vika
+[SP1] зашто, вика
+[SP1] je videl, žena mu je veḱe
+[SP1] је видел, жена му је веќе
+[SP1] šo ti e, vika, luznata, vika, na nogata?
+[SP1] шо ти е, вика, лузната, вика, на ногата?
+[SP1] ko sum bila mala, vika
+[SP1] ко сум била мала, вика
+[SP1] ko došle, vika, trite narečnici, samofili... samovilite
+[SP1] ко дошле, вика, трите наречници, самофили... самовилите
+[SP1] rekle, nači, momokot ḱe ja zemi
+[SP1] рекле, начи, момокот ќе ја земи
+[SP1] a momokot ne veruval, rekol, kako e ovoa, sea sega se rodi, jas so tolku godini, da ja zemam za žena?
+[SP1] а мамокот не верувал, рекол, како е овоа, сеа сега се роди, јас со толку години, да ја земам за жена?
+[SP1] i taka nači na... rekle narečnicite i od sudbinata ne se begalo
+[SP1] и така начи на... рекле наречниците и од судбината не се бегало
+[SP1] mu stanala žena i si imale i deca i si živeele ubav život
+[SP1] му станала жена и си имале и деца и си живееле убав живот
+[SP1] taja e tolku
+[SP1] таја е толку

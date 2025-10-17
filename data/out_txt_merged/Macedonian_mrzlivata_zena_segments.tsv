@@ -1,0 +1,423 @@
+start_ms	end_ms	sp	kind	text
+74	2553	SP1	lat	dobro, ajde, prvata ḱe ti ja kažam
+74	2553	SP1	cyr	добро, ајде, првата ќе ти ја кажам
+2630	4724	SP1	lat	so mrzlivata devojka
+2630	4724	SP1	cyr	со мрзливата девојка
+7230	9843	SP1	lat	dobro sum sednata, se vo red je
+7230	9843	SP1	cyr	добро сум седната, се во ред је
+8510	8868	SP2	lat	da
+8510	8868	SP2	cyr	да
+9890	13469	SP1	lat	e mrzlivata devojka trebalo da se mažit
+9890	13469	SP1	cyr	е мрзливата девојка требало да се мажит
+13830	16906	SP1	lat	idele strojnici, klaj si perniče pod gaz, na
+13830	16906	SP1	cyr	иделе стројници, клај си перниче под газ, на
+17260	20933	SP1	lat	idele, idele strojnici, koj ḱe ja posakat
+17260	20933	SP1	cyr	иделе, иделе стројници, кој ќе ја посакат
+21040	23385	SP1	lat	tatkoto i majkata ne ja davale
+21040	23385	SP1	cyr	таткото и мајката не ја давале
+23410	24709	SP1	lat	mu vikale, ne
+23410	24709	SP1	cyr	му викале, не
+25078	26700	SP1	lat	sinko, ne e za vas
+25078	26700	SP1	cyr	синко, не е за вас
+26820	28758	SP1	lat	taja je, mnogu bila mrzliva
+26820	28758	SP1	cyr	таја је, многу била мрзлива
+30705	31732	SP1	lat	i
+30705	31732	SP1	cyr	и
+31780	32884	SP1	lat	eden došol
+31780	32884	SP1	cyr	еден дошол
+33068	36513	SP1	lat	se vratil, došle drugi ja pobarale
+33068	36513	SP1	cyr	се вратил, дошле други ја побарале
+37505	38430	SP1	lat	pak
+37505	38430	SP1	cyr	пак
+38442	40535	SP1	lat	ne sa... ne mu ja davale
+38442	40535	SP1	cyr	не са... не му ја давале
+40557	41975	SP1	lat	ne e, sinko, za tebe
+40557	41975	SP1	cyr	не е, синко, за тебе
+42157	43406	SP1	lat	nogu e mrzliva
+42157	43406	SP1	cyr	ногу е мрзлива
+44000	45100	SP1	lat	i eden
+44000	45100	SP1	cyr	и еден
+45405	46680	SP1	lat	bil mnogu
+45405	46680	SP1	cyr	бил многу
+46826	48314	SP1	lat	silen taka
+46826	48314	SP1	cyr	силен така
+48436	50321	SP1	lat	bil nači opasen čovek
+48436	50321	SP1	cyr	бил начи опасен човек
+50484	52837	SP1	lat	dajte mi e, reče, mene, ja ḱe ja zemam
+50484	52837	SP1	cyr	дајте ми е, рече, мене, ја ќе ја земам
+53000	54986	SP1	lat	ja ḱe, ja ḱe ja naučam sè
+53000	54986	SP1	cyr	ја ќе, ја ќе ја научам сè
+55510	57063	SP1	lat	ne, sinko, ne!
+55510	57063	SP1	cyr	не, синко, не!
+57089	58155	SP1	lat	dajte mi ja!
+57089	58155	SP1	cyr	дајте ми ја!
+58173	59484	SP1	lat	mu ja dale
+58173	59484	SP1	cyr	му ја дале
+59947	62015	SP1	lat	mu ja dale, naprajle svadba
+59947	62015	SP1	cyr	му ја дале, напрајле свадба
+62684	64420	SP1	lat	jadele, pijale
+62684	64420	SP1	cyr	јаделе, пијале
+64478	68948	SP1	lat	šo imalo o svadbata, šo ostanalo lebče, edno drugo, sè
+64478	68948	SP1	cyr	шо имало о свадбата, шо останало лебче, едно друго, сè
+69084	72516	SP1	lat	i taja samo, samo čekat, šo imale izele
+69084	72516	SP1	cyr	и таја само, само чекат, шо имале изеле
+72794	75358	SP1	lat	i sega nema šo da jadat
+72794	75358	SP1	cyr	и сега нема шо да јадат
+75642	76935	SP1	lat	mažov sega
+75642	76935	SP1	cyr	мажов сега
+77342	78392	SP1	lat	vika
+77342	78392	SP1	cyr	вика
+79415	81156	SP1	lat	s kupil edno kožuvče
+79415	81156	SP1	cyr	с купил едно кожувче
+81168	82144	SP1	lat	ženo
+81168	82144	SP1	cyr	жено
+82232	84130	SP1	lat	aj obleči go kožuvčevo, reče
+82232	84130	SP1	cyr	ај облечи го кожувчево, рече
+84687	85756	SP1	lat	na tebe
+84687	85756	SP1	cyr	на тебе
+86305	87336	SP1	lat	i
+86305	87336	SP1	cyr	и
+87594	88303	SP1	lat	mu vikat
+87594	88303	SP1	cyr	му викат
+88544	89815	SP1	lat	kožuvče
+88544	89815	SP1	cyr	кожувче
+89913	92178	SP1	lat	da, sega slušaj me šo ḱe ti kažam
+89913	92178	SP1	cyr	да, сега слушај ме шо ќе ти кажам
+93520	95444	SP1	lat	da staniš sabajle
+93520	95444	SP1	cyr	да станиш сабајле
+95488	97358	SP1	lat	da se izmijaš obraz
+95488	97358	SP1	cyr	да се измијаш образ
+97703	98911	SP1	lat	da se isčešlaš
+97703	98911	SP1	cyr	да се исчешлаш
+99444	101124	SP1	lat	da gi zasučiš rakavite
+99444	101124	SP1	cyr	да ги засучиш ракавите
+101515	103521	SP1	lat	da zamesiš leb
+101515	103521	SP1	cyr	да замесиш леб
+103560	105492	SP1	lat	kako Baba Mare šo mesit
+103560	105492	SP1	cyr	како Баба Маре шо месит
+105866	107428	SP1	lat	kifli i pogači
+105866	107428	SP1	cyr	кифли и погачи
+108590	111830	SP1	lat	i da napraviš ruček ili sarma
+108590	111830	SP1	cyr	и да направиш ручек или сарма
+112357	115763	SP1	lat	ko ḱe dojdam od oranje ḱe ručame zaedno
+112357	115763	SP1	cyr	ко ќе дојдам од орање ќе ручаме заедно
+116725	119385	SP1	lat	i taja ne znaela da raboti ništo
+116725	119385	SP1	cyr	и таја не знаела да работи ништо
+119980	124821	SP1	lat	pasela guski tamu edno drugo sè, po čavkite, ama ništo drugo ne znaela
+119980	124821	SP1	cyr	пасела гуски таму едно друго сè, по чавките, ама ништо друго не знаела
+125005	127431	SP1	lat	nečešlana vo kosata, ne onadena
+125005	127431	SP1	cyr	нечешлана во косата, не онадена
+127940	130466	SP1	lat	eh, ovoj si došol od oranje
+127940	130466	SP1	cyr	ех, овој си дошол од орање
+130974	133115	SP1	lat	i taja sedit čekat
+130974	133115	SP1	cyr	и таја седит чекат
+133647	135606	SP1	lat	čekat nema ništo jadenje
+133647	135606	SP1	cyr	чекат нема ништо јадење
+135949	137098	SP1	lat	i toj mu vikat
+135949	137098	SP1	cyr	и тој му викат
+139450	142716	SP1	lat	ženo, obleči go, reče, kožuvčeno
+139450	142716	SP1	cyr	жено, облечи го, рече, кожувчено
+142930	143862	SP1	lat	obleči go
+142930	143862	SP1	cyr	облечи го
+144218	145738	SP1	lat	go zel stapot
+144218	145738	SP1	cyr	го зел стапот
+146640	148741	SP1	lat	pa ja istepal ubavo
+146640	148741	SP1	cyr	па ја истепал убаво
+149410	151152	SP1	lat	e istepal, reče
+149410	151152	SP1	cyr	е истепал, рече
+151822	153605	SP1	lat	i taja, taja ḱutit
+151822	153605	SP1	cyr	и таја, таја ќутит
+153631	155068	SP1	lat	ako, ako ja boli
+153631	155068	SP1	cyr	ако, ако ја боли
+155136	159836	SP1	lat	neli ti rekov da staniš, da napraviš jadenje, ko ḱe dojdam od oranje da jadime?
+155136	159836	SP1	cyr	нели ти реков да станиш, да направиш јадење, ко ќе дојдам од орање да јадиме?
+160315	161969	SP1	lat	da e dvorot izmeten
+160315	161969	SP1	cyr	да е дворот изметен
+162006	162933	SP1	lat	sè da bidi
+162006	162933	SP1	cyr	сè да биди
+163359	164089	SP1	lat	ništo
+163359	164089	SP1	cyr	ништо
+164691	166778	SP1	lat	ajde, drugoto sabajle pak
+164691	166778	SP1	cyr	ајде, другото сабајле пак
+166852	169131	SP1	lat	pak trpele za jadenje, ne e važno
+166852	169131	SP1	cyr	пак трпеле за јадење, не е важно
+169536	172077	SP1	lat	ajde drugoto sabajle, pak istoto
+169536	172077	SP1	cyr	ајде другото сабајле, пак истото
+172721	175303	SP1	lat	g... kožuvčeto obeseno za dzidot
+172721	175303	SP1	cyr	г... кожувчето обесено за ѕидот
+175855	177557	SP1	lat	znaiš što e kožuvče
+175855	177557	SP1	cyr	знаиш што е кожувче
+178268	179184	SP1	lat	reče
+178268	179184	SP1	cyr	рече
+179526	180702	SP1	lat	kožuvče
+179526	180702	SP1	cyr	кожувче
+181380	183810	SP1	lat	da sta... da staniš
+181380	183810	SP1	cyr	да ста... да станиш
+184205	185861	SP1	lat	da go izmetiš dvoron
+184205	185861	SP1	cyr	да го изметиш дворон
+185880	187431	SP1	lat	da naprajš jadenje
+185880	187431	SP1	cyr	да напрајш јадење
+187981	190363	SP1	lat	ko ḱe dojdam od oranje ḱe jadime zaedno
+187981	190363	SP1	cyr	ко ќе дојдам од орање ќе јадиме заедно
+191519	194239	SP1	lat	taja pak gleda vo kožuvčeto na dzidot
+191519	194239	SP1	cyr	таја пак гледа во кожувчето на ѕидот
+194445	196130	SP1	lat	kožuvčeto ne sleguvat!
+194445	196130	SP1	cyr	кожувчето не слегуват!
+196584	199735	SP1	lat	kaj ḱe slezi kožuvče? to ne e, ne e nešto živo
+196584	199735	SP1	cyr	кај ќе слези кожувче? то не е, не е нешто живо
+200673	201953	SP1	lat	ništo
+200673	201953	SP1	cyr	ништо
+202331	203647	SP1	lat	tretio den
+202331	203647	SP1	cyr	третио ден
+205731	207655	SP1	lat	pak istoto ì go kažuvat
+205731	207655	SP1	cyr	пак истото и го кажуват
+207719	209170	SP1	lat	ajde, reče, ženo
+207719	209170	SP1	cyr	ајде, рече, жено
+210405	211933	SP1	lat	da sleziš
+210405	211933	SP1	cyr	да слезиш
+212605	215881	SP1	lat	taja gleda vo kožuvčeto, ne sleguva kožuvčeto
+212605	215881	SP1	cyr	таја гледа во кожувчето, не слегува кожувчето
+218220	221718	SP1	lat	ko si došol, ja istepal ubavo, ja istepal
+218220	221718	SP1	cyr	ко си дошол, ја истепал убаво, ја истепал
+221790	222520	SP1	lat	reče
+221790	222520	SP1	cyr	рече
+223470	227736	SP1	lat	taja, ma, nemu, mažu, reče, mene me bolit!
+223470	227736	SP1	cyr	таја, ма, нему, мажу, рече, мене ме болит!
+227752	228942	SP1	lat	me bolit mene!
+227752	228942	SP1	cyr	ме болит мене!
+229452	230468	SP1	lat	e, reče
+229452	230468	SP1	cyr	е, рече
+230919	233807	SP1	lat	i ništo, pominale tri dena taka
+230919	233807	SP1	cyr	и ништо, поминале три дена така
+233957	235214	SP1	lat	bez jadenje
+233957	235214	SP1	cyr	без јадење
+235278	236665	SP1	lat	četvrtio den
+235278	236665	SP1	cyr	четвртио ден
+237088	238691	SP1	lat	ovoj odit
+237088	238691	SP1	cyr	овој одит
+238820	240230	SP1	lat	pak, kožuvče, reče
+238820	240230	SP1	cyr	пак, кожувче, рече
+240680	241870	SP1	lat	da staniš
+240680	241870	SP1	cyr	да станиш
+242708	246568	SP1	lat	da, da mesiš, da naprajš ruček, da mesiš pogača
+242708	246568	SP1	cyr	да, да месиш, да напрајш ручек, да месиш погача
+246583	248792	SP1	lat	koa ḱe doam od oranje, da ručame zaedno
+246583	248792	SP1	cyr	коа ќе доам од орање, да ручаме заедно
+250773	253310	SP1	lat	gledala, gledala, ne sleguva kožuvčeto
+250773	253310	SP1	cyr	гледала, гледала, не слегува кожувчето
+253657	254952	SP1	lat	ami stanala
+253657	254952	SP1	cyr	ами станала
+255144	256442	SP1	lat	se izmila
+255144	256442	SP1	cyr	се измила
+257083	258760	SP1	lat	napraela mandžička
+257083	258760	SP1	cyr	напраела манџичка
+259684	261842	SP1	lat	zamesila lebče, kakvo, takvo
+259684	261842	SP1	cyr	замесила лебче, какво, такво
+262215	263890	SP1	lat	ko došol od oranje
+262215	263890	SP1	cyr	ко дошол од орање
+264903	265912	SP1	lat	ko gledat
+264903	265912	SP1	cyr	ко гледат
+266002	267060	SP1	lat	i ovaa, naiš
+266002	267060	SP1	cyr	и оваа, наиш
+267180	268536	SP1	lat	veḱe sea radosna
+267180	268536	SP1	cyr	веќе сеа радосна
+269030	270822	SP1	lat	aaa, reče, kožuvče
+269030	270822	SP1	cyr	ааа, рече, кожувче
+271270	272773	SP1	lat	si napraelo jadenje
+271270	272773	SP1	cyr	си напраело јадење
+272980	274500	SP1	lat	ne, reče, mažu
+272980	274500	SP1	cyr	не, рече, мажу
+274568	275674	SP1	lat	ja napraev!
+274568	275674	SP1	cyr	ја напраев!
+276079	278928	SP1	lat	a, nači, trebalo da jadiš ḱotek
+276079	278928	SP1	cyr	а, начи, требало да јадиш ќотек
+278955	281295	SP1	lat	pa da se naučiš da, da rabotiš
+278955	281295	SP1	cyr	па да се научиш да, да работиш
+282032	285076	SP1	lat	i ajde sednale, ručale šo ručale
+282032	285076	SP1	cyr	и ајде седнале, ручале шо ручале
+285726	288753	SP1	lat	drugio den pak si... počnala da praj jadenje
+285726	288753	SP1	cyr	другио ден пак си... почнала да прај јадење
+289007	291656	SP1	lat	go zametila dvorot, ovoj na oranje
+289007	291656	SP1	cyr	го заметила дворот, овој на орање
+292088	295325	SP1	lat	i ovoj orat, i sega majkava i tatkovo
+292088	295325	SP1	cyr	и овој орат, и сега мајкава и татково
+295413	297349	SP1	lat	abe, vika, šo prajme nie?
+295413	297349	SP1	cyr	абе, вика, шо прајме ние?
+297440	300474	SP1	lat	go, ja omaživme, ne pojdovme da vidime šo prajt
+297440	300474	SP1	cyr	го, ја омаживме, не појдовме да видиме шо прајт
+300903	301917	SP1	lat	dali e živa?
+300903	301917	SP1	cyr	дали е жива?
+303565	305769	SP1	lat	i, majkata reče, ja ḱe odam
+303565	305769	SP1	cyr	и, мајката рече, ја ќе одам
+305790	306833	SP1	lat	ì bilo žal
+305790	306833	SP1	cyr	и било жал
+307305	308660	SP1	lat	ja ḱe odam da vidam
+307305	308660	SP1	cyr	ја ќе одам да видам
+308855	310477	SP1	lat	ovoj kako šo oral
+308855	310477	SP1	cyr	овој како шо орал
+310638	312639	SP1	lat	imalo taka nekoja šuma
+310638	312639	SP1	cyr	имало така некоја шума
+313000	315068	SP1	lat	gusta, planinsko mesto
+313000	315068	SP1	cyr	густа, планинско место
+315564	318328	SP1	lat	vatil ednio vol, go otpuštil, volot
+315564	318328	SP1	cyr	ватил еднио вол, го отпуштил, волот
+318903	320950	SP1	lat	i so eden vol orat
+318903	320950	SP1	cyr	и со еден вол орат
+321726	322956	SP1	lat	i babava idit
+321726	322956	SP1	cyr	и бабава идит
+323000	324991	SP1	lat	pomozi bog, sin... sinko
+323000	324991	SP1	cyr	помози бог, син... синко
+325035	326692	SP1	lat	bog ti pomogol, babo
+325035	326692	SP1	cyr	бог ти помогол, бабо
+327121	329912	SP1	lat	reče, šo, reče, so eden vol? pak, reče
+327121	329912	SP1	cyr	рече, шо, рече, со еден вол? пак, рече
+330355	331317	SP1	lat	eh, nemam
+330355	331317	SP1	cyr	ех, немам
+331342	334010	SP1	lat	ja fatil za pletenki, kako ja so kosava
+331342	334010	SP1	cyr	ја фатил за плетенки, како ја со косава
+334440	335908	SP1	lat	e klal vo jaremot
+334440	335908	SP1	cyr	е клал во јаремот
+336480	338696	SP1	lat	to se vika jarem, šo ora
+336480	338696	SP1	cyr	то се вика јарем, шо ора
+338955	340401	SP1	lat	ja klal vo jaremo
+338955	340401	SP1	cyr	ја клал во јаремо
+340812	341470	SP1	lat	i ajde
+340812	341470	SP1	cyr	и ајде
+341987	342967	SP1	lat	če orat
+341987	342967	SP1	cyr	че орат
+342982	345049	SP1	lat	eden krug naprael vo nivata
+342982	345049	SP1	cyr	еден круг напраел во нивата
+345083	345940	SP1	lat	so babava
+345083	345940	SP1	cyr	со бабава
+346285	348154	SP1	lat	trgat, kako volot
+346285	348154	SP1	cyr	тргат, како волот
+348186	349268	SP1	lat	so volo zaedno
+348186	349268	SP1	cyr	со воло заедно
+350330	351510	SP1	lat	i ajde ottuka
+350330	351510	SP1	cyr	и ајде оттука
+351530	355024	SP1	lat	pominale, ajde sega, reče, gotovo, ḱe odime doma
+351530	355024	SP1	cyr	поминале, ајде сега, рече, готово, ќе одиме дома
+355527	357539	SP1	lat	i sega ja nosi niz selo
+355527	357539	SP1	cyr	и сега ја носи низ село
+357592	360036	SP1	lat	so jaremo spregnata so volo
+357592	360036	SP1	cyr	со јаремо спрегната со воло
+360455	363892	SP1	lat	odavdeka volo, odavdeka taja vo jaremo spregnati
+360455	363892	SP1	cyr	одавдека воло, одавдека таја во јаремо спрегнати
+364340	365747	SP1	lat	i odi tamu
+364340	365747	SP1	cyr	и оди таму
+366035	368584	SP1	lat	i vleguva vo, vo dvorot
+366035	368584	SP1	cyr	и влегува во, во дворот
+368721	370203	SP1	lat	ì vika na ženata
+368721	370203	SP1	cyr	и вика на жената
+370330	372909	SP1	lat	dojdi, reče, daj mu, reče, na voloine neka jadat
+370330	372909	SP1	cyr	дојди, рече, дај му, рече, на волоине да јадат
+373750	377133	SP1	lat	i, i baba mu ja vrzal tamu so volo vo, vo dvorot
+373750	377133	SP1	cyr	и, и баба му ја врзал таму со воло во, во дворот
+377522	380985	SP1	lat	mu frlil tamu carevčiče nešto, slamička da jadat
+377522	380985	SP1	cyr	му фрлил таму царевчиче нешто, сламичка да јадат
+381738	383570	SP1	lat	ko videla taja majka ì
+381738	383570	SP1	cyr	ко видела таја мајка и
+383601	385190	SP1	lat	taa ḱuti, ne smej sega
+383601	385190	SP1	cyr	таа ќути, не смеј сега
+385500	388064	SP1	lat	majkava kriva oti, oti ne ja naučila
+385500	388064	SP1	cyr	мајкава крива оти, оти не ја научила
+388621	391647	SP1	lat	zatoa, zatoa ja tebe te učam, da znaiš
+388621	391647	SP1	cyr	затоа, затоа ја тебе те учам, да знаиш
+392340	393206	SP1	lat	i
+392340	393206	SP1	cyr	и
+393650	394588	SP1	lat	ništo
+393650	394588	SP1	cyr	ништо
+395141	398815	SP1	lat	šo, e... odi, odi, reče, sega pušti ja
+395141	398815	SP1	cyr	шо, е... оди, оди, рече, сега пушти ја
+398836	401204	SP1	lat	odi, pušti ja, ne ì dale nejze da jadit
+398836	401204	SP1	cyr	оди, пушти ја, не и дале нејзе да јадит
+401716	403575	SP1	lat	i si otišla doma
+401716	403575	SP1	cyr	и си отишла дома
+404473	406597	SP1	lat	i sega mažov ja prečekuvat
+404473	406597	SP1	cyr	и сега мажов ја пречекуват
+406615	409265	SP1	lat	ja prašuva, reče, ženo, kako pomina?
+406615	409265	SP1	cyr	ја прашува, рече, жено, како помина?
+409742	411699	SP1	lat	ḱuti, reče, mažu
+409742	411699	SP1	cyr	ќути, рече, мажу
+411747	413053	SP1	lat	sum orala!
+411747	413053	SP1	cyr	сум орала!
+414942	416442	SP1	lat	e ništo
+414942	416442	SP1	cyr	е ништо
+416504	418563	SP1	lat	sega toj reče
+416504	418563	SP1	cyr	сега тој рече
+418630	419941	SP1	lat	ja ḱe odam sega
+418630	419941	SP1	cyr	ја ќе одам сега
+420378	421911	SP1	lat	javnal konjot
+420378	421911	SP1	cyr	јавнал коњот
+421933	424765	SP1	lat	so sedlo na konj, tatkoto znaiš
+421933	424765	SP1	cyr	со седло на коњ, таткото знаиш
+425061	427477	SP1	lat	selski čovek na konj, na sedlo
+425061	427477	SP1	cyr	селски човек на коњ, на седло
+427617	430406	SP1	lat	otišol i ovoj oral, zetov
+427617	430406	SP1	cyr	отишол и овој орал, зетов
+430884	433767	SP1	lat	kako šo oral, go videl deka dedovo idit
+430884	433767	SP1	cyr	како шо орал, го видел дека дедово идит
+434335	436740	SP1	lat	tap, zaprel volovite
+434335	436740	SP1	cyr	тап, запрел воловите
+437429	440164	SP1	lat	ajde, reče, dedo, ḱe odime doma
+437429	440164	SP1	cyr	ајде, рече, дедо, ќе одиме дома
+441106	442713	SP1	lat	nego ne go klal da orat
+441106	442713	SP1	cyr	него не го клал да орат
+443154	444606	SP1	lat	ajde, ḱe odime doma
+443154	444606	SP1	cyr	ајде, ќе одиме дома
+444672	445920	SP1	lat	otišle doma
+444672	445920	SP1	cyr	отишле дома
+446068	447628	SP1	lat	ajde, ajde, ženo
+446068	447628	SP1	cyr	ајде, ајде, жено
+448043	449825	SP1	lat	zakoli petel eden
+448043	449825	SP1	cyr	заколи петел еден
+449883	451028	SP1	lat	mesi pogača
+449883	451028	SP1	cyr	меси погача
+451500	453003	SP1	lat	da naprajš ruček
+451500	453003	SP1	cyr	да напраjш ручек
+453456	455160	SP1	lat	more, mesila pogača
+453456	455160	SP1	cyr	море, месила погача
+455570	457088	SP1	lat	moži ne vakva, ama
+455570	457088	SP1	cyr	можи не ваква, ама
+457287	458672	SP1	lat	selska pogača
+457287	458672	SP1	cyr	селска погача
+459181	460924	SP1	lat	napraela ruček
+459181	460924	SP1	cyr	напраела ручек
+460962	464573	SP1	lat	ručale, se napile rakija, se napile vince
+460962	464573	SP1	cyr	ручале, се напиле ракија, се напиле винце
+464825	467088	SP1	lat	i site raboti, i
+464825	467088	SP1	cyr	и сите работи, и
+467486	468933	SP1	lat	si otišol doma
+467486	468933	SP1	cyr	си отишол дома
+469805	472013	SP1	lat	otišol d... da ne zboruvam brgo?
+469805	472013	SP1	cyr	отишол д... да не зборувам брго?
+472221	472794	SP1	lat	ne
+472221	472794	SP1	cyr	не
+473264	474459	SP1	lat	otišol doma
+473264	474459	SP1	cyr	отишол дома
+474867	476029	SP1	lat	i vikat
+474867	476029	SP1	cyr	и викат
+476093	477886	SP1	lat	mažu, kako, kako pomina?
+476093	477886	SP1	cyr	мажу, како, како помина?
+478326	481219	SP1	lat	ženo, reče, mnogu ubavo, me, me izgostija
+478326	481219	SP1	cyr	жено, рече, многу убаво, ме, ме изгостија
+481278	485818	SP1	lat	more petel zakla, more pogača, reče, me prečekaa, nači, preuboo!
+481278	485818	SP1	cyr	море петел закла, море погача, рече, ме пречекаа, начи, преубоо!
+486388	488522	SP1	lat	i, Velika Dotka
+486388	488522	SP1	cyr	и, Велика Дотка
+489088	491190	SP1	lat	se naučila da rabotit
+489088	491190	SP1	cyr	се научила да работит
+491252	493646	SP1	lat	i zatoa poslovicata krajo jet
+491252	493646	SP1	cyr	и затоа пословицата крајо јет
+493911	494721	SP1	lat	majkata
+493911	494721	SP1	cyr	мајката
+494800	498265	SP1	lat	i t... majkata bila kriva za ženskoto dete
+494800	498265	SP1	cyr	и т... мајката била крива за женското дете
+498327	502448	SP1	lat	oti ne go naučila da raboti, tatkoto bil gostin
+498327	502448	SP1	cyr	оти не го научила да работи, таткото бил гостин
+503314	507677	SP1	lat	ovaja prikazna završuva, blagodaram na snimanjeto
+503314	507677	SP1	cyr	оваја приказна завршува, благодарам на снимањето
+507769	509458	SP1	lat	ḱe slušnite i druga
+507769	509458	SP1	cyr	ќе слушните и друга
+509523	510100	SP2	lat	fala
+509523	510100	SP2	cyr	Фала.

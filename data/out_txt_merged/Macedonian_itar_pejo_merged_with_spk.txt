@@ -1,0 +1,94 @@
+[SP1] e sea bil Itar Pejo, došol vo
+[SP1] е сеа бил Итар Пејо, дошол во
+[SP1] vo Prilep
+[SP1] во Прилеп
+[SP1] otišol na berber
+[SP1] отишол на бербер
+[SP1] da se briči
+[SP1] да се бричи
+[SP1] i sega vo Prilep majtapdžii
+[SP1] и сега во Прилеп мајтапџии
+[SP1] i mu rekle, aaa be Pejo, ti si mnogu hrabar!
+[SP1] и му рекле, ааа бе Пејо, ти си многу храбар!
+[SP1] če te bričime na suvo!
+[SP1] че те бричиме на суво!
+[SP1] i ovoj go vatile na suvo
+[SP1] и овој го ватиле на суво
+[SP1] brči, vrp vrp, vrp vrp
+[SP1] брчи, врп врп, врп врп
+[SP1] trpi Pejo, lele majko!
+[SP1] трпи Пејо, леле мајко!
+[SP1] si odi
+[SP1] си оди
+[SP1] vo seloto
+[SP1] во селото
+[SP1] arno ama
+[SP1] арно ама
+[SP1] ko došlo za lozjata
+[SP1] ко дошло за лозјата
+[SP1] da se kroa, pak došol v grad
+[SP1] да се кроа, пак дошол в град
+[SP1] i kaj berberot došol
+[SP1] и кај берберот дошол
+[SP1] abe, rekol, da ne imate lozje za kroenje? majstor sum
+[SP1] абе, рекол, да не имате лозје за кроење? мајстор сум
+[SP1] imam, reče, ni treba majstor
+[SP1] имам, рече, ни треба мајстор
+[SP1] eve ti ruček, eve ti si, go odnesle na lozje i počnal da raboti
+[SP1] еве ти ручек, еве ти си, го оденесле на лозје и почнал да работи
+[SP1] če vratil otade i mu rekol
+[SP1] че вратил отаде и му рекол
+[SP1] go sraboti? go srabotiv
+[SP1] го сработи? го сработив
+[SP1] kako, plači lozjeto? oti ko ḱe kroiš lozjeto plači
+[SP1] како, плачи лозјето? оти ко ќе кроиш лозјето плачи
+[SP1] ne, reče, lozjeto da plači, tuku i ti če plačiš ko če pojdiš!
+[SP1] не, рече, лозјето да плачи, туку и ти че плачиш ко че појдиш!
+[SP1] ko otišle gazdava da vida, go otkornel sose korenje seto
+[SP1] ко отишле газдава да вида, го откорнел сосе корење сето
+[SP1] da prodolžam drugi prikaski?
+[SP1] да продолжам други прикаски?
+[SP2] da, ajde, da, ako znajte, ajde
+[SP2] да, ајде, да, ако знајте, ајде
+[SP1] eh
+[SP1] ех
+[SP1] Itar Pejo učenik
+[SP1] Итар Пејо ученик
+[SP1] i učitelo mu rekol
+[SP1] и учитело му рекол
+[SP1] slušajte vamu
+[SP1] слушајте ваму
+[SP1] site za Veligden po edno jajce če donesite
+[SP1] сите за Велигден по едно јајце че донесите
+[SP1] site nosat jajce, Itar Pejo ne
+[SP1] сите носат јајце, Итар Пејо не
+[SP1] zošto, rekol, Pejo, ne nosiš jajce?
+[SP1] зошто, рекол, Пејо, не носиш јајце?
+[SP1] jajce?
+[SP1] јајце?
+[SP1] ami, reče, učitele, ovie site kokoški, mora eden petel da ima!
+[SP1] ами, рече, учителе, овие сите кокошки, мора еден петел да има!
+[SP1] gleda vo eden vir polno ribi
+[SP1] гледа во еден вир полно риби
+[SP1] i mu vika, Mariovci, be šo čekate?
+[SP1] и му вика, Мариовци, бе шо чекате?
+[SP1] ribja čorba!
+[SP1] рибја чорба!
+[SP1] se navrtele Mariovcite, srkale, viro jada, lele majko!
+[SP1] се навртеле Мариовците, сркале, виро јада, леле мајко!
+[SP2] /laughing/
+[SP2] /laughing/
+[SP1] ida Mariovci vo selo, magla XXX planina vamu
+[SP1] ида Мариовци во село, магла ХХХ планина ваму
+[SP1] magla, ne se gledalo
+[SP1] магла, не се гледало
+[SP1] i mu vika
+[SP1] и му вика
+[SP1] na selanive, šo čekate be Mariovci?
+[SP1] на селаниве, шо чекате бе Мариовци?
+[SP1] volnava soberete ja, če vi ja soberat!
+[SP1] волнава соберете ја, че ви ја соберат!
+[SP1] site se isfrlile i se istepale
+[SP1] сите се исфрлиле и се истепале
+[SP1] e taka e so Itar Pejo
+[SP1] е така е со Итар Пејо

@@ -1,0 +1,503 @@
+[SP1] e, ajde, si bile Role i Rolejca
+[SP1] е, ајде, си биле Роле и Ролеејца
+[SP1] imale... bile siromaški
+[SP1] имале... биле сиромашки
+[SP1] eee
+[SP1] еее
+[SP1] ma, mu umrel edniot vol
+[SP1] ма, му умрел едниот вол
+[SP1] i sega
+[SP1] и сега,
+[SP1] vika
+[SP1] вика
+[SP1] šo ḱe prajme? ḱe odime
+[SP1] шо ќе прајме? ќе одиме
+[SP1] da go prodajme i drugiov
+[SP1] да го продајме и другиов
+[SP1] ama nekoi aramii
+[SP1] ама некои арамии
+[SP1] go sretnale na patot i mu rekle
+[SP1] го сретнале на патот и му рекле
+[SP1] kaj si trgnal, Role?
+[SP1] кај си тргнал, Роле?
+[SP1] be, reče, ḱe go prodavam volov. Abe, ubav je
+[SP1] бе, рече, ќе го продавам волов, абе, убав је
+[SP1] ama ednio rog
+[SP1] ама еднио рог
+[SP1] da mu go skršiš
+[SP1] да му го скршиш
+[SP1] oti i našiot takov jet, taman da bidat dvajcata isti
+[SP1] оти и нашиот таков јет, таман да бидат двајцата исти
+[SP1] i Role se izlažal, mu go skršil rogot
+[SP1] и Роле се излажал, му го скршил рогот
+[SP1] ništooo...
+[SP1] ништооо...
+[SP1] otišol na pazar
+[SP1] отишол на пазар
+[SP1] počnale da go plukaat luǵeto, počnalo da mu tečit krv
+[SP1] почнале да го плукаат луѓето, почнало да му течит крв
+[SP1] na volo
+[SP1] на воло
+[SP1] od rogo
+[SP1] од рого
+[SP1] i go plukale site sramele i si otišol doma.
+[SP1] и го плукале сите срамеле и си отишол дома
+[SP1] i mu vika na ženata sea reče čekaj
+[SP1] и му вика на жената сеа рече чекај
+[SP1] ja ḱe mu kažam niv, reče, drug pat
+[SP1] ја ќе му кажам нив, рече, друг пат
+[SP1] ajde, go izlažale
+[SP1] ајде, го излажале
+[SP1] trgnal pak da odi
+[SP1] тргнал пак да оди
+[SP1] Role
+[SP1] Роле
+[SP1] i mu vika, abre pa go nosel volo
+[SP1] и му вика, абре па го носел воло
+[SP1] abre, Role
+[SP1] абре, Роле
+[SP1] reče, ubav jet,
+[SP1] рече, убав јет,
+[SP1] ama našiot nema opaška
+[SP1] ама нашиот нема опашка
+[SP1] da mu ja presečiš opaškava
+[SP1] да му ја пресечиш опашкава
+[SP1] da bidat isti dvajcata
+[SP1] да бидат исти двајцата
+[SP1] za oranje
+[SP1] за орање
+[SP1] uh!
+[SP1] ух!
+[SP1] lesno za opaškata! Tap, mu ja presekol opaškata!
+[SP1] лесно за опашката! тап, му ја пресекол опашката!
+[SP1] mu ja presekol opaškata
+[SP1] му ја пресекол опашката
+[SP1] i
+[SP1] и
+[SP1] otišol na pazar, se sobrale muvi da lazat
+[SP1] отишол на пазар, се собрале муви да лазат
+[SP1] po krvta
+[SP1] по крвта
+[SP1] počnale da go plukaa
+[SP1] почнале да го плукаа
+[SP1] pa si došol doma
+[SP1] па си дошол дома
+[SP1] ah, na ženata mu vika, e sea reče ḱe vidiš šo ḱe mu napraam
+[SP1] ах, на жената му вика, е сеа рече ќе видиш шо ќе му напраам
+[SP1] ḱe mu ja ebam majkata nivna
+[SP1] ќе му ја ебам мајката нивна
+[SP1] sea reče, magareto
+[SP1] сеа рече, магарето
+[SP1] ḱe go teram na pazar
+[SP1] ќе го терам на пазар
+[SP1] da go prodavam
+[SP1] да го продавам
+[SP1] i zel, togaš se vikale,
+[SP1] и зел, тогаш се викале,
+[SP1] beli medžuvii, pari
+[SP1] бели меџуви, пари
+[SP2] mmm
+[SP2] ммм.
+[SP1] i sea magareto koa se poseri ovoj ḱe vrli pari vo lepeškata
+[SP1] и сеа магарето коа се посери овој ќе врли пари во лепешката
+[SP1] pa potaka
+[SP1] па потака
+[SP1] XXX
+[SP1] vika site pari mi gi posra!
+[SP1] вика сите пари ми ги посра!
+[SP1] ajde!
+[SP1] ајде!
+[SP1] i ovie sega gledaa, slušaa
+[SP1] и овие сега гледаа, слушаа
+[SP1] se kriele
+[SP1] се криеле
+[SP1] slušaat
+[SP1] слушаат
+[SP1] more, reče, daj da mu kupime magarevo
+[SP1] море, рече, дај да му купиме магарево
+[SP1] abe, reče, Role, kolku pari baraš?
+[SP1] абе, рече, Роле, колку пари бараш?
+[SP1] pa, reče
+[SP1] па, рече
+[SP1] pedeset liri
+[SP1] педесет лири
+[SP1] ḱe ti dajme
+[SP1] ќе ти дајме
+[SP1] ḱe ti dajme, ama ḱe ni go dajš magarevo
+[SP1] ќе ти дајме, ама ќе ни го дајш магарево
+[SP1] ḱe vi go daam
+[SP1] ќе ви го даам
+[SP1] i ovoj
+[SP1] и овој
+[SP1] i sea go prašuvaat, so što go raniš magareto
+[SP1] и сеа го прашуваат, со што го раниш магарето
+[SP1] mu vika sega eden šinik
+[SP1] му вика сега еден шиник
+[SP1] toa šinik se vikalo, pedeset kila šinikot, babe, sobirat
+[SP1] тоа шиник се викало, педесет кила шиникот, бабе, собират
+[SP1] da, da
+[SP1] да, да
+[SP1] dvajspet kila
+[SP1] двајспет кила
+[SP2] da
+[SP2] да
+[SP1] šinikot sobira žito
+[SP1] шиникот собира жито
+[SP1] e
+[SP1] е
+[SP1] rž, vika, ḱe mu dajš eden šinik rž
+[SP1] рж, вика, ќе му даиш еден шиник рж
+[SP1] i
+[SP1] и
+[SP1] edna kanta voda
+[SP1] една канта вода
+[SP1] da se nazoba ržta, nabubruvala, olka
+[SP1] да се назоба ржта, набубрувала, олка
+[SP1] se praela
+[SP1] се праела
+[SP1] i toa se prejalo, i
+[SP1] и тоа се прејало, и
+[SP1] i, a
+[SP1] и, а
+[SP1] kaj leži? pa, vika
+[SP1] кај лежи? па, вика
+[SP1] ḱe go klajte da leži vo potesno
+[SP1] ќе го клајте да лежи во потесно
+[SP1] kako kaučov moj da e, pomal
+[SP1] како каучов мој да е, помал
+[SP1] da ležit za da
+[SP1] да лежит за да
+[SP1] možit da jadit
+[SP1] можит да јадит
+[SP1] i toa koa ḱe umri
+[SP1] и тоа коа ќе умри
+[SP1] da nemoži da, da se vrtit
+[SP1] да неможи да, да се вртит
+[SP1] se napilo, se najalo
+[SP1] се напило, се најало
+[SP1] magareto
+[SP1] магарето
+[SP1] šo ḱe praj
+[SP1] шо ќе прај
+[SP1] umrelo noḱta magareto
+[SP1] умрело ноќта магарето
+[SP1] i so nozete
+[SP1] и со нозете
+[SP1] potkovano bilo
+[SP1] потковано било
+[SP1] pločite nakaj vratata
+[SP1] плочите накај вратата
+[SP1] i sea dvajcava braḱa, vika ednio, bate!
+[SP1] и сеа двајцава браќа, вика еднио, бате!
+[SP1] brgo da vidiš, reče, kolku pari, reče, nasralo magareto!
+[SP1] брго да видиш, рече, колку пари, рече, насрало магарето!
+[SP1] se raduvaat, pari!
+[SP1] се радуваат, пари!
+[SP1] koa ḱe vidat, šo ḱe vidat
+[SP1] коа ќе видат, шо ќе видат
+[SP1] umrelo magareto
+[SP1] умрело магарето
+[SP1] mu otišle, sea, reče, mamata negova!
+[SP1] му отишле, сеа, рече, мамата негова!
+[SP1] parite nazad ili, ili glaata!
+[SP1] парите назад или, или глаата!
+[SP1] ništo
+[SP1] ништо
+[SP1] ama ovoj
+[SP1] ама овој
+[SP1] znael to deka ḱe dojdat
+[SP1] знаел то дека ќе дојдат
+[SP1] i sega
+[SP1] и сега
+[SP1] zel dve zajačina
+[SP1] зел две зајачина
+[SP2] mmm
+[SP2] ммм.
+[SP1] ednoto zajače, doma
+[SP1] едното зајаче, дома
+[SP1] drugoto zajače go zel na oranje
+[SP1] другото зајаче го зел на орање
+[SP1] i sea reče koa ḱe dojdat, ženo, ti ḱe mu...
+[SP1] и сеа рече коа ќе дојдат, жено, ти ќе му...
+[SP1] ko ḱe me pobaraat
+[SP1] ко ќе ме побараат
+[SP1] ḱe rečiš Role e na oranje
+[SP1] ќе речиш Роле е на орање
+[SP1] eve ḱe go pratam zajačevo
+[SP1] еве ќе го пратам зајачево
+[SP1] ḱe mu kaži ḱe si dojdit
+[SP1] ќе му кажи ќе си дојдит
+[SP1] i ovie, pa se izlažale, babe
+[SP1] и овие, па се излажале, бабе
+[SP1] i ovoj
+[SP1] и овој
+[SP1] došle, kade e Role? na oranje jet
+[SP1] дошле, каде е Роле? на орање јет
+[SP1] koga... e, ḱe go pratam, reče, zajačevo
+[SP1] кога... е, ќе го пратам, рече, зајачево
+[SP1] ḱe si dojdit
+[SP1] ќе си дојдит
+[SP1] ḱe mu kažit
+[SP1] ќе му кажит
+[SP1] e kako taka? e taka reče
+[SP1] е како така? е, така рече
+[SP1] ajde ona go puštila zajačeto, a ovoj skrijan, vardel nekade
+[SP1] ајде она го пуштила зајачето, а овој скријан, вардел некаде
+[SP2] mmm
+[SP2] Мхм
+[SP1] i Role si došol, ooo dobredojdovte, kako ste?
+[SP1] и Роле си дошол, ооо добредојдовте, како сте?
+[SP1] dobri sme, abre, reče, vaka i vaka, ni umre, vika, magareto
+[SP1] добри сме, абре, рече, вака и вака, ни умре, вика, магарето
+[SP1] e ništo, ako ne, reče, sea
+[SP1] е ништо, ако не, рече, сеа
+[SP1] ḱe ni go daiš zajačevo
+[SP1] ќе ни го даиш зајачево
+[SP1] kolku pari?
+[SP1] колку пари?
+[SP1] i toa trieset liri, ili pedeset
+[SP1] и тоа триесет лири, или педесет
+[SP1] e, oti, nie, vika, na rabota ko da pojme
+[SP1] е, оти, ние, вика, на работа ко да појме
+[SP1] ḱe go pratime, da ni donesat ženite ruček, da ni donesat
+[SP1] ќе го пратиме, да ни донесат жените ручек, да ни донесат
+[SP1] seme, da poseeme žito
+[SP1] семе, да посееме жито
+[SP1] i go pratile
+[SP1] и го пратиле
+[SP1] go zele, i za nemu mu zel pari
+[SP1] го зеле, и за нему му зел пари
+[SP1] ajde, si otišle
+[SP1] ајде, си отишле
+[SP1] i sea otišle
+[SP1] и сеа отишле
+[SP1] na oranje
+[SP1] на орање
+[SP1] i
+[SP1] и
+[SP1] zajačeto go zele so niv
+[SP1] зајачето го зеле со нив
+[SP1] sea odi, reče, zajače, kaži mu na ženite da ni donesat ruček
+[SP1] сеа оди, рече, зајаче, кажи му на жените да ни донесат ручек
+[SP2] Mmm
+[SP2] ммм
+[SP1] toj go puštile, toa usvet fatilo, zajačeto
+[SP1] тој го пуштиле, тоа усвет фатило, зајачето
+[SP1] ni ruček, ni
+[SP1] ни ручек, ни
+[SP1] ni večera
+[SP1] ни вечера
+[SP1] ništo, abe, kako, reče, ne dojdovte vie?
+[SP1] ништо, абе, како, рече, не дојдовте вие?
+[SP1] pa!
+[SP1] па!
+[SP1] go prativme zajačeto
+[SP1] го пративме зајачето
+[SP1] ne, bre, reče
+[SP1] не, бре, рече
+[SP1] ništo, šo ḱe prajme sega
+[SP1] ништо, шо ќе прајме сега?
+[SP1] ne
+[SP1] не
+[SP1] ajde
+[SP1] ајде
+[SP1] pa mu otišle
+[SP1] па му отишле
+[SP1] sea, reče, Role, za tebe nema život, ḱe te, ḱe te koleme, ḱe te ubieme.
+[SP1] сеа, рече, Роле, за тебе нема живот, ќе те, ќе те колеме, ќе те убиеме
+[SP1] ama ovoj
+[SP1] ама овој
+[SP1] na ženata reče, da klajš sega ti jadenje da se vari.
+[SP1] на жената рече, да клајш сега ти јадење да се вари
+[SP1] grav
+[SP1] грав
+[SP1] vo edno grne
+[SP1] во едно грне
+[SP1] i znaiš, zemjata koa ḱe se izvarit
+[SP1] и знаиш, земјата коа ќе се изварит
+[SP1] srede soba klaeno i vrija ušte
+[SP1] среде соба клаено и врија уште
+[SP2] mmm
+[SP2] ммм.
+[SP1] vrijat
+[SP1] вријат
+[SP1] e kako reče ova vaka? pa e vaka, rečee
+[SP1] е како, рече, ова вака? епа е вака, рече
+[SP1] ova grne samo varit
+[SP1] ова грне само варит
+[SP2] /laughs/
+[SP2] [laughter]
+[SP1] ḱe ni go daiš.
+[SP1] ќе ни го дајш
+[SP1] abe, ne, vika, ni treba, ne, ḱe ni go dajš, kolku pari sakaš, tolku
+[SP1] абе, не, вика, ни треба, не, ќе ни го даиш, колку пари сакаш, толку
+[SP1] ajde, i tuka mu sobral pari
+[SP1] ајде, и тука му собрал пари
+[SP1] go zele grneto, klale
+[SP1] го зеле грнето, клале
+[SP1] srede soba, ni vrijat, ni ništo
+[SP1] среде соба, ни вријат, ни ништо
+[SP1] kaj ḱe vrie grne?
+[SP1] кај ќе врие грне?
+[SP1] ami, toa, toa vrie zemjata duri e topla
+[SP1] ами, тоа, тоа врие земјата дури е топла
+[SP1] ništo
+[SP1] ништо
+[SP1] otišle, šo ḱe pravat sega, ovoj
+[SP1] отишле, шо ќе прават сега, овој
+[SP1] sea ì vika na ženata, sea, reče, ženo koa ḱe dojda ja sega
+[SP1] сеа и вика на жената сеа рече жено коа ќе дојда ја сега
+[SP1] tebe ḱe te kolam
+[SP1] тебе ќе те колам
+[SP1] ḱe ti vrzam edno
+[SP1] ќе ти врзам едно
+[SP1] vo edno najlonče...
+[SP1] во едно најлонче...
+[SP1] babule
+[SP1] бабуле
+[SP1] toa babule kožno
+[SP1] тоа бабуле кожно
+[SP1] od koža, ti deka neznajš
+[SP1] од кожа, ти дека незнајш
+[SP1] od kokoškite
+[SP1] од кокошките
+[SP1] šo se kolat
+[SP1] шо се колат
+[SP1] so krv
+[SP1] со крв
+[SP1] ḱe go vrzam tuka i
+[SP1] ќе го врзам тука и
+[SP1] ḱe isteči krv i ti
+[SP1] ќе истечи крв и ти
+[SP1] ḱe se naprajš umrena
+[SP1] ќе се напрајш умрена
+[SP1] i došle pak sega, ništo, reče
+[SP1] и дошле пак сега, ништо, рече
+[SP1] mm...
+[SP1] мм
+[SP1] kavalče imal
+[SP1] кавалче имал
+[SP1] imal kavalče
+[SP1] имал кавалче
+[SP1] šo napraj be, reče, ja zakla ženata!
+[SP1] шо напрај бе рече ја закла жената!
+[SP1] sea ḱe vidite, reče, koa ḱe stani da igrat
+[SP1] сеа ќе видите, рече, коа ќе стани да играт
+[SP1] ovoj zasviral so kavalčeto
+[SP1] овој засвирал со кавалчето
+[SP1] zasviral, taa ripnala da igra, ženava
+[SP1] засвриал, таа рипнала да игра, женава
+[SP1] ḱe ni go dajš kavalčeto
+[SP1] ќе ни го дајш кавалчето
+[SP1] ne, bre, reče, sea ženava vodi inat samo se luti, vaka
+[SP1] не, бре, рече, сеа женава води инат само се лути, вака
+[SP1] koa ḱe e luta, da i zasvriam
+[SP1] коа ќе е лута, да и засвриам
+[SP1] da, da stani da igra
+[SP1] да, да стани да игра
+[SP1] a ovie pa gi izlažal
+[SP1] а вие па ги излажал
+[SP1] ajde mori i kavalčeto go zele
+[SP1] ајде мори и кавалчето го зеле
+[SP1] i za niv mu zel pari
+[SP1] и за нив му зел пари
+[SP1] e veḱe sega
+[SP1] е веќе сега
+[SP1] si odat doma
+[SP1] си одат дома
+[SP1] dajte...
+[SP1] дајте...
+[SP1] se iskarale so ženite
+[SP1] се искарале со жените
+[SP1] fape!
+[SP1] фапе!
+[SP1] gi zaklale ženite
+[SP1] ги заклале жените
+[SP1] svirat so kavalče, ni žena stanuva ni ništo, umrele
+[SP1] свират со кавалче, ни жена станува ни ништо, умреле
+[SP1] si zaklale ženite
+[SP1] си заклале жените
+[SP1] sega, rekle, ḱe odime
+[SP1] сега, рекле, ќе одиме
+[SP1] veḱe sega ḱe go klajme vo vreḱa i ḱe go vrlime v more
+[SP1] веќе сега ќе го клајме во вреќа и ќе го врлиме в море
+[SP1] ama mnogu bil itar
+[SP1] ама многу бил итар
+[SP1] Role
+[SP1] Роле
+[SP1] go stavile vo vreḱa
+[SP1] го ставиле во вреќа
+[SP1] i sega ḱe go nosat
+[SP1] и сега ќе го носат
+[SP1] ama pominuvale nekoi svatoi, kako nie neḱni so nevesta
+[SP1] ама поминувале некои сватои, како ние неќни со невеста
+[SP1] odele po nevesta
+[SP1] оделе по невеста
+[SP1] ovoj
+[SP1] овој
+[SP1] mm
+[SP1] мм...
+[SP1] sea go vrzale, ama koa videle svatoive, go ostajle, vika ḱe nè vidi nekoj ḱe nè kažit
+[SP1] сеа го врзале, ама коа виделе сватоиве, го остајле, вика ќе не види некој ќе не кажит
+[SP1] go ostaele
+[SP1] го остаеле
+[SP1] i sega ovoj vikat, neḱam da se ženam, neḱam da se ženam!
+[SP1] и сега овој викат, неќам да се женам, неќам да се женам!
+[SP1] ovoj ovci pasel
+[SP1] овој овци пасел
+[SP1] ovčarot
+[SP1] овчарот
+[SP1] daj, reče, jas sakam da se ženam!
+[SP1] дај, рече, јас сакам да се женам!
+[SP1] dojdi vam da te vrzam vo vreḱa
+[SP1] дојди вам да те врзам во вреќа
+[SP2] /laughs/
+[SP2] Хаха
+[SP1] i ovoj ovčarot go vrzal, babe, vo vreḱa
+[SP1] и овој овчарот го врзал, бабе, во вреќа
+[SP1] a ovoj, zel stapot,
+[SP1] а овој, зел стапот,
+[SP1] ḱe pasi ovcite
+[SP1] ќе паси овците
+[SP1] odma se preprael
+[SP1] одма се препраел
+[SP1] i sega
+[SP1] и сега
+[SP1] ovie go vrlile
+[SP1] овие го врлиле
+[SP1] i koa se vraḱaa, aa, reče
+[SP1] и коа се враќаа, аа, рече
+[SP1] mu ja ebavme majkata, go frlivme, sea go udajvme, reče, nema poeḱe
+[SP1] му ја ебавме мајката, го фрливме, сеа го удајвме, рече, нема поеќе
+[SP1] koa go gledaat
+[SP1] коа го гледаат
+[SP1] terat ovci!
+[SP1] терат овци!
+[SP2] /laughing/
+[SP2] [laughter]
+[SP1] pedeset, sto, glavi ovci tera, pasi
+[SP1] педесет, сто, глави овци тера, паси
+[SP1] kako be, nie te frlivme, reče, vo
+[SP1] како бе, ние те фрливме, рече, во
+[SP1] da te udajme
+[SP1] да те удајме
+[SP1] me vrlivte vo plitkoto, reče, ako me vrlevte vo podlabokoto, poeḱe ḱe izvaev
+[SP1] ме врливте во плиткото, рече, ако ме врлевте во подлабокото, поеќе ќе изваев
+[SP2] /laughs/
+[SP2] [laughter]
+[SP1] ajde, reče, vrzi nè i nas, vikat
+[SP1] ајде, рече, врзи не и нас, викат
+[SP1] vrzi nè i nie da fatime ovci
+[SP1] врзи не и ние да фатиме овци
+[SP1] od moreto
+[SP1] од морето
+[SP1] gi vrzal i niv gi udael
+[SP1] ги врзал и нив ги удаел
+[SP1] i se napolnil pari
+[SP1] и се наполнил пари
+[SP1] e tolku e prikaznata
+[SP1] е толку е приказната
+[SP2] fala, babo
+[SP2] фала, бабо
+[SP1] i sea, tuka me snimaše sè?
+[SP1] и сеа, тука ме снимаше сè?

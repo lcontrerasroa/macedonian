@@ -1,0 +1,392 @@
+[SP1] go sakale ko dete negov
+[SP1] го сакале ко дете негов
+[SP1] edno vreme
+[SP1] едно време
+[SP1] Petko plači
+[SP1] Петко плачи
+[SP1] ženava go gleda, plače
+[SP1] женава го гледа, плаче.
+[SP1] i na mažot ì mu vika
+[SP1] и на мажот и му вика
+[SP1] abe zošto reče Petko plače, da ne go skara ti?
+[SP1] абе зошто, рече, Петко плаче, да не го скара ти?
+[SP1] ne, reče, ni go skarav, ništo, reče
+[SP1] не, рече, ни го скарав, ништо, рече
+[SP1] hajde, reče
+[SP1] хајде, рече
+[SP1] da ni kaži zošto
+[SP1] Да ни кажи зошто
+[SP1] go viknale, abe Petko, zošto plačiš?
+[SP1] го викнале, абе Петко зошто плачиш?
+[SP1] ami, dvaeset godini sum na pečalba
+[SP1] ами, дваесет години сум на печалба
+[SP1] majka mi dali e živa? ženata mi dali e živa? dali imame deca?
+[SP1] мајка ми дали е жива? жената ми дали е жива? дали имаме деца?
+[SP1] neznam kako e, e, mu rekle, sega, utre
+[SP1] Незнам како е, н, му рекле, сега, утре
+[SP1] ti spremame
+[SP1] ти спремаме
+[SP1] da si odiš doma
+[SP1] да си одиш дома
+[SP1] mu napravila dva zelnici
+[SP1] му направила два зелници
+[SP1] eden za popat
+[SP1] еден за попат
+[SP1] eden za doma
+[SP1] еден за дома
+[SP1] dve kartina vino
+[SP1] две картина вино
+[SP1] edno za popat
+[SP1] едно за попат
+[SP1] edno za doma
+[SP1] едно за дома
+[SP1] ajde, trgnale, si baknale i si...
+[SP1] Ајде, тргнале, си бакнале и си...
+[SP1] a pred toa, mu ostajle eden kup zlato ovde
+[SP1] а пред тоа, му остајле еден куп злато овде
+[SP1] i tri frangi ovde zlatnici
+[SP1] и три франги овде златници
+[SP1] i mu rekle ovie se so alav
+[SP1] и му рекле овие се со алав
+[SP1] a ovie se so aram
+[SP1] А овие се со арам
+[SP1] ovoj rekol dur da rabotev dvaeset godini, če gi zeam so alav
+[SP1] овој рекол, дур да работев дваесет години, че ги зеам со алав
+[SP1] trite gi zel zlatnici, si klael v džeb
+[SP1] трите ги зел златници, си клаел в џеб
+[SP1] i si odele, odele
+[SP1] и си оделе, оделе
+[SP1] došle vo eden an
+[SP1] дошле во еден ан
+[SP1] imalo eden star čovek
+[SP1] имало еден стар човек
+[SP1] nikako ne zboruval
+[SP1] никако не зборувал
+[SP1] ni A ni B
+[SP1] ни А ни Б
+[SP1] i ovoj go prašuva andžijava, abe šo, šo čovek e ovoj?
+[SP1] и овој го прашува анџијава, абе шо, шо човек е овој?
+[SP1] eden zbor, eden altan
+[SP1] еден збор, еден алтан
+[SP1] daj, rekol, tri altani imam ja, če mu daam eden
+[SP1] дај, рекол, три алтани имам ја, че му даам еден
+[SP1] pa šo saka neka bide, ko če si pojme doma, zelnik imame, če si jadime so ženata, dete ako dal Gospod
+[SP1] па шо сака нека биде, ко че си појме дома, зелник имаме, че си јадиме со жената, дете ако дал Господ
+[SP1] mu dava eden zlatnik
+[SP1] му дава еден златник
+[SP1] od patot da ne se deliš, tolku stario
+[SP1] од патот да не се делиш, толку старио
+[SP1] daj, rekol, sea če mu daam ušte eden
+[SP1] дај, рекол, сеа че му даам уште еден
+[SP1] eve ti ušte eden zlatnik
+[SP1] еве ти уште еден златник
+[SP1] vo matna voda da ne vleguvaš
+[SP1] во матна вода да не влегуваш
+[SP1] aj ovoj si go klal, mre, ušte eden če mu dam
+[SP1] ај овој си го клал, мре, уште еден че му дам
+[SP1] ko, da bidiš strpeliv
+[SP1] ко, да бидиш стрпелив
+[SP1] mu rekol, i tolku
+[SP1] му рекол, и толку
+[SP1] si gi klal parite, i si oda, oda, oda
+[SP1] си ги клал парите, и си ода, ода, ода
+[SP1] došle kaj
+[SP1] дошле кај
+[SP1] edna češma, site pečalbarive
+[SP1] една чешма, сите печалбариве
+[SP1] i mu vika, ajde be!
+[SP1] и му вика, ајде бе!
+[SP1] Petko, da si odime prekutrupa
+[SP1] Петко, да си одиме прекутрупа
+[SP1] ovoj rekol, neee, dvaeset godini rabotev, zlatnik dadov
+[SP1] овој рекол, неее, дваесет години работев, златник дадов
+[SP1] prekutrupa ne odam, če si odam po pato
+[SP1] прекутрупа не одам, че си одам по пато
+[SP1] i odi po pato, došol kaj češmata, gi čeka, čeka, nema nikoj
+[SP1] и оди по пато, дошол кај чешмата, ги чека, чека, нема никој
+[SP1] koa edno vreme ida aramiite da gi vata sè da mu zemat
+[SP1] коа едно време ида арамиите да ги вата сè да му земат
+[SP1] eeee, rekol, gleaš so zlatnikot
+[SP1] ееее, рекол, глеаш со златникот
+[SP1] kurtuliv
+[SP1] куртулив
+[SP1] si odi, odi, odi, koa eden Turčin na konj kačen
+[SP1] си оди, оди, оди, коа еден Турчин на коњ качен
+[SP1] edna reka nadojdena
+[SP1] една река надојдена
+[SP1] sè nosi, drvja, kamenja
+[SP1] сè носи, дрвја, камења
+[SP1] ovoj Turčinov mu vika
+[SP1] овој Турчинов му вика
+[SP1] vati me, ḱerate, reče, konjot vlečka preku reka
+[SP1] вати ме, ќерате, рече, коњот влечка преку река
+[SP1] neeee, rekol, vo matna voda ne vleguvam
+[SP1] нееее, рекол, во матна вода не влегувам
+[SP1] aa Turčevo na mama
+[SP1] аа Турчево на мама
+[SP1] se udael
+[SP1] се удаел
+[SP1] si go zel konjot, si se kačil na konj
+[SP1] си го зел коњот, си се качил на коњ
+[SP1] si odi doma
+[SP1] си оди дома
+[SP1] večerta Taso ì tropa
+[SP1] вечерта Тасо и тропа
+[SP1] dobrovečer
+[SP1] добровечер
+[SP1] dobrovečer
+[SP1] добровечер
+[SP1] abe, rekol, patnik sum jas na pečalba, dali moži da prespijam?
+[SP1] абе, рекол, патник сум јас на печалба, дали можи да преспијам?
+[SP1] kako ne, reče
+[SP1] како не, рече
+[SP1] i mažot mi, reče, dvaeset godini
+[SP1] и мажот ми, рече, дваесет години
+[SP1] ovaa ne go poznala, ženava
+[SP1] оваа не го познала, женава
+[SP1] aj, rekol, legni, bar edna soba imam
+[SP1] ај, рекол, легни, бар една соба имам
+[SP1] i si ležele vaka
+[SP1] и си лежеле вака
+[SP1] i edno vreme odi kaj nejze
+[SP1] и едно време оди кај нејзе
+[SP1] abe da legnam do tebe?
+[SP1] абе да легнам до тебе?
+[SP1] da se stramiš, mu rekol
+[SP1] да се страмиш, му рекол
+[SP1] sea jas te priberav, ti sakaš da legniš do mene
+[SP1] сеа јас те приберав, ти сакаш да легниш до мене
+[SP1] če gi viknam od selo če te otepaa
+[SP1] че ги викнам од село че те отепаа
+[SP1] pak edno vreme
+[SP1] пак едно време
+[SP1] da legnam?
+[SP1] да легнам?
+[SP1] koa edno vreme
+[SP1] коа едно време
+[SP1] davaj go edno momče ooop si legnuva do nea
+[SP1] давај го едно момче оооп си легнува до неа
+[SP1] mooori, rekol
+[SP1] мооори, рекол
+[SP1] abe ovaa ima ljubovnik be! a, seḱirata da go otepa
+[SP1] абе оваа има љубовник бе! а, сеќирата да го отепа
+[SP1] stoj be, rekol
+[SP1] стој бе, рекол
+[SP1] poleka
+[SP1] полека
+[SP1] da bidiš strpeliv
+[SP1] да бидиш стрпелив
+[SP1] pak, večerta, sega če gi otepam
+[SP1] пак, вечерта, сега че ги отепам
+[SP1] koa edno vreme sabajleto kaj pet saato go razbuduva, ajde, sinko, reče, na drva
+[SP1] коа едно време сабајлето кај пет саато го разбудува, ајде, синко, рече, на дрва
+[SP1] more, rekol, šo če napravev
+[SP1] море, рекол, шо че направев
+[SP1] če si go otepav deteto i ženata
+[SP1] че си го отепав детето и жената.
+[SP1] utroto sabajle
+[SP1] утрото сабајле
+[SP1] mori, ženo, jas sum, reče, Petko
+[SP1] мори, жено, јас сум, рече, Петко
+[SP1] ne, reče
+[SP1] не, рече
+[SP1] sega ja te pribrav, pa da legniš do mene, pa sega
+[SP1] sега ја те прибрав, па да легниш до мене, па сега
+[SP1] Petko
+[SP1] Петко
+[SP1] če go viknime nunkoto, reče
+[SP1] че го викниме нункото, рече
+[SP1] po...
+[SP1] по...
+[SP1] ima nišani
+[SP1] има нишани
+[SP1] nunkoto gi znae decata po nišanite
+[SP1] нункото ги знае децата по нишаните
+[SP1] koa go glea, ooo be Petko!
+[SP1] коа го глеа, ооо бе Петко!
+[SP1] ti si be! ajde, ajde, ajde, rekol, vidi go konjo
+[SP1] ти си бе! ајде, ајде, ајде, рекол, види го коњо
+[SP1] šo ima vo disadžite, polno zlato
+[SP1] шо има во дисаџите, полно злато
+[SP1] hajde, reče, sea, zelnikov
+[SP1] хајде, рече, сеа, зелников
+[SP1] skrši go
+[SP1] скрши го
+[SP1] ženata sito zlato go klala vo zelniko
+[SP1] жената сито злато го клала во зелнико
+[SP1] ajde karteto, i tuka sito zlato
+[SP1] ајде картето, и тука сито злато
+[SP1] dobro, rekol, sin mu porasnal, sega, rekol, ja če odam na pečalba
+[SP1] добро, рекол, син му пораснал, сега, рекол, ја че одам на печалба
+[SP1] kako be sinko
+[SP1] како бе синко
+[SP1] ne, reče, sega ja če odam na pečalba
+[SP1] не, рече, сега ја че одам на печалба
+[SP1] daj, rekol, če odiš što odiš. eve ti pari, i da odiš
+[SP1] дај, рекол, че одиш што одиш, еве ти пари, и да одиш
+[SP1] mu dal tri jabolka i eden vo nože
+[SP1] му дал три јаболка и еден во ноже
+[SP1] i mu rekol
+[SP1] и му рекол
+[SP1] ko če odiš popat, ko če sretniš prijatel če mu dajš jabolkoto i nožeto
+[SP1] ко че одиш попат, ко че сретниш пријател че му дајш јаболкото и ножето
+[SP1] ako ti e prijatel, če go preseči točno
+[SP1] ако ти е пријател, че го пресечи точно
+[SP1] ako ne ti e prijatel
+[SP1] ако не ти е пријател
+[SP1] za nego pogolemo, za tebe pomalo
+[SP1] за него поголемо, за тебе помало
+[SP1] ovoj, dobro
+[SP1] овој, добро
+[SP1] i trgnal i koa eden go sretna, aa, ovoj mu reče, pobratim be? e, na pečalba. i ja, reče, če odam na pečalba
+[SP1] и тргнал и коа еден го сретна, аа, овој му рече, побратим бе? е, на печалба, и ја, рече, че одам на печалба
+[SP1] aj, reče, noževo, preseči go jabolkono
+[SP1] ај, рече, ножево, пресечи го јаболконо
+[SP1] da go kasnime. ovoj si go seče za nego pogolemo
+[SP1] да го касниме, овој си го сече за него поголемо
+[SP1] e, ne je prijatel
+[SP1] е, не је пријател
+[SP1] si zaminal
+[SP1] си заминал
+[SP1] ko ponataku isto taka
+[SP1] ко понатаку исто така
+[SP1] ko ide dokaj edni grobišta
+[SP1] ко иде докај едни гробишта
+[SP1] eden mu vikale eden grobov
+[SP1] еден му викале еден гробов
+[SP1] stani be, reče, daj mi gi parite
+[SP1] стани бе, рече, дај ми ги парите
+[SP1] daj mi gi parite i mu tropa na grobo
+[SP1] дај ми ги парите и му тропа на гробо
+[SP1] i ovoj go gleda
+[SP1] и овој го гледа
+[SP1] kaj če ti dade be reče umren čovek pari?
+[SP1] кај че ти даде бе рече умрен човек пари?
+[SP1] kolku grošot ti e?
+[SP1] колку грошот ти е?
+[SP1] trista
+[SP1] триста
+[SP1] eve ti trista
+[SP1] еве ти триста
+[SP1] si zaminal
+[SP1] си заминал
+[SP1] čovekot
+[SP1] човекот
+[SP1] koa eden star kaj edna češma odi
+[SP1] коа еден стар кај една чешма оди
+[SP1] ooo, be kaj odiš, be reče, vnučko
+[SP1] ооо, бе кај одиш, бе рече, внучко
+[SP1] če odam reče da pečalam
+[SP1] че одам рече да печалам
+[SP1] aj, reče, če oime zaedno, ama šo če pečalime zaedno če pečalime
+[SP1] ај, рече, че оиме заедно, ама шо че печалиме заедно че печалиме
+[SP1] dobro, rekol, važi
+[SP1] добро, рекол, важи
+[SP1] mu dade jabolkoto
+[SP1] му даде јаболкото
+[SP1] seči, seči, seči stario
+[SP1] сечи, сечи, сечи старио
+[SP1] do milimetar
+[SP1] до милиметар
+[SP1] e, rekol, ti če mi bidiš prijatel
+[SP1] е, рекол, ти че ми бидиш пријател
+[SP1] i ovde vleguvaa vo eden an
+[SP1] и овде влегуваа во еден ан
+[SP1] anot denje raboti, noče ne rabotel
+[SP1] анот дење работи, ноче не работел
+[SP1] šo bile noče umirale
+[SP1] шо биле ноче умирале
+[SP1] i stariot mu vika na andžijata
+[SP1] и стариот му вика на анџијата
+[SP1] nie ovde če spijame, abe kako če spijate, detevo če go...
+[SP1] ние овде че спијаме. Абе како че спијате, детево че го...
+[SP1] če umri
+[SP1] че умри
+[SP1] neka umri, rekol
+[SP1] нека умри, рекол
+[SP1] jas odgovaram
+[SP1] јас одговарам
+[SP1] si legnale i stariov cigara si zapalil
+[SP1] си легнале и стариов цигара си запалил
+[SP1] i edno vreme oo ovde na dupka na zmija
+[SP1] и едно време, оо овде на дупка на змија
+[SP1] stario tak
+[SP1] старио так
+[SP1] tak
+[SP1] так
+[SP1] tri zmii gi zaklal, i ostanale živi
+[SP1] три змии ги заклал, и останале живи
+[SP1] koa andžijata gleda, živi
+[SP1] коа анџијата гледа, живи
+[SP1] ovie noče rabotele
+[SP1] овие ноче работеле
+[SP1] andžijata denje
+[SP1] анџијата дење
+[SP1] arno ama imalo eden saraj tuka od caro
+[SP1] арно ама имало еден сарај тука од царо
+[SP1] imal mnogu ubava čerka
+[SP1] имал многу убава черка
+[SP1] ama, zemi go momčevo
+[SP1] ама, земи го момчево
+[SP1] umri!
+[SP1] умри!
+[SP1] zemi go momčeto, vo istata noḱ, umri
+[SP1] земи го момчето, во истата ноќ, умри
+[SP1] otišol stariot
+[SP1] отишол стариот
+[SP1] kaj caro, mu rekol da mu ja pobaraš za žena
+[SP1] кај царо, му рекол да му ја побараш за жена
+[SP1] jas, reče, če ja pobaram
+[SP1] јас, рече, че ја побарам
+[SP1] odi tamu kaj caro čestiti, care, vaka i vaka.
+[SP1] оди таму кај царо честити, царе, вака и вака
+[SP1] imam sin
+[SP1] имам син
+[SP1] ama lično momčeto mnogu bilo i nevevčeto
+[SP1] ама лично момчето многу било и невевчето
+[SP1] da go... da ja zeime za nevesta
+[SP1] да го... да ја зеиме за невеста
+[SP1] ne be, reče
+[SP1] не бе, рече
+[SP1] samo šo če legne na ovoj, če umira reče
+[SP1] само шо че легне на овој, че умира рече
+[SP1] jas, reče, si ja zejme, reče
+[SP1] јас, рече, си ја зејме, рече
+[SP1] na odgovornos
+[SP1] на одговорнос
+[SP1] ajde, ja zele
+[SP1] ајде, ја зеле
+[SP1] torile (tovarile?) maskite, tori (tovari?) zlato i trgnale
+[SP1] ториле маските, тори злато и тргнале
+[SP1] v spija vo ano
+[SP1] vечерта спија во ано
+[SP1] kajšo spija, taa od ustata op zmija izleze da go... da go kasni momčevo
+[SP1] кајшо спија, таа од устата оп змија излезе да го... да го касни момчево
+[SP1] stario tak tak gi istepal
+[SP1] старио так так ги истепал
+[SP1] ostanal živo
+[SP1] останал живо
+[SP1] i sega oda, oda, i došle kaj grobo
+[SP1] и сега ода, ода, и дошле кај гробо
+[SP1] stario mu rekol slušaj sega
+[SP1] старио му рекол слушај сега
+[SP1] ovde če se razdelime
+[SP1] овде че се разделиме
+[SP1] XXX
+[SP1] XXX
+[SP1] šo spečalime, sè, aj sega, nevesto, reče
+[SP1] шо спечалиме, сè, ај сега, невесто, рече
+[SP1] navedni ja glaata so sekirava napolu da te presečime
+[SP1] наведни ја глаата со секирава наполу да те пресечиме
+[SP1] i taa da se navedne, op!
+[SP1] и таа да се наведне, оп!
+[SP1] seto sedalo
+[SP1] сето седало
+[SP1] od zmiite go isfrlila
+[SP1] од змиите го исфрлила
+[SP1] stario mu rekol
+[SP1] старио му рекол
+[SP1] zemi si ja, reče, nevestata, jas sum duhot od grobot
+[SP1] земи си ја, рече, невестата, јас сум духот од гробот
+[SP1] e taka
+[SP1] е така

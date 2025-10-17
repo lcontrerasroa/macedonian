@@ -1,0 +1,602 @@
+[SP1] se ḱe raskažam edna prikaska
+[SP1] се ќе раскажам една прикаска
+[SP1] za edna lovdžija
+[SP1] за една ловџија
+[SP1] vo eden grad
+[SP1] во еден град
+[SP1] živeeše carot
+[SP1] живееше царот
+[SP1] i
+[SP1] и
+[SP1] beše mnogu
+[SP1] беше многу
+[SP1] sposoben
+[SP1] способен
+[SP1] da go uredi dobro
+[SP1] да го уреди добро
+[SP1] da napraj gradini
+[SP1] да напрај градини
+[SP1] i
+[SP1] и
+[SP1] vo bliskata šuma
+[SP1] во блиската шума
+[SP1] im ovozmož(n)uvaše
+[SP1] им овозмож(н)уваше
+[SP1] na lovdžiite da odat
+[SP1] на ловџиите да одат
+[SP1] na lov
+[SP1] на лов
+[SP1] eden den
+[SP1] еден ден
+[SP1] lovdžijata so drugarite
+[SP1] ловџијата со другарите
+[SP1] otide na lov
+[SP1] отиде на лов
+[SP1] i tamu
+[SP1] и таму
+[SP1] sretna
+[SP1] сретна
+[SP1] eden oven so zlatno runo
+[SP1] еден овен со златно руно
+[SP1] i toj mu re... ovenot mu reče
+[SP1] и тој му ре... овенот му рече
+[SP1] jas tebe ḱe te ubijam
+[SP1] јас тебе ќе те убијам
+[SP1] a lovdžijata reče, ne!
+[SP1] а ловџијата рече, не!
+[SP1] jas tebe ḱe te ubijam!
+[SP1] јас тебе ќе те убијам!
+[SP1] ama dodeka lovdžijata ja mesteše puškata
+[SP1] ама додека ловџијата ја местеше пушката
+[SP1] ovenot go raspara
+[SP1] овенот го распара
+[SP1] i pobegna
+[SP1] и побегна
+[SP1] go najdoa drugarite, ne znaea šo
+[SP1] го најдоа другарите, не знаеа шо
+[SP1] se slučilo
+[SP1] се случило
+[SP1] go zakopaa
+[SP1] го закопаа
+[SP1] puškata ja odnesoa
+[SP1] пушката ја однесоа
+[SP1] kaj negovata žena
+[SP1] кај неговата жена
+[SP1] lovdžijata imaše sin
+[SP1] ловџијата имаше син
+[SP1] toj rasteše i stana polnoleten
+[SP1] тој растеше и стана полнолетен
+[SP1] koga stana polnoleten, ja praša majkata
+[SP1] кога стана полнолетен, ја праша мајката
+[SP1] mamo, može da ja zemam puškata i da odam na lov?
+[SP1] мамо, може да ја земам пушката и да одам на лов?
+[SP1] majkata reče, ne!
+[SP1] мајката рече, не!
+[SP1] nema nikogaš da ti ja dadam
+[SP1] нема никогаш да ти ја дадам
+[SP1] zašto tatko ti umre od taa puška
+[SP1] зашто татко ти умре од таа пушка
+[SP1] ama eden den
+[SP1] ама еден ден
+[SP1] momčeto ja zede puškata
+[SP1] момчето ја зеде пушката
+[SP1] i otide na lov vo šumata
+[SP1] и отиде на лов во шумата
+[SP1] vo šumata go sretna
+[SP1] во шумата го сретна
+[SP1] ovenot
+[SP1] овенот
+[SP1] i mu reče
+[SP1] и му рече
+[SP1] jas go ubiv tatko ti
+[SP1] јас го убив татко ти
+[SP1] ama i tebe ḱe te ubijam!
+[SP1] ама и тебе ќе те убијам!
+[SP1] ama momčeto beše pobrzo i go ubi
+[SP1] ама момчето беше побрзо и го уби
+[SP1] ovenot
+[SP1] овенот
+[SP1] ja odra zlatnata koža
+[SP1] ја одра златната кожа
+[SP1] ja odnese doma
+[SP1] ја однесе дома
+[SP1] vo gradot se proču
+[SP1] во градот се прочу
+[SP1] za zlatnata koža
+[SP1] за златната кожа
+[SP1] i site sakaa da ja vidat
+[SP1] и сите сакаа да ја видат
+[SP1] t... tova
+[SP1] т... това
+[SP1] dojde i do carot
+[SP1] дојде и до царот
+[SP1] i carot reče
+[SP1] и царот рече
+[SP1] što sakaš jas tebe ḱe ti dadam
+[SP1] што сакаш јас тебе ќе ти дадам
+[SP1] samo da mi ja dadeš zlatnata koža
+[SP1] само да ми ја дадеш златната кожа
+[SP1] on reče, nikaku
+[SP1] он рече, никаку
+[SP1] nema da ti ja dadam
+[SP1] нема да ти ја дадам
+[SP1] i carot se misleše
+[SP1] и царот се мислеше
+[SP1] i se sovetuvaše so sovetnikot
+[SP1] и се советуваше со советникот
+[SP1] što da napravi
+[SP1] што да направи
+[SP1] sega za da može
+[SP1] сега за да може
+[SP1] da ja
+[SP1] да ја
+[SP1] zeme zlatnata... zlatnoto runo
+[SP1] земе златната... златното руно
+[SP1] a sovetnikot mu reče
+[SP1] а советникот му рече
+[SP1] lesna rabota e za tova!
+[SP1] лесна работа е за това!
+[SP1] ḱe mu kažiš
+[SP1] ќе му кажиш
+[SP1] deka trebe
+[SP1] дека требе
+[SP1] da
+[SP1] да
+[SP1] za sedum dena
+[SP1] за седум дена
+[SP1] da nasadi lozje
+[SP1] да насади лозје
+[SP1] da rodi grozje
+[SP1] да роди грозје
+[SP1] i da napravi
+[SP1] и да направи
+[SP1] svežo vino
+[SP1] свежо вино
+[SP1] i togaš carot mu kaža na de... na momčeto
+[SP1] и тогаш царот му кажа на де... на момчето
+[SP1] što treba da napravi
+[SP1] што треба да направи
+[SP1] momčeto se uplaši, otide plačejḱi doma
+[SP1] момчето се уплаши, отиде плачејќи дома
+[SP1] i kaža na majkata
+[SP1] и кажа на мајката
+[SP1] majkata vika
+[SP1] мајката вика
+[SP1] tova e nemoguče!
+[SP1] това е немогуче!
+[SP1] i togaš momčeto izleze da se prošeta niz seloto
+[SP1] и тогаш момчето излезе да се прошета низ селото
+[SP1] po patot go sretna edno devojče
+[SP1] по патот го сретна едно девојче
+[SP1] i mu reče
+[SP1] и му рече
+[SP1] brate, zošto plačeš?
+[SP1] брате, зошто плачеш?
+[SP1] zašto si tolku tažen?
+[SP1] зашто си толку тажен?
+[SP1] ama, veli, ti nemožeš ništo da mi pomogneš, i da ti kažam
+[SP1] ама, вели, ти неможеш ништо да ми помогнеш, и да ти кажам
+[SP1] ne, veli, kaži mi, možda ḱe možam da ti pomognam
+[SP1] не, вели, кажи ми, можда ќе можам да ти помогнам
+[SP1] i togaš momčeto ì kaža što bara carot
+[SP1] и тогаш момчето и кажа што бара царот
+[SP1] a taa mu reče
+[SP1] а таа му рече
+[SP1] ḱe odiš ḱe mu kažiš
+[SP1] ќе одиш ќе му кажиш
+[SP1] da go opredeli
+[SP1] да го определи
+[SP1] mestoto kade što treba da bidat nasadeni loznicite
+[SP1] местото каде што треба да бидат насадени лозниците
+[SP1] a ti ḱe si ja zemeš torbata
+[SP1] а ти ќе си ја земеш торбата
+[SP1] i ḱe se si staviš... mm vnatre jadenje
+[SP1] и ќе се си ставиш... мм внатре јадење
+[SP1] i ḱe spieš
+[SP1] и ќе спиеш
+[SP1] i togaš momčeto
+[SP1] и тогаш момчето
+[SP1] otide kaj carot i mu kaža što treba da napravi
+[SP1] отиде кај царот и му кажа што треба да направи
+[SP1] carot
+[SP1] царот
+[SP1] go opkruži mestoto kade šo
+[SP1] го опкружи местото каде шо
+[SP1] bea
+[SP1] беа
+[SP1] trebaše da bidat nasadeni loznicite
+[SP1] требаше да бидат насадени лозниците
+[SP1] i taka
+[SP1] и така
+[SP1] devojkata beše samovila
+[SP1] девојката беше самовила
+[SP1] i taja
+[SP1] и таја
+[SP1] gi nasadi so nejzinite drugarki
+[SP1] ги насади со нејзините другарки
+[SP1] loznicite i koga momčeto se probudi vtoriot den
+[SP1] лозниците и кога момчето се пробуди вториот ден
+[SP1] tie više bea razzeleneti
+[SP1] тие више беа раззеленети
+[SP1] i počnaaa da imaat grozdovi
+[SP1] и почнааа да имаат гроздови
+[SP1] za sedum dena
+[SP1] за седум дена
+[SP1] momčeto napravi vino
+[SP1] момчето направи вино
+[SP1] i vo edna torba
+[SP1] и во една торба
+[SP1] mu odnese grozje na carot
+[SP1] му однесе грозје на царот
+[SP1] koga go vide carot tova, se začudi!
+[SP1] кога го виде царот това, се зачуди!
+[SP1] veli, ovoa e nemoguče! mu vika na sovetnikot
+[SP1] вели, овоа е немогуче! му вика на советникот
+[SP1] ovoa e mnogu bistro dete
+[SP1] овоа е многу бистро дете
+[SP1] /hesitates/
+[SP1] /hesitates/
+[SP1] sovetnikot mu odgovara
+[SP1] советникот му одговара
+[SP1] nema, vi... veli, ḱe mu daeme druga zadača da napravi
+[SP1] нема, ви... вели, ќе му даеме друга задача да направи
+[SP1] i što druga zadača?
+[SP1] и што друга задача?
+[SP1] mu kaža
+[SP1] му кажа
+[SP1] od
+[SP1] од
+[SP1] zabite
+[SP1] забите
+[SP1] na samovilite
+[SP1] на самовилите
+[SP1] treba da izgradi dvorec
+[SP1] треба да изгради дворец
+[SP1] i togaš momčevo se uplaši
+[SP1] и тогаш момчево се уплаши
+[SP1] i pak plačejḱi otide kaj majka mu
+[SP1] и пак плачееќи отиде кај мајка му
+[SP1] ì kaža što bara
+[SP1] и кажа што бара
+[SP1] carot
+[SP1] царот
+[SP1] majkata reče
+[SP1] мајката рече
+[SP1] odi, možda pak ḱe go sretneš devojčeto
+[SP1] оди, можда пак ќе го сретнеш девојчето
+[SP1] i toa može ḱe ti kaže kako treba toa da go napraviš
+[SP1] и тоа може ќе ти каже како треба тоа да го направиш
+[SP1] momčeto odeše, se šetaše
+[SP1] момчето одеше, се шеташе
+[SP1] i
+[SP1] и
+[SP1] na patot go sretna istoto devojče
+[SP1] на патот го сретна истото девојче
+[SP1] veli, brate ti pak plačeš, pak si užalen
+[SP1] вели, брате ти пак плачеш, пак си ужален
+[SP1] što se slučuva?
+[SP1] што се случува?
+[SP1] veli, carot mi reče
+[SP1] вели, царот ми рече
+[SP1] ako ne
+[SP1] ако не
+[SP1] go napravam
+[SP1] го направам
+[SP1] mm... gradot... od samovilski zabi
+[SP1] мм... градот... од самовилски заби
+[SP1] mm... togaš
+[SP1] мм... тогаш
+[SP1] ḱe mi ja s... ḱe mi ja preseče glavata
+[SP1] ќе ми ја с... ќе ми ја пресече главата
+[SP1] o, veli, lesna rabota e!
+[SP1] о, вели, лесна работа е!
+[SP1] vo planinate tamu gore
+[SP1] во планинате таму горе
+[SP1] teče reka
+[SP1] тече река
+[SP1] i ti ḱe ja zagradiš rekata
+[SP1] и ти ќе ја заградиш реката
+[SP1] od ednata strana
+[SP1] од едната страна
+[SP1] da ne protekuva
+[SP1] да не протекува
+[SP1] a ḱe zemeš
+[SP1] а ќе земеш
+[SP1] vo eden
+[SP1] во еден
+[SP1] brod
+[SP1] брод
+[SP1] ḱe doneseš trista litra vino i trista litra rakija
+[SP1] ќе донесеш триста литра вино и триста литра ракија
+[SP1] ḱe ja isturiš vo vodata
+[SP1] ќе ја истуриш во водата
+[SP1] i togaš ḱe dojdat samovilite da pijat voda
+[SP1] и тогаш ќе дојдат самовилите да пијат вода
+[SP1] ḱe se ispijanat
+[SP1] ќе се испијанат
+[SP1] i ti togaš ḱe im gi izvadiš zabite
+[SP1] и ти тогаш ќе им ги извадиш забите
+[SP1] lesna rabota
+[SP1] лесна работа
+[SP1] ḱe vikneš dvaeset
+[SP1] ќе викнеш дваесет
+[SP1] drvosečači i oni ḱe gi isečat
+[SP1] дрвосечачи и они ќе ги исечат
+[SP1] togaš momčeto
+[SP1] тогаш момчето
+[SP1] otide vo
+[SP1] отиде во
+[SP1] planinata, ja sopre vodata
+[SP1] планината, ја сопре водата
+[SP1] i isturi
+[SP1] и истури
+[SP1] vo
+[SP1] во
+[SP1] vo vodata trista litra rakija i trista litra vino
+[SP1] во водата триста литра ракија и триста литра вино
+[SP1] vo, koga dojdoa samovilite, pieja voda, se ispijanija
+[SP1] во, кога дојдоа самовилите, пиеја вода, се испијанија
+[SP1] i padnaa na zemjata
+[SP1] и паднаа на земјата
+[SP1] dvae... dvaesete drvosečači
+[SP1] двае... дваесете дрвосечачи
+[SP1] gi isekoa zabite
+[SP1] ги исекоа забите
+[SP1] i gi odnesoa vo gradot
+[SP1] и ги однесоа во градот
+[SP1] i napravija golema palata i gradot go obnovija
+[SP1] и направија голема палата и градот го обновија
+[SP1] togaš
+[SP1] тогаш
+[SP1] carot
+[SP1] царот
+[SP1] se sovetuva so sovetnikot
+[SP1] се советува со советникот
+[SP1] i mu veli
+[SP1] и му вели
+[SP1] veli, pak go napraj vo... ovoa gradot
+[SP1] вели, пак го напрај во... овоа градот
+[SP1] mm... ovoa momče e premnogu pametno
+[SP1] мм... овоа момче е премногу паметно
+[SP1] kako možeme da go
+[SP1] како можеме да го
+[SP1] da go uništime?
+[SP1] да го уништиме?
+[SP1] vika, lesna rabota e, vika
+[SP1] вика, лесна работа е, вика
+[SP1] ḱe mu daeme drugo... zadača
+[SP1] ќе му даеме друго... задача
+[SP1] i togaš carot go vikna momčeto i mu reče
+[SP1] и тогаш царот го викна момчето и му рече
+[SP1] ḱe odiš vo drugoto carstvo
+[SP1] ќе одиш во другото царство
+[SP1] t... so edna galija
+[SP1] т... со една галија
+[SP1] vo galijata ḱe ima dvaeset duḱana
+[SP1] во галијата ќе има дваесет дуќана
+[SP1] i dvaeset
+[SP1] и дваесет
+[SP1] ḱe ima dvaeset
+[SP1] ќе има дваесет
+[SP1] momci kojšo ḱe služat vo duḱanite
+[SP1] момци којшо ќе служат во дуќаните
+[SP1] togaš ḱe dojdat
+[SP1] тогаш ќе дојдат
+[SP1] site devojki
+[SP1] сите девојки
+[SP1] ḱe dojde i carskata ḱerka
+[SP1] ќе дојде и царската ќерка
+[SP1] i carot
+[SP1] и царот
+[SP1] ḱe... da gi vidat
+[SP1] ќе... да ги видат
+[SP1] prodavnicite
+[SP1] продавниците
+[SP1] i togaš
+[SP1] и тогаш
+[SP1] momčeto pak
+[SP1] момчето пак
+[SP1] najde dvaeset galii
+[SP1] најде дваесет галии
+[SP1] najde dvaeset momci
+[SP1] најде дваесет момци
+[SP1] koj služea vo duḱanite
+[SP1] кој служеа во дуќаните
+[SP1] najde
+[SP1] најде
+[SP1] najubava roba što postoeše
+[SP1] најубава роба што постоеше
+[SP1] i trgna
+[SP1] и тргна
+[SP1] vo drugoto carstvo
+[SP1] во другото царство
+[SP1] koga stignaa vo carstvoto
+[SP1] кога стигнаа во царството
+[SP1] narodot beše voshiten
+[SP1] народот беше восхитен
+[SP1] i se zboruvaše samo
+[SP1] и се зборуваше само
+[SP1] za galijata kakvi
+[SP1] за галијата какви
+[SP1] kakva stoka ima
+[SP1] каква стока има
+[SP1] kakvi prodavnici i kakvi momci tamu
+[SP1] какви продавници и какви момци таму
+[SP1] site devojki dovojǵaja vo
+[SP1] сите девојки довојѓаја во
+[SP1] galijata
+[SP1] галијата
+[SP1] togaš ču i ḱerkata na carot
+[SP1] тогаш чу и ќерката на царот
+[SP1] i taja dojde da vidi
+[SP1] и таја дојде да види
+[SP1] i koga
+[SP1] и кога
+[SP1] se... počna da se stemnuva
+[SP1] се... почна да се стемнува
+[SP1] galijata trgna
+[SP1] галијата тргна
+[SP1] a devojkata na... a...
+[SP1] а девојката на... а...
+[SP1] carskata ḱerka
+[SP1] царската ќерка
+[SP1] na ramoto imaše lebed
+[SP1] на рамото имаше лебед
+[SP1] kojšo trebaše da letne
+[SP1] којшо требаше да летне
+[SP1] i da kaže deka galijata trga
+[SP1] и да каже дека галијата трга
+[SP1] deka ḱe ja odnesat vo drugoto carstvo
+[SP1] дека ќе ја однесат во другото царство
+[SP1] i togaš a...
+[SP1] и тогаш а...
+[SP1] /hesitates/
+[SP1] /hesitates/
+[SP1] togaš momčeto
+[SP1] тогаш момчето
+[SP1] mu zapoveda na eden
+[SP1] му заповеда на еден
+[SP1] od orlite šo gi imaše
+[SP1] од орлите шо ги имаше
+[SP1] a...
+[SP1] а...
+[SP1] da go zapali perduvot na
+[SP1] да го запали пердувот на
+[SP1] orleto
+[SP1] орлето
+[SP1] i togaš...
+[SP1] и тогаш...
+[SP1] gemijata
+[SP1] гемијата
+[SP1] trgna
+[SP1] тргна
+[SP1] taka ploveše gemijata
+[SP1] така пловеше гемијата
+[SP1] i posle pak
+[SP1] и после пак
+[SP1] devojčeto
+[SP1] девојчето
+[SP1] so... carskata ḱerka
+[SP1] со... царската ќерка
+[SP1] i... go pogali
+[SP1] и... го погали
+[SP1] galebot
+[SP1] галебот
+[SP1] na ramoto i pak zastana gemijata
+[SP1] на рамото и пак застана гемијата
+[SP1] a togaš
+[SP1] а тогаш
+[SP1] /hesitates/
+[SP1] /hesitates/
+[SP1] togaš momčeto
+[SP1] тогаш момчето
+[SP1] a... go vikna
+[SP1] а... го викна
+[SP1] /hesitates/
+[SP1] /hesitates/
+[SP1] go vikna galebot
+[SP1] го викна галебот
+[SP1] što noseše živa voda
+[SP1] што носеше жива вода
+[SP1] i tova... toj ja isturi živata voda
+[SP1] и това... тој ја истури живата вода
+[SP1] i gemijata
+[SP1] и гемијата
+[SP1] trgna
+[SP1] тргна
+[SP1] i taka stasaa vo carstvoto
+[SP1] и така стасаа во царството
+[SP1] kajšo beše
+[SP1] кајшо беше
+[SP1] negoviot grad
+[SP1] неговиот град
+[SP1] koga dojde i koga ja vidoa devojkata
+[SP1] кога дојде и кога ја видоа девојката
+[SP1] carskata ḱerka
+[SP1] царската ќерка
+[SP1] taja
+[SP1] таја
+[SP1] beše mnogu ubava
+[SP1] беше многу убава
+[SP1] i carot sakaše
+[SP1] и царот сакаше
+[SP1] da ja zeme za žena
+[SP1] да ја земе за жена
+[SP1] togaš sovetnikot
+[SP1] тогаш советникот
+[SP1] /hesitates/
+[SP1] /hesitates/
+[SP1] go
+[SP1] го
+[SP1] go povredi
+[SP1] го повреди
+[SP1] mu ja prejče glavata na momčeto
+[SP1] му ја прејче главата на момчето
+[SP1] mm, i
+[SP1] мм, и
+[SP1] tova na... na... na gemijata
+[SP1] това на... на... на гемијата
+[SP1] i togaš, a...
+[SP1] и тогаш, а...
+[SP1] devojkata reče
+[SP1] девојката рече
+[SP1] šo storivte? carskata ḱerka
+[SP1] шо сторивте? царската ќерка
+[SP1] d... toj
+[SP1] д... тој
+[SP1] cel pat
+[SP1] цел пат
+[SP1] se brineše
+[SP1] се бринеше
+[SP1] misleše za mene i me čuvaše
+[SP1] мислеше за мене и ме чуваше
+[SP1] a carot sakaše da ja zeme za žena
+[SP1] а царот сакаше да ја земе за жена
+[SP1] ona so živata voda što ja imaše
+[SP1] она со живата вода што ја имаше
+[SP1] ja polija glavata
+[SP1] ја полија главата
+[SP1] i togaš mu se zarasna glavata na momčeto
+[SP1] и тогаш му се зарасна главата на момчето
+[SP1] i taka
+[SP1] и така
+[SP1] devojčeto mm...
+[SP1] девојчето мм...
+[SP1] carskata ḱerka
+[SP1] царската ќерка
+[SP1] pojde so momčeto
+[SP1] појде со момчето
+[SP1] togaš carot reče
+[SP1] тогаш царот рече
+[SP1] ovoa, ovoa momče e mnogu pametno
+[SP1] овоа, овоа момче е многу паметно
+[SP1] sega ḱe stane ušte popametno
+[SP1] сега ќе стане уште попаметно
+[SP1] i ja bi sakal da mi ja presečite glavata
+[SP1] и ја би сакал да ми ја пресечите главата
+[SP1] mm... i potova
+[SP1] мм... и потова
+[SP1] da vidam kolku ḱe bidam popameten
+[SP1] да видам колку ќе бидам попаметен
+[SP1] i togaš s... na carot
+[SP1] и тогаш с... на царот
+[SP1] mu ja presekoa glavata
+[SP1] му ја пресекоа главата
+[SP1] arno ama
+[SP1] арно ама
+[SP1] živa voda više nemaše
+[SP1] жива вода више немаше
+[SP1] i taka carot ostana bez glava
+[SP1] и така царот остана без глава
+[SP1] a momčeto mm...
+[SP1] а момчето мм...
+[SP1] stana a... car
+[SP1] стана а... цар
+[SP1] na
+[SP1] на
+[SP1] na državata, go zameni carot
+[SP1] на државата, го замени царот
+[SP1] i ja zede carskata ḱerka
+[SP1] и ја зеде царската ќерка
+[SP1] za žena i taka si živeea srečno dolgi godini
+[SP1] за жена и така си живееа сречно долги години

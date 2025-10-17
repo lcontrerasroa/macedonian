@@ -1,0 +1,174 @@
+[SP1] prikaznava što ḱe ja raskažam
+[SP1] приказнава што ќе ја раскажам
+[SP1] ḱe ja raskažam na kičevski
+[SP1] ќе ја раскажам на кичевски
+[SP1] govor
+[SP1] говор
+[SP1] i se raboti za stara
+[SP1] и се работи за стара
+[SP1] prikazna, mnogu stara prikazna so
+[SP1] приказна, многу стара приказна со
+[SP1] a, so pouka na krajot
+[SP1] а, со поука на крајот
+[SP1] si bilo edno ovčarče
+[SP1] си било едно овчарче
+[SP1] i ovčarčeto sekoj den si gi čuvalo ovcite
+[SP1] и овчарчето секој ден си ги чувало овците
+[SP1] arno ama
+[SP1] арно ама
+[SP1] mu bilo mnogu dosadno
+[SP1] му било многу досадно
+[SP1] i
+[SP1] и
+[SP1] za da se
+[SP1] за да се
+[SP1] poigra majtap so selanite
+[SP1] поигра мајтап со селаните
+[SP1] od vreme na vreme
+[SP1] од време на време
+[SP1] što pravelo?
+[SP1] што правело?
+[SP1] ḱe sedne
+[SP1] ќе седне
+[SP1] i ḱe počne da vika
+[SP1] и ќе почне да вика
+[SP1] pomoš! volk!
+[SP1] помош! волк!
+[SP1] pomagajte selani! dojde volk! mi gi izede ovcite!
+[SP1] помагајте селани! дојде волк! ми ги изеде овците!
+[SP1] i togaš selanite
+[SP1] и тогаш селаните
+[SP1] ḱe se soberele
+[SP1] ќе се собереле
+[SP1] i ḱe se zatrčale site
+[SP1] и ќе се затрчале сите
+[SP1] lele!
+[SP1] леле!
+[SP1] pomagajte, da mu pomogneme, brzajte!
+[SP1] помагајте, да му помогнеме, брзајте!
+[SP1] hajde, da o... da odime da mu pomogneme na ovčarot
+[SP1] хајде, да о... да одиме да му помогнеме на овчарот
+[SP1] mu došol volk
+[SP1] му дошол волк
+[SP1] odat tamu kaj ovčarčeto
+[SP1] одат таму кај овчарчето
+[SP1] a ovčarčeto si sedi i
+[SP1] а овчарчето си седи и
+[SP1] si sviri na kavalčeto
+[SP1] си свири на кавалчето
+[SP1] i go prašuvaat
+[SP1] и го прашуваат
+[SP1] abe kaj e volkov?
+[SP1] абе кај е волков?
+[SP1] abe nema volk!
+[SP1] абе нема волк!
+[SP1] taka jas sea sakav da se pošeguvam
+[SP1] така јас сеа сакав да се пошегувам
+[SP1] so vas
+[SP1] со вас
+[SP1] ednaš taka napraelo ovčarčeto
+[SP1] еднаш така напраело овчарчето
+[SP1] dva pati
+[SP1] два пати
+[SP1] tretiot pat
+[SP1] третиот пат
+[SP1] vika, vika, vika
+[SP1] вика, вика, вика
+[SP1] pak došle, i tretiot pat
+[SP1] пак дошле, и третиот пат
+[SP1] i
+[SP1] и
+[SP1] kade e volkot, ovčarče?
+[SP1] каде е волкот, овчарче?
+[SP1] nemat volk
+[SP1] немат волк
+[SP1] kako be, nemat volk?
+[SP1] како бе, немат волк?
+[SP1] i se sobrale dolu selanite i se dogovorile
+[SP1] и се собрале долу селаните и се договориле
+[SP1] a, ništo, ova ovčarčevo
+[SP1] а, ништо, ова овчарчево
+[SP1] so nas igrat majtap
+[SP1] со нас играт мајтап
+[SP1] tuku poeḱe da ne se mačime
+[SP1] туку поеќе да не се мачиме
+[SP1] da trčame da go spasuvame
+[SP1] да трчаме да го спасуваме
+[SP1] oti golem lažgo bil
+[SP1] оти голем лажго бил
+[SP1] po nekoj mesec
+[SP1] по некој месец
+[SP1] ovčarčeto si sedelo, si gi paselo ovcite
+[SP1] овчарчето си седело, си ги пасело овците
+[SP1] i koga vistina se pojavil volk
+[SP1] и кога вистина се појавил волк
+[SP1] volkot počnal edna po edna ovcite da mu gi
+[SP1] волкот почнал една по една овците да му ги
+[SP1] jade
+[SP1] јаде
+[SP1] a toa počnalo da vika
+[SP1] а тоа почнало да вика
+[SP1] pomoš!
+[SP1] помош!
+[SP1] volk!
+[SP1] волк!
+[SP1] pomagajte, selani!
+[SP1] помагајте, селани!
+[SP1] selanite go slušnale
+[SP1] селаните го слушнале
+[SP1] arno ama
+[SP1] арно ама
+[SP1] rekle, e, ovoj lažgo
+[SP1] рекле, е, овој лажго
+[SP1] koj znae pak što si igrat majtap so nas?
+[SP1] кој знае пак што си играт мајтап со нас?
+[SP1] nema da odime
+[SP1] нема да одиме
+[SP1] toj prodolži uporno da vika, vikal, pomoš!
+[SP1] тој продолжи упорно да вика, викал, помош!
+[SP1] selani, pomagajte, ama vistina imat volk!
+[SP1] селани, помагајте, ама вистина имат волк!
+[SP1] mi gi izede site ovci!
+[SP1] ми ги изеде сите овци!
+[SP1] selanite si se nasmeale
+[SP1] селаните си се насмеале
+[SP1] si rekle
+[SP1] си рекле
+[SP1] mnogu mu e dosadno na ovčarčevo
+[SP1] многу му е досадно на овчарчево
+[SP1] što rešilo samo majtap so nas da si igrat
+[SP1] што решило само мајтап со нас да си играт
+[SP1] i nikoj ne pošol da mu pomogne na ovčarčeto
+[SP1] и никој не пошол да му помогне на овчарчето
+[SP1] volkot mu gi izel ovcite
+[SP1] волкот му ги изел овците
+[SP1] i togaš
+[SP1] и тогаш
+[SP1] došol v selo i se požalil
+[SP1] дошол в село и се пожалил
+[SP1] abe, selani
+[SP1] абе, селани
+[SP1] abe, stvarno ima volk
+[SP1] абе, стварно има волк
+[SP1] mi gi izede site ovci
+[SP1] ми ги изеде сите овци
+[SP1] oti ne dojdovte da mi pomognete?
+[SP1] оти не дојдовте да ми помогнете?
+[SP1] i tie mu rekle
+[SP1] и тие му рекле
+[SP1] ee, ovčarče
+[SP1] ее, овчарче
+[SP1] da ne lažeše prethodnite pati koga ni vikaše
+[SP1] да не лажеше претходните пати кога ни викаше
+[SP1] sega ḱe ti dojdevme site da ti pomogneme
+[SP1] сега ќе ти дојдевме сите да ти помогнеме
+[SP1] vaka
+[SP1] вака
+[SP1] nemožeme da ti veruvame
+[SP1] неможеме да ти веруваме
+[SP1] na lažgoto
+[SP1] на лажгото
+[SP1] i koga ja kažuva vistinata
+[SP1] и кога ја кажува вистината
+[SP1] nikoj ne mu veruvat
+[SP1] никој не му веруват

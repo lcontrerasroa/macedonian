@@ -1,117 +1,186 @@
-# macedonian
-Scripts and data workflow for phonetic alignment, annotation and formant extraction in an oral corpus of Macedonian folk tales collected and analyzed by [Izabela Jordanoska](https://www.mpi.nl/people/jordanoska-izabela)
+# Macedonian
+Scripts and data workflow for **phonetic alignment, annotation and formant extraction** in an oral corpus of Macedonian folk tales collected and analyzed by [Izabela Jordanoska](https://www.mpi.nl/people/jordanoska-izabela).
 
-# Workflow: ELAN EAF → Spanish-like proxy text → WebMAUS → TextGrid → back to EAF
+---
 
-**Goal.** Align Macedonian speech when a direct Macedonian G2P is unavailable. We convert a source ELAN tier into a Spanish-like proxy orthography designed to be robust with WebMAUS-Spanish, obtain a TextGrid alignment, then reintegrate the timing into the original EAF.
+## Workflow: EAF → Cyrillic text → Spanish-like proxy → WebMAUS → TextGrid → back to EAF
+
+**Goal.**  
+Obtain phone-level alignments for Macedonian speech **when no native G2P exists**.  
+Each Cyrillic tier is converted directly into a **Spanish-like proxy orthography**, aligned with WebMAUS (Spanish model), and merged back into the original ELAN file.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
 https://colab.research.google.com/github/lcontrerasroa/macedonian/blob/main/notebooks/EAF2MAUS.ipynb)
-
 
 ---
 
 ## Steps
 
-1. **Inspect and select tiers**
-   - Open the `.eaf` file and list tiers.
-   - Identify the source tier to convert (Cyrillic Macedonian or already Latin transliteration).
-   - Optionally pick an auxiliary Latin tier for cross-checking.
+1. **Extract and inspect tiers**
+   - Load `.eaf` files from `/data/eaf/` and inspect tier names.
+   - Identify the **source text tier** (Cyrillic).
+   - Optionally check a Latin transliteration tier for consistency.
 
-2. **Normalize text**
-   - Clean up punctuation and unify whitespace.
-   - If the tier is in **Cyrillic**, transliterate letter-by-letter to Latin, then apply **Spanish-like mapping** (`proxy_es` rules below).
-   - If the tier is already in **Latin**, directly apply the Spanish mapping.
+2. **Generate normalized text**
+   - Remove punctuation, unify whitespace.
+   - Work directly from the **Cyrillic transcription** (no Latin intermediary).
+   - Apply direct **Cyrillic → Spanish-like proxy** mapping.
 
-3. **Generate two outputs**
-   - A new **ELAN tier** with the proxy text, preserving the **exact annotation boundaries** of the source tier.
-   - A plain **TXT file** with the concatenated proxy text (no timestamps, no sound marks), ready for WebMAUS.
+3. **Output generation**
+   - For each `.eaf`, produce:
+     - a **proxy TXT** (`.txt`) ready for WebMAUS input;
+     - an optional **EAF copy** with a new proxy tier preserving timing.
 
-4. **Run WebMAUS (Spanish)**
-   - Go to [BAS WebMAUS Basic](https://clarin.phonetik.uni-muenchen.de/BASWebServices/interface/WebMAUSBasic).
-   - Select **Spanish** as the processing language.
-   - Upload the corresponding WAV and the proxy TXT.
-   - Download the **Praat TextGrid** alignment.
+4. **Run WebMAUS (batch mode on Colab)**
+   - The notebook automatically iterates over all `.wav` and `.txt` pairs in `/media/` and `/out_txt_proxy/`.
+   - Calls [BAS WebMAUS Basic](https://clarin.phonetik.uni-muenchen.de/BASWebServices/interface/WebMAUSBasic) with:
+     - `LANGUAGE=spa`
+     - `OUTSYMBOL=ipa`
+   - Timeout extended to 10–15 minutes for long files.
+   - Produces `.TextGrid` files in `/macedonian/data/textgrid/`.
 
-5. **Post-edit alignment**
-   - Manually correct the TextGrid in Praat if necessary.
+5. **Push and versioning**
+   - Colab cell pushes updated `.TextGrid` and `.txt` files to GitHub (`data/textgrid`, `data/proxy_esp`).
+   - Existing files are preserved (no overwrite).
 
-6. **Reintegrate into ELAN**
-   - Import or map the aligned intervals back into the original EAF.
-   - You may keep the proxy tier as documentation or replicate the corrected boundaries into other tiers.
+6. **Alignment verification**
+   - Manual checking in Praat or ELAN.
+   - Priority on vowel alignment (/e, a, i, o, u/).
+   - Next steps: duration, formant tracking (F1–F3), contextual comparisons.
 
 ---
 
 ## Why use Spanish as a proxy?
 
-According to the [official CLARIN-BAS WebMAUS documentation](https://clarin.phonetik.uni-muenchen.de/BASWebServices/help#IWantToExtendMausForANew(notYetSupported)LanguageWhatDataDoINeedForTheTraining), when no trained G2P model exists for a given language, a practical workaround is to **use an orthography and phoneme mapping close to a supported language**.  
+When no Macedonian G2P exists, **Spanish** offers a practical phonographic surrogate:
 
-Spanish is recommended because its **phoneme–grapheme correspondence is highly regular**, its **WebMAUS acoustic model is robust**, and the **phonetic inventory overlaps well** with many Indo-European systems.  
-This method therefore leverages the Spanish G2P to generate approximate phone-level alignments for Macedonian, without requiring training data.
+- transparent grapheme–phoneme mapping,  
+- stable WebMAUS acoustic model,  
+- broad overlap with Macedonian phoneme inventory.
+
+As recommended by [CLARIN-BAS](https://clarin.phonetik.uni-muenchen.de/BASWebServices/help#IWantToExtendMausForANew(notYetSupported)LanguageWhatDataDoINeedForTheTraining), a supported language can be used as proxy if the mapping is carefully controlled.
 
 ---
 
 ## Macedonian → Spanish-like proxy mapping
-rules for files in `/proxy_esp/` 
-Simplified one-to-one rules prioritizing stability and G2P coverage.
 
+Direct mapping from **Cyrillic to proxy**, optimized for WebMAUS-Spanish.  
+Special handling for palatalized consonants and qu/gu contexts.
 
-| Macedonian | Latin | IPA | Proxy | Note |
-|-------------|--------|-----|--------|------|
+| Macedonian | Latin | IPA | Proxy | Notes |
+|-------------|--------|-----|--------|-------|
 | а | a | /a/ | a | — |
 | е | e | /e/ | e | — |
 | и | i | /i/ | i | — |
 | о | o | /o/ | o | — |
 | у | u | /u/ | u | — |
-| п, б, т, д, к, г | p, b, t, d, k, g | /p b t d k ɡ/ | p, b, t, d, c/qu, g/gu | qu/gu before e,i |
-| в | v | /v/ | v | — |
-| ф | f | /f/ | f | — |
-| с | s | /s/ | s | also replaces Macedonian /z/ |
-| з | z | /z/ | s | /z/ merged as /s/ to keep it from being interpreted as /θ/ |
-| ѕ | dz | /dz/ | ds | /dz/ simplified to /ds/, as above |
-| ц | c | /ts/ | ts | — |
-| ч | č | /t͡ʃ/ | ch | — |
-| џ | dž | /d͡ʒ/ | ds | affricate merged to /ds/ to avoid voiced /ʒ/-like confusion |
-| ш | š | /ʃ/ | s | — |
+| п, б, т, д | p, b, t, d | /p b t d/ | same | — |
+| к | k | /k/ | k | stable everywhere |
+| г | g | /ɡ/ | g / gu (before e,i) | `guie`, `gui` to prevent /xi/ |
+| ќ | — | /c/ | ky | palatalized /kʲ/ (e.g. ќе → *kye*) |
+| ѓ | — | /ɟ/ | guie | palatalized /gʲ/ (e.g. ѓе → *guie*) |
 | ж | ž | /ʒ/ | y | — |
-| х | h | /x/ | j | as in *jamón* |
-| р | r | /r ~ ɾ ~ r̩/ | r / rr | Single phoneme; strong trill word-initially or after /n, l/; can be syllabic |
-| л | l | /l/ | l | — |
+| ш | š | /ʃ/ | s | — |
+| ч | č | /t͡ʃ/ | ch | — |
+| џ | dž | /d͡ʒ/ | ds | /ds/ avoids voiced /ʒ/-like readings |
+| ѕ | dz | /dz/ | ds | — |
+| з | z | /z/ | s | merged as /s/ to avoid /θ/ |
+| с | s | /s/ | s | — |
+| х | h | /x/ | j | Spanish /x/ as in *jamón* |
+| ј | j | /j/ | y | — |
 | љ | lj | /ʎ/ | ll | — |
 | њ | nj | /ɲ/ | ñ | — |
-| ј | j | /j/ | y | — |
-| ќ | ḱ | /c/ | kie/kia/kio/kiu | palatalized kʲ realised as [kj], mapped via context (e.g. ќе → kie) |
-| ѓ | ǵ | /ɟ/ | guie/guia/guio/guiu | palatalized gʲ realised as [gj], mapped via context (e.g. ѓе → guie) |
+| р | r | /r ~ ɾ/ | r / rr | context-dependent |
+| л | l | /l/ | l | — |
+| м, н | m, n | /m n/ | same | — |
+| в | v | /v/ | v | — |
+| ф | f | /f/ | f | — |
 
 ---
 
 ## Files produced
 
-- `source.eaf` → `source_with_proxy.eaf` (adds new tier, same timing)
-- `proxy.txt` (WebMAUS input)
-- `aligned.TextGrid` (from WebMAUS, manually corrected)
+- `*.eaf` → `*_proxy.eaf` (adds proxy tier)
+- `out_txt_proxy/*.txt` — Spanish-like proxy text
+- `data/textgrid/*.TextGrid` — WebMAUS-aligned output
 
 ---
 
-## Reproducibility
+## Reproducibility and automation
 
-All transformations are performed with a single Python script (Colab-ready) using `pympi-ling` for EAF I/O and pure-Python mappings.
+- Python 3.10+ (Colab environment)
+- Dependencies: `pympi-ling`, `requests`, `lxml`
+- Automatic batch alignment + retry mechanism for long files
+- Push utility for synchronizing outputs to GitHub
+
+All intermediate files remain available in `/content/macedonian/data/` for traceability.
 
 ---
+
 ```mermaid
 flowchart TD
-  A["EAF (source)"]
-  B["List and select tiers"]
-  C["Normalize text"]
-  D["mk → ES proxy script"]
-  E["New EAF tier (same boundaries)"]
-  F["proxy.txt (no timestamps)"]
-  G["WebMAUS (Spanish): TXT + WAV"]
-  H["TextGrid alignment"]
-  I["Manual correction in Praat"]
-  J["Integrate back into original EAF"]
+  A["EAF (Cyrillic source)"]
+  B["Normalize text"]
+  C["Cyrillic → Spanish-like proxy"]
+  D["proxy.txt (WebMAUS input)"]
+  E["WebMAUS (Spanish model)"]
+  F["TextGrid alignment"]
+  G["Manual correction (Praat)"]
+  H["Reintegration into original EAF"]
+  I["Formant & duration extraction"]
 
-  A --> B --> C --> D
-  D --> E
-  D --> F --> G --> H --> I --> J
+  A --> B --> C --> D --> E --> F --> G --> H --> I
 ```
+
+
+### Repository structure
+
+macedonian/
+│
+├── data/
+│   ├── eaf/                # original ELAN files
+│   ├── proxy_esp/          # generated Spanish-like TXT proxies
+│   └── textgrid/           # WebMAUS-aligned TextGrids
+│
+├── media/                  # WAV files (mono, 16kHz)
+├── notebooks/
+│   └── EAF2MAUS.ipynb      # main Colab notebook
+│
+└── README.md
+
+### Known issues / Future work
+
+**Timeouts on long files**
+WebMAUS Basic occasionally times out for >10-minute recordings. Current workaround: extended timeout (900 s) and selective re-submission.
+
+**Palatal and affricate handling**
+The `/kʲ/` → ky and `/gʲ/` → guie mappings are effective but occasionally produce spurious glide insertions. Context-sensitive refinement is planned.
+
+**Automated EAF reintegration**
+Current reintegration from TextGrid back to EAF is manual. A conversion utility (TextGrid → Tier) is under development.
+
+**Formant and duration extraction**
+Next stage will include batch formant tracking (Praat/Parselmouth) for vowel comparisons, focusing on `/e/` tokens within rece vs. other lexical contexts.
+
+
+### Citation / Reference
+
+If you use or adapt this workflow, please cite:
+
+> Contreras Roa, L., & Jordanoska, I. (2025). Proxy-based phonetic alignment for Macedonian using WebMAUS-Spanish.
+> GitHub repository: lcontrerasroa/macedonian
+
+You may also reference this repository in HAL or Zenodo once archived:
+@misc{contrerasroa2025macedonian,
+  author       = {Leonardo Contreras Roa and Izabela Jordanoska},
+  title        = {Macedonian: Proxy-based phonetic alignment for Macedonian using WebMAUS-Spanish},
+  year         = {2025},
+  publisher    = {GitHub},
+  howpublished = {\url{https://github.com/lcontrerasroa/macedonian}},
+  note         = {Université de Picardie Jules Verne (EA 4295 CORPUS – LASO)}
+}
+
+
+**Leonardo Contreras Roa**
+*Université de Picardie Jules Verne*
+[](https://leonardocontrerasroa.com)

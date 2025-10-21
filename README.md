@@ -6,11 +6,30 @@ Scripts and data workflow for **phonetic alignment, annotation and formant extra
 ## Workflow: EAF → Cyrillic text → Spanish-like proxy → WebMAUS → TextGrid → back to EAF
 
 **Goal.**  
-Obtain phone-level alignments for Macedonian speech **when no native G2P exists**.  
+Obtain phone-level alignments for Macedonian speech when no native G2P (grapheme-to-phoneme transcription) exists.  
 Each Cyrillic tier is converted directly into a **Spanish-like proxy orthography**, aligned with WebMAUS (Spanish model), and merged back into the original ELAN file.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
 https://colab.research.google.com/github/lcontrerasroa/macedonian/blob/main/notebooks/EAF2MAUS.ipynb)
+
+
+---
+
+### Example: Macedonian → Spanish-like proxy
+
+Below are sample sentences showing how Macedonian Cyrillic is converted into the **Spanish-like proxy** used for WebMAUS alignment.
+
+| Macedonian (Cyrillic) | IPA (approx.) | Proxy (Spanish-like) | Comment |
+|------------------------|---------------|----------------------|----------|
+| ќе одам утре | /cɛ ˈɔdam ˈutrɛ/ | **kye odam utre** | `ќе` → *kye* for palatal /kʲe/ |
+| тој ја виде куќата | /tɔj ja ˈvidɛ ˈkut͡ɕata/ | **toy ya vide cukyata** | `куќата` → *kyata* (palatalized /k/) |
+| ѓаволот го виде | /ˈɟavɔlɔt ɡɔ ˈvidɛ/ | **guieavolot go vide** | `ѓ` → *guie* for palatal /ɟ/ |
+| мајка му готви | /ˈmajka mu ˈɡɔtvi/ | **mayca mu gotvi** | regular mapping |
+| жени плачат | /ˈʒɛni ˈplat͡ʃat/ | **yeni plachat** | `ж` → *y*, `ч` → *ch* |
+| лошо време | /ˈlɔʃɔ ˈvrɛmɛ/ | **loso vreme** | `ш` → *s*, simplified endings |
+| неќам да одам | /ˈnɛcam da ˈɔdam/ | **nekyam da odam** | `ќ` → *ky* |
+
+> These proxies are designed to preserve Macedonian phonotactics while maintaining compatibility with the **Spanish G2P model** used by WebMAUS.
 
 ---
 
@@ -184,10 +203,12 @@ You may also reference this repository in HAL or Zenodo once archived:
   year         = {2025},
   publisher    = {GitHub},
   howpublished = {\url{https://github.com/lcontrerasroa/macedonian}},
-  note         = {Université de Picardie Jules Verne (EA 4295 CORPUS – LASO)}
+  note         = {Université de Picardie Jules Verne (EA 4295 CORPUS)}
 }
 ```
 
 **Leonardo Contreras Roa**
+
 *Université de Picardie Jules Verne*
+
 [My website](https://leonardocontrerasroa.com)

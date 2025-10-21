@@ -135,6 +135,7 @@ flowchart TD
 
 ### Repository structure
 
+```
 macedonian/
 │
 ├── data/
@@ -147,6 +148,9 @@ macedonian/
 │   └── EAF2MAUS.ipynb      # main Colab notebook
 │
 └── README.md
+```
+
+---
 
 ### Known issues / Future work
 
@@ -162,6 +166,7 @@ Current reintegration from TextGrid back to EAF is manual. A conversion utility 
 **Formant and duration extraction**
 Next stage will include batch formant tracking (Praat/Parselmouth) for vowel comparisons, focusing on `/e/` tokens within rece vs. other lexical contexts.
 
+---
 
 ### Citation / Reference
 
@@ -171,6 +176,8 @@ If you use or adapt this workflow, please cite:
 > GitHub repository: lcontrerasroa/macedonian
 
 You may also reference this repository in HAL or Zenodo once archived:
+
+```
 @misc{contrerasroa2025macedonian,
   author       = {Leonardo Contreras Roa and Izabela Jordanoska},
   title        = {Macedonian: Proxy-based phonetic alignment for Macedonian using WebMAUS-Spanish},
@@ -179,8 +186,8 @@ You may also reference this repository in HAL or Zenodo once archived:
   howpublished = {\url{https://github.com/lcontrerasroa/macedonian}},
   note         = {Université de Picardie Jules Verne (EA 4295 CORPUS – LASO)}
 }
-
+```
 
 **Leonardo Contreras Roa**
 *Université de Picardie Jules Verne*
-[](https://leonardocontrerasroa.com)
+[My website](https://leonardocontrerasroa.com)

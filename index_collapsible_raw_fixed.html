@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Macedonian — reče/če extracts</title>
+
+<style>
+:root {
+  --bg: #f6f7f9;
+  --card: #ffffff;
+  --text: #333;
+  --accent: #8bb8e8;
+  --accent-light: #b8d4f5;
+  --border: #e3e6ec;
+  --shadow: rgba(0, 0, 0, 0.05);
+}
+
+body {
+  font-family: "Inter", "Segoe UI", Roboto, sans-serif;
+  background-color: var(--bg);
+  color: var(--text);
+  margin: 0;
+  padding: 2rem;
+  line-height: 1.6;
+}
+
+h1 {
+  text-align: center;
+  color: var(--accent);
+  font-weight: 600;
+  margin-bottom: 2rem;
+}
+
+details {
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  box-shadow: 0 2px 8px var(--shadow);
+  margin: 1rem 0;
+  overflow: hidden;
+  transition: all 0.2s ease-in-out;
+}
+
+summary {
+  cursor: pointer;
+  padding: 1rem 1.5rem;
+  background-color: var(--accent-light);
+  color: var(--text);
+  font-weight: 600;
+  font-size: 1rem;
+  list-style: none;
+  outline: none;
+  user-select: none;
+  transition: background-color 0.2s ease;
+}
+
+summary:hover {
+  background-color: var(--accent);
+  color: #fff;
+}
+
+details[open] summary {
+  border-bottom: 1px solid var(--border);
+  background-color: var(--accent);
+  color: #fff;
+}
+
+details > *:not(summary) {
+  padding: 1rem 1.5rem;
+}
+
+.item {
+  padding: 0.75rem 0;
+  border-bottom: 1px solid var(--border);
+}
+
+.tx {
+  font-weight: 600;
+  margin: 0.25rem 0;
+}
+
+.cyr {
+  font-family: 'Noto Sans','DejaVu Sans',Arial,sans-serif;
+  margin: 0.25rem 0;
+}
+
+audio {
+  width: 100%;
+  margin-top: 0.5rem;
+  border-radius: 6px;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #1e1f26;
+    --card: #2a2b33;
+    --text: #f5f5f7;
+    --accent: #9fc5f8;
+    --accent-light: #7fa8e6;
+    --border: #3c3d46;
+    --shadow: rgba(0, 0, 0, 0.3);
+  }
+}
+</style>
+
+<body>
+  <h1>reče / če — extracts</h1>
+
+  <!-- Example structure -->
+  <details>
+    <summary>Macedonian_decata_so_zlatna_kosa</summary>
+    <div class="item">
+      <div class="tx">tx@SP1 text here</div>
+      <div class="cyr">cyr@SP1 text here</div>
+      <audio controls preload="none">
+        <source src="https://raw.githubusercontent.com/lcontrerasroa/macedonian/main/data/site/Macedonian_decata_so_zlatna_kosa_001_35968-38232.ogg" type="audio/ogg">
+      </audio>
+    </div>
+
+    <div class="item">
+      <div class="tx">next tx text</div>
+      <div class="cyr">next cyr text</div>
+      <audio controls preload="none">
+        <source src="https://raw.githubusercontent.com/lcontrerasroa/macedonian/main/data/site/Macedonian_decata_so_zlatna_kosa_002_70335-72166.ogg" type="audio/ogg">
+      </audio>
+    </div>
+  </details>
+
+  <!-- Repeat similar <details> blocks for each WAV group -->
+</body>
+</html>
